@@ -259,4 +259,3 @@
 0.0.0.0		ya.ru
 0.0.0.0		yandex.ru
 0.0.0.0		yts-official.mx
-0.0.0.0		
