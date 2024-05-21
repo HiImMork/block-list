@@ -1,10 +1,11 @@
 # Mork's Block List
 
-This repository contains files, mainly files that is used to block websites in host file format. I mostly include websites that I think poses potential harm to users online such as clone websites of popular services, questionable websites, websites with low ethical standards, and other websites that I generally don't like or trust.
+  Mork's Block List is a list of websites that me (Mork) has deemed unsafe for some reason and websites that I have 0 trust or bad reputation. This list is formated in the ancient style of host files. It is specifically designed to be used on Adaway for Android. 
 
 
-Please don't expect frequent updates because I only add domains here based on my activity. Feel free to download the file of your choice and modify it as you wish.
+How does it works?
+  As already mentioned, this list is formatted in host file format where the domain of a website is redirected to the localhost `(0.0.0.0)`. When a user opens a website included in this list, instead of seeing the website, they will be given a blank screen or a connection timeout error preventing the user from accessing said website.
 
 
-If you have further questions, suggestions, or any opinions to improve this repo, feel free to contact me via discord:
-https://discord.com/users/566384603007549480
+If you have further question or suggestions, feel free to contact me via discord:
+  https://discord.com/users/566384603007549480
