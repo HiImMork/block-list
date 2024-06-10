@@ -82,6 +82,7 @@
 0.0.0.0 cafebazaar.ir
 0.0.0.0 cafebazaar.ir
 0.0.0.0 catmouseapk.org
+0.0.0.0 ccleaner.com
 0.0.0.0 cctv.com
 0.0.0.0 cgptonline.tech
 0.0.0.0 cgtn.com
@@ -99,6 +100,7 @@
 0.0.0.0 en.uptodown.com
 0.0.0.0 english.cctv.com
 0.0.0.0 english.www.gov.cn
+0.0.0.0 filehippo.com
 0.0.0.0 fileplanet.com
 0.0.0.0 finance.yahoo.com
 0.0.0.0 firgirlrepacks.org
@@ -152,6 +154,7 @@
 0.0.0.0 jeu.video
 0.0.0.0 kickass.help
 0.0.0.0 kickasstorrents.to
+0.0.0.0 kingdomofjesuschrist.org
 0.0.0.0 kissanime.com.ru
 0.0.0.0 kissanime.help
 0.0.0.0 kissanimeru.com
@@ -232,9 +235,10 @@
 0.0.0.0 techzapk.net
 0.0.0.0 techzapk.net
 0.0.0.0 telegram.org
+0.0.0.0 tekpon.com
 0.0.0.0 www.temu.com
 0.0.0.0 territorial-io.com
-0.0.0.0 Thekickasstorrents.com
+0.0.0.0 thekickasstorrents.com
 0.0.0.0 thepiratebay.org
 0.0.0.0 thepiratebay3.co
 0.0.0.0 torrentfreak.com
@@ -251,10 +255,11 @@
 0.0.0.0 www.agame.com
 0.0.0.0 www.bittorrent.com
 0.0.0.0 www.crazygames.com
-0.0.0.0 www.freesteamkeys.com
+0.0.0.0 www.drivereasy.com
 0.0.0.0 www.gameflare.com
 0.0.0.0 www.gamerpower.com
 0.0.0.0 www.gov.cn
+0.0.0.0 www.iobit.com
 0.0.0.0 www.magiskmodule.com
 0.0.0.0 www.miniplay.com
 0.0.0.0 www.pirateproxy-bay.com
@@ -268,8 +273,6 @@
 0.0.0.0 ya.ru
 0.0.0.0 yandex.ru
 0.0.0.0 yts-official.mx
-
-
 
 
 # Add new entries above this line
