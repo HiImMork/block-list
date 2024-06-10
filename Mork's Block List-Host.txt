@@ -228,7 +228,7 @@
 0.0.0.0 techzapk.net
 0.0.0.0 techzapk.net
 0.0.0.0 telegram.org
-0.0.0.0   www.temu.com
+0.0.0.0 www.temu.com
 0.0.0.0 territorial-io.com
 0.0.0.0 Thekickasstorrents.com
 0.0.0.0 thepiratebay.org
@@ -246,6 +246,7 @@
 0.0.0.0 ww6.gogoanimes.org
 0.0.0.0 www.agame.com
 0.0.0.0 www.bittorrent.com
+0.0.0.0 www.utorrent.com
 0.0.0.0 www.crazygames.com
 0.0.0.0 www.gameflare.com
 0.0.0.0 www.gov.cn
@@ -254,7 +255,6 @@
 0.0.0.0 www.pirateproxy-bay.com
 0.0.0.0 www.silvergames.com
 0.0.0.0 www.smni.com
-0.0.0.0 www.utorrent.com
 0.0.0.0 www4.yts.nz
 0.0.0.0 www7.gogoanime.me
 0.0.0.0 www9.gogoanimes.fi
@@ -264,6 +264,10 @@
 0.0.0.0 yts-official.mx
 0.0.0.0 bole90.com
 0.0.0.0 bole9.com
+0.0.0.0 www.freesteamkeys.com
+0.0.0.0 gamesbolt.com
+0.0.0.0 www.gamerpower.com
+0.0.0.0 freegames.codes
 
 # Add new entries above this line
 # Template
