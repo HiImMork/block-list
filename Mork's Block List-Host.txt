@@ -264,3 +264,8 @@
 0.0.0.0 yts-official.mx
 0.0.0.0 bole90.com
 0.0.0.0 bole9.com
+0.0.0.0 somethingphishy.ddns.net
+
+# Add new entries above this line
+# Template
+# 0.0.0.0 
