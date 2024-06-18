@@ -15,6 +15,10 @@
 0.0.0.0 9animeto.io
 0.0.0.0 9anime-tv.com
 0.0.0.0 9animetv.to
+0.0.0.0 acepotph.eu
+0.0.0.0 acejackpot1.com
+0.0.0.0 acejackpot2.com
+0.0.0.0 acejackpot3.com
 0.0.0.0 acmarket-app.com
 0.0.0.0 adchoices.com
 0.0.0.0 agar.lol
@@ -23,6 +27,8 @@
 0.0.0.0 Agario.ORG.Uk
 0.0.0.0 agario.tube
 0.0.0.0 agar-pro.club
+0.0.0.0 alibaba.com
+0.0.0.0 alibabagroup.com
 0.0.0.0 alternativeto.net
 0.0.0.0 an1.com
 0.0.0.0 an1.com.in
@@ -150,6 +156,7 @@
 0.0.0.0 infinite-craft.com
 0.0.0.0 infinite-craft.io
 0.0.0.0 infinitecraft.net
+0.0.0.0 ir.baidu.com
 0.0.0.0 izzysoft.de
 0.0.0.0 jeu.video
 0.0.0.0 kickass.help
@@ -233,7 +240,6 @@
 0.0.0.0 techbigs.com
 0.0.0.0 techylist.com
 0.0.0.0 techzapk.net
-0.0.0.0 techzapk.net
 0.0.0.0 telegram.org
 0.0.0.0 tekpon.com
 0.0.0.0 www.temu.com
@@ -252,7 +258,9 @@
 0.0.0.0 ww3.gogoanime.com.co
 0.0.0.0 ww4.gogoanime2.org
 0.0.0.0 ww6.gogoanimes.org
+0.0.0.0 www.acejackpot888.com
 0.0.0.0 www.agame.com
+0.0.0.0 www.baidu.com
 0.0.0.0 www.bittorrent.com
 0.0.0.0 www.crazygames.com
 0.0.0.0 www.drivereasy.com
@@ -265,7 +273,10 @@
 0.0.0.0 www.pirateproxy-bay.com
 0.0.0.0 www.silvergames.com
 0.0.0.0 www.smni.com
+0.0.0.0 www.tencent.com
+0.0.0.0 www.tencentcloud.com
 0.0.0.0 www.utorrent.com
+0.0.0.0 www.youku.tv
 0.0.0.0 www4.yts.nz
 0.0.0.0 www7.gogoanime.me
 0.0.0.0 www9.gogoanimes.fi
@@ -273,7 +284,7 @@
 0.0.0.0 ya.ru
 0.0.0.0 yandex.ru
 0.0.0.0 yts-official.mx
-
+0.0.0.0 youku.com
 
 # Add new entries above this line
 # Template
