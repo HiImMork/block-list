@@ -21,6 +21,7 @@
 0.0.0.0 acejackpot3.com
 0.0.0.0 acmarket-app.com
 0.0.0.0 adchoices.com
+0.0.0.0 agbrief.com
 0.0.0.0 agar.lol
 0.0.0.0 agario.com
 0.0.0.0 agario.fun
@@ -78,8 +79,14 @@
 0.0.0.0 appteka.store
 0.0.0.0 aptoide.com
 0.0.0.0 aptoide.com
+0.0.0.0 arenaplus.ph
+0.0.0.0 arenaplus.net.ph
+0.0.0.0 arenaplus8.ph
 0.0.0.0 atlaq.com
 0.0.0.0 bard.com
+0.0.0.0 bingoplus.com
+0.0.0.0 
+0.0.0.0 
 0.0.0.0 bole90.com
 0.0.0.0 bole9.com
 0.0.0.0 bruss.org.ru
@@ -95,6 +102,7 @@
 0.0.0.0 chataigpt.org
 0.0.0.0 chatgpt.com
 0.0.0.0 cnet.com
+0.0.0.0 dclottery.com
 0.0.0.0 dfast.app
 0.0.0.0 dodi-repack.com
 0.0.0.0 doditorrent.org
@@ -168,6 +176,9 @@
 0.0.0.0 kissmanga.in
 0.0.0.0 kissmanga.org
 0.0.0.0 latestmodapks.com
+0.0.0.0 live.bingoplus.net.ph
+0.0.0.0 loadcentral.com.ph
+0.0.0.0 login.bingoplus.net.ph
 0.0.0.0 luckyparcher.tools
 0.0.0.0 luckypatchers.com
 0.0.0.0 luckypatchers.info
@@ -206,6 +217,7 @@
 0.0.0.0 nosteam.ro
 0.0.0.0 pirate-bay-proxy.org
 0.0.0.0 pirateproxy-bay.com
+0.0.0.0 playbingoplus.com
 0.0.0.0 porngameshub.com
 0.0.0.0 qq.com
 0.0.0.0 quickapks.com
@@ -254,6 +266,7 @@
 0.0.0.0 v8cc6.com
 0.0.0.0 web.telegram.org
 0.0.0.0 weibo.com
+0.0.0.0 wilottery.com
 0.0.0.0 wizcase.com
 0.0.0.0 ww3.gogoanime.com.co
 0.0.0.0 ww4.gogoanime2.org
@@ -261,6 +274,7 @@
 0.0.0.0 www.acejackpot888.com
 0.0.0.0 www.agame.com
 0.0.0.0 www.baidu.com
+0.0.0.0 www.bingoblitz.com
 0.0.0.0 www.bittorrent.com
 0.0.0.0 www.crazygames.com
 0.0.0.0 www.drivereasy.com
@@ -268,6 +282,7 @@
 0.0.0.0 www.gamerpower.com
 0.0.0.0 www.gov.cn
 0.0.0.0 www.iobit.com
+0.0.0.0 www.lapakgaming.com
 0.0.0.0 www.magiskmodule.com
 0.0.0.0 www.miniplay.com
 0.0.0.0 www.pirateproxy-bay.com
@@ -275,6 +290,7 @@
 0.0.0.0 www.smni.com
 0.0.0.0 www.tencent.com
 0.0.0.0 www.tencentcloud.com
+0.0.0.0 www.u7buy.com
 0.0.0.0 www.utorrent.com
 0.0.0.0 www.youku.tv
 0.0.0.0 www4.yts.nz
