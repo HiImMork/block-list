@@ -85,8 +85,6 @@
 0.0.0.0 atlaq.com
 0.0.0.0 bard.com
 0.0.0.0 bingoplus.com
-0.0.0.0 
-0.0.0.0 
 0.0.0.0 bole90.com
 0.0.0.0 bole9.com
 0.0.0.0 bruss.org.ru
@@ -278,10 +276,12 @@
 0.0.0.0 www.baidu.com
 0.0.0.0 www.bingoblitz.com
 0.0.0.0 www.bittorrent.com
+0.0.0.0 www.coingecko.com
 0.0.0.0 www.crazygames.com
 0.0.0.0 www.drivereasy.com
 0.0.0.0 www.gameflare.com
 0.0.0.0 www.gamerpower.com
+0.0.0.0 www.getgrass.io
 0.0.0.0 www.gov.cn
 0.0.0.0 www.iobit.com
 0.0.0.0 www.justanswer.com
