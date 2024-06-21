@@ -125,6 +125,7 @@
 0.0.0.0 freetetris.org
 0.0.0.0 gameforge.com
 0.0.0.0 gamesbolt.com
+0.0.0.0 geekcareonline.co
 0.0.0.0 getmangahub.com
 0.0.0.0 getmodsapk.com
 0.0.0.0 getmodsapk.io
@@ -167,6 +168,7 @@
 0.0.0.0 ir.baidu.com
 0.0.0.0 izzysoft.de
 0.0.0.0 jeu.video
+0.0.0.0 kick.com
 0.0.0.0 kickass.help
 0.0.0.0 kickasstorrents.to
 0.0.0.0 kingdomofjesuschrist.org
@@ -282,6 +284,7 @@
 0.0.0.0 www.gamerpower.com
 0.0.0.0 www.gov.cn
 0.0.0.0 www.iobit.com
+0.0.0.0 www.justanswer.com
 0.0.0.0 www.lapakgaming.com
 0.0.0.0 www.magiskmodule.com
 0.0.0.0 www.miniplay.com
