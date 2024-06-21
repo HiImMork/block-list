@@ -74,6 +74,7 @@
 0.0.0.0 apksos.com
 0.0.0.0 apk-store.org
 0.0.0.0 apktoy.com
+0.0.0.0 app.getgrass.io
 0.0.0.0 appbrain.com
 0.0.0.0 appsgag.com
 0.0.0.0 appteka.store
