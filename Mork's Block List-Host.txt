@@ -25,7 +25,7 @@
 0.0.0.0 agar.lol
 0.0.0.0 agario.com
 0.0.0.0 agario.fun
-0.0.0.0 Agario.ORG.Uk
+0.0.0.0 Agario.org.Uk
 0.0.0.0 agario.tube
 0.0.0.0 agar-pro.club
 0.0.0.0 alibaba.com
@@ -101,6 +101,7 @@
 0.0.0.0 chataigpt.org
 0.0.0.0 chatgpt.com
 0.0.0.0 cnet.com
+0.0.0.0 cryptozooworld.com
 0.0.0.0 dclottery.com
 0.0.0.0 dfast.app
 0.0.0.0 dodi-repack.com
