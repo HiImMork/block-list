@@ -217,6 +217,7 @@
 0.0.0.0 nhentaibr.com
 0.0.0.0 nhentaiyaioi.net
 0.0.0.0 nosteam.ro
+0.0.0.0 ph-gov-mysss.mmdagov-ph.com
 0.0.0.0 pirate-bay-proxy.org
 0.0.0.0 pirateproxy-bay.com
 0.0.0.0 playbingoplus.com
@@ -249,6 +250,7 @@
 0.0.0.0 softlay.com
 0.0.0.0 softonic.com
 0.0.0.0 someapps.org
+0.0.0.0 sssmy.lc
 0.0.0.0 tachiyomi.pro
 0.0.0.0 takemod.com
 0.0.0.0 techbigs.com
@@ -306,6 +308,8 @@
 0.0.0.0 yandex.ru
 0.0.0.0 yts-official.mx
 0.0.0.0 youku.com
+
+
 
 # Add new entries above this line
 # Template
