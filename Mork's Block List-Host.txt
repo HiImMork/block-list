@@ -15,6 +15,7 @@
 0.0.0.0 9animeto.io
 0.0.0.0 9anime-tv.com
 0.0.0.0 9animetv.to
+0.0.0.0 accounts.kakao.com
 0.0.0.0 acepotph.eu
 0.0.0.0 acejackpot1.com
 0.0.0.0 acejackpot2.com
@@ -161,6 +162,7 @@
 0.0.0.0 happymod.to
 0.0.0.0 happymodpro.com
 0.0.0.0 hentaihaven.org
+0.0.0.0 id.kakaowebtoon.com
 0.0.0.0 ihappymod.com
 0.0.0.0 infinite-craft.com
 0.0.0.0 infinite-craft.io
@@ -168,6 +170,8 @@
 0.0.0.0 ir.baidu.com
 0.0.0.0 izzysoft.de
 0.0.0.0 jeu.video
+0.0.0.0 kakao.com
+0.0.0.0 kakaocorp.com
 0.0.0.0 kick.com
 0.0.0.0 kickass.help
 0.0.0.0 kickasstorrents.to
@@ -240,6 +244,7 @@
 0.0.0.0 rule34video.co
 0.0.0.0 s.youtube.com
 0.0.0.0 saashub.com
+0.0.0.0 saitesbroscaterers.com
 0.0.0.0 scmp.com
 0.0.0.0 semrush.com
 0.0.0.0 sigmally.com
@@ -253,6 +258,7 @@
 0.0.0.0 sssmy.lc
 0.0.0.0 tachiyomi.pro
 0.0.0.0 takemod.com
+0.0.0.0 tapas.io
 0.0.0.0 techbigs.com
 0.0.0.0 techylist.com
 0.0.0.0 techzapk.net
@@ -260,6 +266,7 @@
 0.0.0.0 tekpon.com
 0.0.0.0 www.temu.com
 0.0.0.0 territorial-io.com
+0.0.0.0 th.kakaowebtoon.com
 0.0.0.0 thekickasstorrents.com
 0.0.0.0 thepiratebay.org
 0.0.0.0 thepiratebay3.co
@@ -269,6 +276,7 @@
 0.0.0.0 uptodown.com
 0.0.0.0 v8cc6.com
 0.0.0.0 web.telegram.org
+0.0.0.0 webtoon.kakao.com
 0.0.0.0 weibo.com
 0.0.0.0 wilottery.com
 0.0.0.0 wizcase.com
