@@ -166,7 +166,6 @@
 0.0.0.0 happymod.to
 0.0.0.0 happymodpro.com
 0.0.0.0 hentaihaven.org
-0.0.0.0 highcpmgate.com
 0.0.0.0 id.kakaowebtoon.com
 0.0.0.0 ihappymod.com
 0.0.0.0 infinite-craft.com
@@ -302,6 +301,7 @@
 0.0.0.0 www.gamerpower.com
 0.0.0.0 www.getgrass.io
 0.0.0.0 www.gov.cn
+0.0.0.0 www.highcpmgate.com
 0.0.0.0 www.iobit.com
 0.0.0.0 www.justanswer.com
 0.0.0.0 www.lapakgaming.com
