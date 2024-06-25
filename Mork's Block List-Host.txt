@@ -92,6 +92,7 @@
 0.0.0.0 bruss.org.ru
 0.0.0.0 bunnycdn.ru
 0.0.0.0 business.facebook.com
+0.0.0.0 buzzersidewalkcathedral.com
 0.0.0.0 cafebazaar.ir
 0.0.0.0 cafebazaar.ir
 0.0.0.0 catmouseapk.org
@@ -105,6 +106,7 @@
 0.0.0.0 cryptozooworld.com
 0.0.0.0 dclottery.com
 0.0.0.0 dfast.app
+0.0.0.0 disheartensuitebadly.com
 0.0.0.0 dodi-repack.com
 0.0.0.0 doditorrent.org
 0.0.0.0 dogas.info
@@ -115,6 +117,7 @@
 0.0.0.0 en.uptodown.com
 0.0.0.0 english.cctv.com
 0.0.0.0 english.www.gov.cn
+0.0.0.0 eweconciliate.com
 0.0.0.0 filehippo.com
 0.0.0.0 fileplanet.com
 0.0.0.0 finance.yahoo.com
@@ -146,6 +149,7 @@
 0.0.0.0 gogoanimes.org
 0.0.0.0 gogoanimex.nl
 0.0.0.0 googleads.com
+0.0.0.0 gov-mmda.tw
 0.0.0.0 graph.facebook.com
 0.0.0.0 gumroad.com
 0.0.0.0 guru99.com
@@ -162,6 +166,7 @@
 0.0.0.0 happymod.to
 0.0.0.0 happymodpro.com
 0.0.0.0 hentaihaven.org
+0.0.0.0 highcpmgate.com
 0.0.0.0 id.kakaowebtoon.com
 0.0.0.0 ihappymod.com
 0.0.0.0 infinite-craft.com
@@ -226,6 +231,7 @@
 0.0.0.0 pirateproxy-bay.com
 0.0.0.0 playbingoplus.com
 0.0.0.0 porngameshub.com
+0.0.0.0 profitablegatecpm.com
 0.0.0.0 qq.com
 0.0.0.0 quickapks.com
 0.0.0.0 r.agar.io
@@ -234,6 +240,7 @@
 0.0.0.0 rarbg.to
 0.0.0.0 rarbg.tw
 0.0.0.0 rarbg-official.com
+0.0.0.0 respectfullyalternate.com
 0.0.0.0 revanced.net
 0.0.0.0 revanced.to
 0.0.0.0 revancedapk.org
@@ -316,8 +323,6 @@
 0.0.0.0 yandex.ru
 0.0.0.0 yts-official.mx
 0.0.0.0 youku.com
-
-
 
 # Add new entries above this line
 # Template
