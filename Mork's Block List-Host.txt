@@ -260,6 +260,7 @@
 0.0.0.0 soft112.com
 0.0.0.0 softlay.com
 0.0.0.0 softonic.com
+0.0.0.0 someapp.com
 0.0.0.0 someapps.org
 0.0.0.0 sssmy.lc
 0.0.0.0 tachiyomi.pro
