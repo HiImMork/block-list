@@ -1,3 +1,5 @@
+# This host file is a fork of Mork's Block List (https://github.com/HiImMork/block-list/edit/main/Mork's%20Block%20List-Host.txt - Home: https://github.com/HiImMork/block-list). It contains potentially malicious websites from the main branch and websites that were blocked due to "political" and "reputational" reasons were removed.
+
 0.0.0.0 1337.tw
 0.0.0.0 1st-kissmanga.com
 0.0.0.0 9anime.com.pl
