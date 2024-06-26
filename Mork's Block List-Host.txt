@@ -282,6 +282,7 @@
 0.0.0.0 tricksvile.com
 0.0.0.0 uptodown.com
 0.0.0.0 v8cc6.com
+0.0.0.0 vwv.gogoanime.com.ru
 0.0.0.0 web.telegram.org
 0.0.0.0 webtoon.kakao.com
 0.0.0.0 weibo.com
