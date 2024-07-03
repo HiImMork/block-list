@@ -215,6 +215,8 @@
 0.0.0.0 monkey-type.org
 0.0.0.0 monkeytype.xyz
 0.0.0.0 moviekhhd.biz
+0.0.0.0 moviestreamforyou.online
+0.0.0.0 moviestreamplay.alchosting.xyz
 0.0.0.0 nhentai.app
 0.0.0.0 nhentai.biz
 0.0.0.0 nhentai.com
