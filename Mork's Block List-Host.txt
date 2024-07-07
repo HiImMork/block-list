@@ -102,6 +102,7 @@
 0.0.0.0 cgtn.com
 0.0.0.0 chataigpt.org
 0.0.0.0 chatgpt.com
+0.0.0.0 cinehd.in
 0.0.0.0 cnet.com
 0.0.0.0 cryptozooworld.com
 0.0.0.0 dclottery.com
