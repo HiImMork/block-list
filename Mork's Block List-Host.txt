@@ -130,6 +130,7 @@
 0.0.0.0 freetetris.org
 0.0.0.0 gameforge.com
 0.0.0.0 gamesbolt.com
+0.0.0.0 gcash.asia
 0.0.0.0 geekcareonline.co
 0.0.0.0 getmangahub.com
 0.0.0.0 getmodsapk.com
