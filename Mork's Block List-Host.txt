@@ -95,7 +95,6 @@
 0.0.0.0 breachpotatoesmelodramatic.com
 0.0.0.0 bruss.org.ru
 0.0.0.0 bunnycdn.ru
-0.0.0.0 business.facebook.com
 0.0.0.0 buzzersidewalkcathedral.com
 0.0.0.0 cafebazaar.ir
 0.0.0.0 cafebazaar.ir
