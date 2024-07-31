@@ -1,6 +1,8 @@
 0.0.0.0 1337.tw
 0.0.0.0 1377x.to
 0.0.0.0 1st-kissmanga.com
+0.0.0.0 360tour.philrice.gov.ph
+0.0.0.0 62.146.232.72
 0.0.0.0 9anime.com.pl
 0.0.0.0 9anime.gs
 0.0.0.0 9anime.id
@@ -16,19 +18,19 @@
 0.0.0.0 9anime-tv.com
 0.0.0.0 9animetv.to
 0.0.0.0 accounts.kakao.com
-0.0.0.0 acepotph.eu
 0.0.0.0 acejackpot1.com
 0.0.0.0 acejackpot2.com
 0.0.0.0 acejackpot3.com
+0.0.0.0 acepotph.eu
 0.0.0.0 acmarket-app.com
 0.0.0.0 adchoices.com
-0.0.0.0 agbrief.com
 0.0.0.0 agar.lol
 0.0.0.0 agario.com
 0.0.0.0 agario.fun
 0.0.0.0 Agario.org.Uk
 0.0.0.0 agario.tube
 0.0.0.0 agar-pro.club
+0.0.0.0 agbrief.com
 0.0.0.0 alibaba.com
 0.0.0.0 alibabagroup.com
 0.0.0.0 alternativeto.net
@@ -81,14 +83,16 @@
 0.0.0.0 appteka.store
 0.0.0.0 aptoide.com
 0.0.0.0 aptoide.com
-0.0.0.0 arenaplus.ph
 0.0.0.0 arenaplus.net.ph
+0.0.0.0 arenaplus.ph
 0.0.0.0 arenaplus8.ph
 0.0.0.0 atlaq.com
 0.0.0.0 bard.com
+0.0.0.0 bet88.ph
 0.0.0.0 bingoplus.com
-0.0.0.0 bole90.com
 0.0.0.0 bole9.com
+0.0.0.0 bole90.com
+0.0.0.0 breachpotatoesmelodramatic.com
 0.0.0.0 bruss.org.ru
 0.0.0.0 bunnycdn.ru
 0.0.0.0 business.facebook.com
@@ -135,6 +139,7 @@
 0.0.0.0 getmangahub.com
 0.0.0.0 getmodsapk.com
 0.0.0.0 getmodsapk.io
+0.0.0.0 giftredeem.io
 0.0.0.0 gogoanime.cl
 0.0.0.0 gogoanime.com.co
 0.0.0.0 gogoanime.me
@@ -273,9 +278,8 @@
 0.0.0.0 techbigs.com
 0.0.0.0 techylist.com
 0.0.0.0 techzapk.net
-0.0.0.0 telegram.org
 0.0.0.0 tekpon.com
-0.0.0.0 www.temu.com
+0.0.0.0 telegram.org
 0.0.0.0 territorial-io.com
 0.0.0.0 th.kakaowebtoon.com
 0.0.0.0 thekickasstorrents.com
@@ -289,12 +293,15 @@
 0.0.0.0 vwv.gogoanime.com.ru
 0.0.0.0 web.telegram.org
 0.0.0.0 webtoon.kakao.com
+0.0.0.0 weeklybucks.com
 0.0.0.0 weibo.com
 0.0.0.0 wilottery.com
 0.0.0.0 wizcase.com
 0.0.0.0 ww3.gogoanime.com.co
 0.0.0.0 ww4.gogoanime2.org
 0.0.0.0 ww6.gogoanimes.org
+0.0.0.0 www.77tbet.bet
+0.0.0.0 www.90jilivip.bar
 0.0.0.0 www.acejackpot888.com
 0.0.0.0 www.agame.com
 0.0.0.0 www.baidu.com
@@ -313,9 +320,12 @@
 0.0.0.0 www.lapakgaming.com
 0.0.0.0 www.magiskmodule.com
 0.0.0.0 www.miniplay.com
+0.0.0.0 www.pinan.gov.ph
 0.0.0.0 www.pirateproxy-bay.com
+0.0.0.0 www.psbaqc.edu.ph
 0.0.0.0 www.silvergames.com
 0.0.0.0 www.smni.com
+0.0.0.0 www.temu.com
 0.0.0.0 www.tencent.com
 0.0.0.0 www.tencentcloud.com
 0.0.0.0 www.u7buy.com
@@ -327,8 +337,9 @@
 0.0.0.0 xranks.com
 0.0.0.0 ya.ru
 0.0.0.0 yandex.ru
-0.0.0.0 yts-official.mx
 0.0.0.0 youku.com
+0.0.0.0 yts-official.mx
+0.0.0.0 
 
 # Add new entries above this line
 # Template
