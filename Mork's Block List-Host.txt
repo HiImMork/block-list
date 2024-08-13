@@ -23,7 +23,6 @@
 0.0.0.0 acejackpot3.com
 0.0.0.0 acepotph.eu
 0.0.0.0 acmarket-app.com
-0.0.0.0 adchoices.com
 0.0.0.0 agar.lol
 0.0.0.0 agario.com
 0.0.0.0 agario.fun
