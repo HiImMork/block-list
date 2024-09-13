@@ -133,6 +133,7 @@
 0.0.0.0 gameforge.com
 0.0.0.0 gamesbolt.com
 0.0.0.0 gcash.asia
+0.0.0.0 gcsh.me
 0.0.0.0 geekcareonline.co
 0.0.0.0 getmangahub.com
 0.0.0.0 getmodsapk.com
@@ -176,6 +177,7 @@
 0.0.0.0 infinite-craft.com
 0.0.0.0 infinite-craft.io
 0.0.0.0 infinitecraft.net
+0.0.0.0 inventum.kh.ua
 0.0.0.0 ir.baidu.com
 0.0.0.0 izzysoft.de
 0.0.0.0 jeu.video
