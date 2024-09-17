@@ -339,7 +339,21 @@
 0.0.0.0 yandex.ru
 0.0.0.0 youku.com
 0.0.0.0 yts-official.mx
+0.0.0.0 ilulsoab.net
+0.0.0.0 seduceboozeblackmail.com
+0.0.0.0 melba-926641-baumbach.asf.my.id
+0.0.0.0 tendtenzs.com
+0.0.0.0 redr.me
+0.0.0.0 bangflix.site
+0.0.0.0 acropholis.site
+0.0.0.0 shartimien.site
+0.0.0.0 unclock.site
+0.0.0.0 lovebirrd.site
+0.0.0.0 countlessdispleased.com
+0.0.0.0 hedwigflooredventure.com
+0.0.0.0 www.cpmrevenuegate.com
 0.0.0.0 
+
 
 # Add new entries above this line
 # Template
