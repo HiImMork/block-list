@@ -353,8 +353,23 @@
 0.0.0.0 hedwigflooredventure.com
 0.0.0.0 www.cpmrevenuegate.com
 0.0.0.0 motorloan1.com
-0.0.0.0 
-
+0.0.0.0 actknuckleruinous.com
+0.0.0.0 rebrand.ly
+0.0.0.0 delusionalrevolt.com
+0.0.0.0 sites.google.com
+0.0.0.0 elzmovies.site
+0.0.0.0 rb.gy
+0.0.0.0 dismissportraypioneer.com
+0.0.0.0 emran-movie.weebly.com
+0.0.0.0 rb.social-card-share.top
+0.0.0.0 siblinggut.com
+0.0.0.0 moviebaz.xyz
+0.0.0.0 geejetag.com
+0.0.0.0 www.movifulllink.my.id
+0.0.0.0 exceptingpealstipulate.com
+0.0.0.0 agreedairdalton.com
+0.0.0.0 circumscribeswear.com
+0.0.0.0 www.cpmrevenuegate.com
 
 # Add new entries above this line
 # Template
