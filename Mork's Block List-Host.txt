@@ -373,6 +373,11 @@
 0.0.0.0 agreedairdalton.com
 0.0.0.0 circumscribeswear.com
 0.0.0.0 www.cpmrevenuegate.com
+0.0.0.0 phlwin8.com.ph
+0.0.0.0 Globe.gdn
+0.0.0.0 www.hello-win.vip
+0.0.0.0 www.hellowin.cc
+0.0.0.0 www.alpha-betlottery.com
 
 --------------------------------------------------------------------------------------------------
 # No new entries/lines should be added below the line above.
