@@ -378,6 +378,7 @@
 0.0.0.0 www.hello-win.vip
 0.0.0.0 www.hellowin.cc
 0.0.0.0 www.alpha-betlottery.com
+0.0.0.0 alphabet747.live
 
 --------------------------------------------------------------------------------------------------
 # No new entries/lines should be added below the line above.
