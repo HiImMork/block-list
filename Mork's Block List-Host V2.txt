@@ -1,6 +1,17 @@
 !
 ! Title: Morks Blocklist V2
-! Description: This blocklist contains domains that I (Mork) deemed untrustworthy and/or dangerous.
+! Description: Domains that I (Mork) deemed untrustworthy and/or dangerous.
+! Homepage: https://github.com/HiImMork/block-list
+! Last Modified: 02/10/2024 - 1:14 PM +8 GMT
+! 
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
+! Special Thanks for AdGuard for documentation and example. It helped me build this block list lmao.
+! 
+! 
+! 
 
 ||1337.tw^
 ||1377x.to^
