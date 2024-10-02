@@ -2,306 +2,388 @@
 ! Title: Morks Blocklist V2
 ! Description: This blocklist contains domains that I (Mork) deemed untrustworthy and/or dangerous.
 
-|| 1337x.to^
-|| 1337.tw^
-|| 1st-kissmanga.com^
-|| 360tour.philrice.gov.ph^
-|| 62.146.232.72^
-|| 9anime^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
-|| ^
+||1337.tw^
+||1377x.to^
+||1st-kissmanga.com^
+||360tour.philrice.gov.ph^
+||62.146.232.72^
+||9anime.com.pl^
+||9anime.gs^
+||9anime.id^
+||9anime.me^
+||9anime.ph^
+||9anime.pl^
+||9anime.se^
+||9anime.to^
+||9animehq.to^
+||9animes.org^
+||9animes.ph^
+||9animeto.io^
+||9anime-tv.com^
+||9animetv.to^
+||accounts.kakao.com^
+||acejackpot1.com^
+||acejackpot2.com^
+||acejackpot3.com^
+||acepotph.eu^
+||acmarket-app.com^
+||acropholis.site^
+||actknuckleruinous.com^
+||agar.lol^
+||agario.com^
+||agario.fun^
+||Agario.org.Uk^
+||agario.tube^
+||agar-pro.club^
+||agbrief.com^
+||agreedairdalton.com^
+||alibaba.com^
+||alibabagroup.com^
+||alphabet747.live^
+||alternativeto.net^
+||an1.com.in^
+||an1.com^
+||an1.su^
+||androidapksbox.com^
+||androidapksfree.com^
+||androidblue.com^
+||androidhd.com^
+||androidout.com^
+||animetime.pw^
+||aniwave.ee^
+||aniwave.es^
+||aniwave.to.tv^
+||apk.cafe^
+||apk.tools^
+||apk20.com^
+||apkboat.com^
+||apkbolt.com^
+||apkcima.com^
+||apkcombo.com^
+||apkcombo.id^
+||apkcombo.store^
+||apkdone.co.in^
+||apkdone.com^
+||apk-done.com^
+||apkdone.mobi^
+||apkfab.com^
+||apkfuel.com^
+||apkkey.com^
+||apklinker.com^
+||apkmb.com^
+||apkmodget.com^
+||apkmody.com^
+||apkmody.fun^
+||apkmody.io^
+||apkmonk.com^
+||apkplanet.net^
+||apkresult.com^
+||apkresult.net^
+||apksfull.com^
+||apkshub.com^
+||apksos.com^
+||apk-store.org^
+||apktoy.com^
+||app.getgrass.io^
+||appbrain.com^
+||appsgag.com^
+||appteka.store^
+||aptoide.com^
+||aptoide.com^
+||arenaplus.net.ph^
+||arenaplus.ph^
+||arenaplus8.ph^
+||atlaq.com^
+||bangflix.site^
+||bard.com^
+||bet88.ph^
+||bingoplus.com^
+||bole9.com^
+||bole90.com^
+||boxflix.cloud^
+||breachpotatoesmelodramatic.com^
+||bruss.org.ru^
+||bulkflix.online^
+||bunnycdn.ru^
+||buzzersidewalkcathedral.com^
+||cafebazaar.ir^
+||cafebazaar.ir^
+||catmouseapk.org^
+||ccleaner.com^
+||cctv.com^
+||cgptonline.tech^
+||cgtn.com^
+||chataigpt.org^
+||chatgpt.com^
+||cinehd.in^
+||cinemaestro.site^
+||circumscribeswear.com^
+||circumscribeswear.com^
+||cnet.com^
+||countlessdispleased.com^
+||cryptozooworld.com^
+||dclottery.com^
+||delusionalrevolt.com^
+||dfast.app^
+||disheartensuitebadly.com^
+||dismissportraypioneer.com^
+||dodi-repack.com^
+||doditorrent.org^
+||dogas.info^
+||download.it^
+||droidbang.com^
+||elzmovies.site^
+||emeryn.site^
+||emran-movie.weebly.com^
+||en.aptoide.com^
+||en.softonic.com^
+||en.uptodown.com^
+||english.cctv.com^
+||english.www.gov.cn^
+||eweconciliate.com^
+||exceptingpealstipulate.com^
+||filehippo.com^
+||fileplanet.com^
+||finance.yahoo.com^
+||firgirlrepacks.org^
+||fitgirl-repack.com^
+||fitgirlrepack.games^
+||fitgirl-repacks.website^
+||freegames.codes^
+||freetetris.org^
+||gameforge.com^
+||gamesbolt.com^
+||gcash.asia^
+||gcsh.me^
+||geejetag.com^
+||geekcareonline.co^
+||getmangahub.com^
+||getmodsapk.com^
+||getmodsapk.io^
+||giftredeem.io^
+||Globe.gdn^
+||gogoanime.cl^
+||gogoanime.com.co^
+||gogoanime.me^
+||gogoanime.mom^
+||gogoanime.nl^
+||gogoanime.onl^
+||gogoanime.tv^
+||gogoanime.tv^
+||gogoanime2.org^
+||gogoanime3.net^
+||gogoanime3.net^
+||gogoanimeapk.pro^
+||gogoanimes.fi^
+||gogoanimes.org^
+||gogoanimex.nl^
+||googleads.com^
+||gov-mmda.tw^
+||graph.facebook.com^
+||gumroad.com^
+||guru99.com^
+||hanime.com^
+||hanime.red^
+||hanime.watch^
+||hanime.xxx^
+||hanimes.org^
+||happymod.cloud^
+||happymod.com^
+||happy-mod.com^
+||happymod.info^
+||happymod.pro^
+||happymod.to^
+||happymodpro.com^
+||hedwigflooredventure.com^
+||hellium.site^
+||hentaihaven.org^
+||id.kakaowebtoon.com^
+||ihappymod.com^
+||ilulsoab.net^
+||infinite-craft.com^
+||infinite-craft.io^
+||infinitecraft.net^
+||inventum.kh.ua^
+||ir.baidu.com^
+||izzysoft.de^
+||jeu.video^
+||kakao.com^
+||kakaocorp.com^
+||kick.com^
+||kickass.help^
+||kickasstorrents.to^
+||kingdomofjesuschrist.org^
+||kissanime.com.ru^
+||kissanime.help^
+||kissanimeru.com^
+||kissmanga.in^
+||kissmanga.org^
+||latestmodapks.com^
+||live.bingoplus.net.ph^
+||loadcentral.com.ph^
+||login.bingoplus.net.ph^
+||lovebirrd.site^
+||luckyparcher.tools^
+||luckypatchers.com^
+||luckypatchers.info^
+||luckypatchers.me^
+||lucymodapk.com^
+||maegantucker.com^
+||magisk.me^
+||magiskmanager.com^
+||magiskmodule.com^
+||malavida.com^
+||mangadex.com^
+||mangadex.dev^
+||mangakakalot.to^
+||mangakakalot.tv^
+||mangakiss.org^
+||melba-926641-baumbach.asf.my.id^
+||modded-1.com^
+||modyolo.com.co^
+||modyolo.com^
+||modyolo.id^
+||modyolo.io^
+||modyoloapks.com^
+||monkeytype.club^
+||monkeytype.online^
+||monkey-type.org^
+||monkeytype.xyz^
+||motorloan1.com^
+||moviebaz.xyz^
+||moviekhhd.biz^
+||moviestreamforyou.online^
+||moviestreamplay.alchosting.xyz^
+||nhentai.app^
+||nhentai.biz^
+||nhentai.com^
+||nhentai.io^
+||nhentai.one^
+||nhentai.to^
+||nhentai.xxx^
+||nhentaibr.com^
+||nhentaiyaioi.net^
+||nosteam.ro^
+||ph-gov-mysss.mmdagov-ph.com^
+||phlwin8.com.ph^
+||pirate-bay-proxy.org^
+||pirateproxy-bay.com^
+||playbingoplus.com^
+||porngameshub.com^
+||profitablegatecpm.com^
+||qq.com^
+||quickapks.com^
+||r.agar.io^
+||raidshadowlegends.com^
+||rarbg.live^
+||rarbg.to^
+||rarbg.tw^
+||rarbg-official.com^
+||rb.gy^
+||rb.social-card-share.top^
+||rebrand.ly^
+||redr.me^
+||respectfullyalternate.com^
+||revanced.net^
+||revanced.to^
+||revancedapk.org^
+||revancedextended.com^
+||revancedextended.io^
+||rule34.paheal.net^
+||rule34.us^
+||rule34video.co^
+||s.youtube.com^
+||saashub.com^
+||saitesbroscaterers.com^
+||scmp.com^
+||seduceboozeblackmail.com^
+||semrush.com^
+||shartimien.site^
+||siblinggut.com^
+||sigmally.com^
+||similarweb.com^
+||sites.google.com^
+||smnifoundationinc.com^
+||smninewschannel.com^
+||soft112.com^
+||softlay.com^
+||softonic.com^
+||someapp.com^
+||someapps.org^
+||sssmy.lc^
+||stellarose.site^
+||tachiyomi.pro^
+||takemod.com^
+||tapas.io^
+||techbigs.com^
+||techylist.com^
+||techzapk.net^
+||tekpon.com^
+||telegram.org^
+||tendtenzs.com^
+||territorial-io.com^
+||th.kakaowebtoon.com^
+||thekickasstorrents.com^
+||thepiratebay.org^
+||thepiratebay3.co^
+||torrentfreak.com^
+||tradeit.gg^
+||tricksvile.com^
+||unclock.site^
+||uptodown.com^
+||v8cc6.com^
+||vwv.gogoanime.com.ru^
+||web.telegram.org^
+||webtoon.kakao.com^
+||weeklybucks.com^
+||weibo.com^
+||wilottery.com^
+||wizcase.com^
+||ww3.gogoanime.com.co^
+||ww4.gogoanime2.org^
+||ww6.gogoanimes.org^
+||www.77tbet.bet^
+||www.90jilivip.bar^
+||www.acejackpot888.com^
+||www.agame.com^
+||www.alpha-betlottery.com^
+||www.baidu.com^
+||www.bingoblitz.com^
+||www.bittorrent.com^
+||www.coingecko.com^
+||www.cpmrevenuegate.com^
+||www.cpmrevenuegate.com^
+||www.crazygames.com^
+||www.drivereasy.com^
+||www.gameflare.com^
+||www.gamerpower.com^
+||www.getgrass.io^
+||www.gov.cn^
+||www.hellowin.cc^
+||www.hello-win.vip^
+||www.highcpmgate.com^
+||www.iobit.com^
+||www.justanswer.com^
+||www.lapakgaming.com^
+||www.magiskmodule.com^
+||www.miniplay.com^
+||www.movifulllink.my.id^
+||www.pinan.gov.ph^
+||www.pirateproxy-bay.com^
+||www.psbaqc.edu.ph^
+||www.silvergames.com^
+||www.smni.com^
+||www.temu.com^
+||www.tencent.com^
+||www.tencentcloud.com^
+||www.u7buy.com^
+||www.utorrent.com^
+||www.youku.tv^
+||www4.yts.nz^
+||www7.gogoanime.me^
+||www9.gogoanimes.fi^
+||xranks.com^
+||ya.ru^
+||yandex.ru^
+||youku.com^
+||yts-official.mx^
