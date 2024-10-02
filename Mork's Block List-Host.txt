@@ -379,6 +379,16 @@
 0.0.0.0 www.hellowin.cc
 0.0.0.0 www.alpha-betlottery.com
 0.0.0.0 alphabet747.live
+0.0.0.0 circumscribeswear.com
+0.0.0.0 boxflix.cloud
+0.0.0.0 bulkflix.online
+0.0.0.0 stellarose.site
+0.0.0.0 cinemaestro.site
+0.0.0.0 hellium.site
+0.0.0.0 emeryn.site
+
+
+
 
 --------------------------------------------------------------------------------------------------
 # No new entries/lines should be added below the line above.
