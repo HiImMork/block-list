@@ -9,7 +9,7 @@
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 ! Special Thanks for AdGuard for documentation and example. It helped me build this block list lmao.
-
+!
 ||1337.tw^
 ||1377x.to^
 ||1st-kissmanga.com^
