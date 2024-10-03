@@ -5,6 +5,7 @@
 0.0.0.0 1377x.to
 0.0.0.0 1st-kissmanga.com
 0.0.0.0 360tour.philrice.gov.ph
+0.0.0.0 139.59.255.63
 0.0.0.0 62.146.232.72
 0.0.0.0 9anime.com.pl
 0.0.0.0 9anime.gs
@@ -49,8 +50,15 @@
 0.0.0.0 androidhd.com
 0.0.0.0 androidout.com
 0.0.0.0 animetime.pw
+0.0.0.0 aniwave.baby
+0.0.0.0 aniwave.com.es
 0.0.0.0 aniwave.ee
 0.0.0.0 aniwave.es
+0.0.0.0 aniwave.fit
+0.0.0.0 aniwave.icu
+0.0.0.0 aniwave.mom
+0.0.0.0 aniwave.se
+0.0.0.0 aniwave.to
 0.0.0.0 aniwave.to.tv
 0.0.0.0 apk.cafe
 0.0.0.0 apk.tools
@@ -97,6 +105,9 @@
 0.0.0.0 bard.com
 0.0.0.0 bet88.ph
 0.0.0.0 bingoplus.com
+0.0.0.0 bola88.com
+0.0.0.0 bola88ku.cc
+0.0.0.0 bola88live.me
 0.0.0.0 bole9.com
 0.0.0.0 bole90.com
 0.0.0.0 boxflix.cloud
@@ -114,6 +125,7 @@
 0.0.0.0 cgtn.com
 0.0.0.0 chataigpt.org
 0.0.0.0 chatgpt.com
+0.0.0.0 cheryauto.ph
 0.0.0.0 cinehd.in
 0.0.0.0 cinemaestro.site
 0.0.0.0 circumscribeswear.com
@@ -138,6 +150,7 @@
 0.0.0.0 en.softonic.com
 0.0.0.0 en.uptodown.com
 0.0.0.0 english.cctv.com
+0.0.0.0 english.mofcom.gov.cn
 0.0.0.0 english.www.gov.cn
 0.0.0.0 eweconciliate.com
 0.0.0.0 exceptingpealstipulate.com
@@ -150,17 +163,20 @@
 0.0.0.0 fitgirl-repacks.website
 0.0.0.0 freegames.codes
 0.0.0.0 freetetris.org
+0.0.0.0 gacmotorph.com
 0.0.0.0 gameforge.com
 0.0.0.0 gamesbolt.com
 0.0.0.0 gcash.asia
 0.0.0.0 gcsh.me
 0.0.0.0 geejetag.com
 0.0.0.0 geekcareonline.co
+0.0.0.0 geelyph.com
 0.0.0.0 getmangahub.com
 0.0.0.0 getmodsapk.com
 0.0.0.0 getmodsapk.io
 0.0.0.0 giftredeem.io
-0.0.0.0 Globe.gdn
+0.0.0.0 globe.gdn
+0.0.0.0 global.geely.com
 0.0.0.0 gogoanime.cl
 0.0.0.0 gogoanime.com.co
 0.0.0.0 gogoanime.me
@@ -177,6 +193,7 @@
 0.0.0.0 gogoanimes.org
 0.0.0.0 gogoanimex.nl
 0.0.0.0 googleads.com
+0.0.0.0 gov.cn
 0.0.0.0 gov-mmda.tw
 0.0.0.0 graph.facebook.com
 0.0.0.0 gumroad.com
@@ -196,6 +213,7 @@
 0.0.0.0 hedwigflooredventure.com
 0.0.0.0 hellium.site
 0.0.0.0 hentaihaven.org
+0.0.0.0 humas.paserkab.go.id
 0.0.0.0 id.kakaowebtoon.com
 0.0.0.0 ihappymod.com
 0.0.0.0 ilulsoab.net
@@ -263,6 +281,7 @@
 0.0.0.0 nhentaibr.com
 0.0.0.0 nhentaiyaioi.net
 0.0.0.0 nosteam.ro
+0.0.0.0 pafisumbabarat.org
 0.0.0.0 ph-gov-mysss.mmdagov-ph.com
 0.0.0.0 phlwin8.com.ph
 0.0.0.0 pirate-bay-proxy.org
@@ -288,6 +307,7 @@
 0.0.0.0 revancedapk.org
 0.0.0.0 revancedextended.com
 0.0.0.0 revancedextended.io
+0.0.0.0 rinnai.com.my
 0.0.0.0 rule34.paheal.net
 0.0.0.0 rule34.us
 0.0.0.0 rule34video.co
@@ -302,6 +322,7 @@
 0.0.0.0 sigmally.com
 0.0.0.0 similarweb.com
 0.0.0.0 sites.google.com
+0.0.0.0 smait-iqrabengkulu.sch.id
 0.0.0.0 smnifoundationinc.com
 0.0.0.0 smninewschannel.com
 0.0.0.0 soft112.com
@@ -309,6 +330,7 @@
 0.0.0.0 softonic.com
 0.0.0.0 someapp.com
 0.0.0.0 someapps.org
+0.0.0.0 sota.travel
 0.0.0.0 sssmy.lc
 0.0.0.0 stellarose.site
 0.0.0.0 tachiyomi.pro
@@ -336,6 +358,7 @@
 0.0.0.0 webtoon.kakao.com
 0.0.0.0 weeklybucks.com
 0.0.0.0 weibo.com
+0.0.0.0 weway.travel
 0.0.0.0 wilottery.com
 0.0.0.0 wizcase.com
 0.0.0.0 ww3.gogoanime.com.co
@@ -347,13 +370,19 @@
 0.0.0.0 www.agame.com
 0.0.0.0 www.alpha-betlottery.com
 0.0.0.0 www.baidu.com
+0.0.0.0 www.bellparkland.com
 0.0.0.0 www.bingoblitz.com
 0.0.0.0 www.bittorrent.com
+0.0.0.0 www.bl88.pro
+0.0.0.0 www.bola-asia.top
+0.0.0.0 www.byd.com
 0.0.0.0 www.coingecko.com
 0.0.0.0 www.cpmrevenuegate.com
 0.0.0.0 www.cpmrevenuegate.com
 0.0.0.0 www.crazygames.com
+0.0.0.0 www.dongfeng-global.com
 0.0.0.0 www.drivereasy.com
+0.0.0.0 www.gac-motor.com
 0.0.0.0 www.gameflare.com
 0.0.0.0 www.gamerpower.com
 0.0.0.0 www.getgrass.io
@@ -365,16 +394,20 @@
 0.0.0.0 www.justanswer.com
 0.0.0.0 www.lapakgaming.com
 0.0.0.0 www.magiskmodule.com
+0.0.0.0 www.mg.co.uk
 0.0.0.0 www.miniplay.com
 0.0.0.0 www.movifulllink.my.id
 0.0.0.0 www.pinan.gov.ph
 0.0.0.0 www.pirateproxy-bay.com
 0.0.0.0 www.psbaqc.edu.ph
+0.0.0.0 www.saicmotor.com
+0.0.0.0 www.shacman.com
 0.0.0.0 www.silvergames.com
 0.0.0.0 www.smni.com
 0.0.0.0 www.temu.com
 0.0.0.0 www.tencent.com
 0.0.0.0 www.tencentcloud.com
+0.0.0.0 www.theblacksportswoman.com
 0.0.0.0 www.u7buy.com
 0.0.0.0 www.utorrent.com
 0.0.0.0 www.youku.tv
@@ -386,8 +419,10 @@
 0.0.0.0 yandex.ru
 0.0.0.0 youku.com
 0.0.0.0 yts-official.mx
-
-
+0.0.0.0 feastables.com
+0.0.0.0 mrbeast.store
+0.0.0.0 www.mrbeastjobs.com
+0.0.0.0 www.mrbeastburger.com
 
 
 --------------------------------------------------------------------------------------------------
