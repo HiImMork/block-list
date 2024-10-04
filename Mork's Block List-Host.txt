@@ -96,6 +96,7 @@
 0.0.0.0 apk-store.org
 0.0.0.0 apktoy.com
 0.0.0.0 app.getgrass.io
+0.0.0.0 appaflix.site
 0.0.0.0 appbrain.com
 0.0.0.0 appsgag.com
 0.0.0.0 appteka.store
@@ -217,10 +218,12 @@
 0.0.0.0 hedwigflooredventure.com
 0.0.0.0 hellium.site
 0.0.0.0 hentaihaven.org
+0.0.0.0 histats.com
 0.0.0.0 humas.paserkab.go.id
 0.0.0.0 id.kakaowebtoon.com
 0.0.0.0 ihappymod.com
 0.0.0.0 ilulsoab.net
+0.0.0.0 image.tmdb.org
 0.0.0.0 infinite-craft.com
 0.0.0.0 infinite-craft.io
 0.0.0.0 infinitecraft.net
@@ -351,12 +354,14 @@
 0.0.0.0 thekickasstorrents.com
 0.0.0.0 thepiratebay.org
 0.0.0.0 thepiratebay3.co
+0.0.0.0 tmdb.org
 0.0.0.0 torrentfreak.com
 0.0.0.0 tradeit.gg
 0.0.0.0 tricksvile.com
 0.0.0.0 unclock.site
 0.0.0.0 uptodown.com
 0.0.0.0 v8cc6.com
+0.0.0.0 vourplay.site
 0.0.0.0 vwv.gogoanime.com.ru
 0.0.0.0 web.telegram.org
 0.0.0.0 webtoon.kakao.com
@@ -407,6 +412,7 @@
 0.0.0.0 www.saicmotor.com
 0.0.0.0 www.shacman.com
 0.0.0.0 www.silvergames.com
+0.0.0.0 www.sim-registration.top
 0.0.0.0 www.smni.com
 0.0.0.0 www.temu.com
 0.0.0.0 www.tencent.com
