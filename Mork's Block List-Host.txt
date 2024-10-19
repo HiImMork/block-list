@@ -13,6 +13,7 @@
 0.0.0.0 139.59.255.63
 0.0.0.0 1st-kissmanga.com
 0.0.0.0 1xlite-7326852.top
+0.0.0.0 30ir.cloudfront.net
 0.0.0.0 360tour.philrice.gov.ph
 0.0.0.0 62.146.232.72
 0.0.0.0 9anime.com.pl
@@ -29,6 +30,7 @@
 0.0.0.0 9animeto.io
 0.0.0.0 9anime-tv.com
 0.0.0.0 9animetv.to
+0.0.0.0 abtasty.com
 0.0.0.0 accounts.kakao.com
 0.0.0.0 acejackpot1.com
 0.0.0.0 acejackpot2.com
@@ -37,6 +39,7 @@
 0.0.0.0 acmarket-app.com
 0.0.0.0 acropholis.site
 0.0.0.0 actknuckleruinous.com
+0.0.0.0 adobedtm.com
 0.0.0.0 agar.lol
 0.0.0.0 agario.com
 0.0.0.0 agario.fun
@@ -44,7 +47,10 @@
 0.0.0.0 agario.tube
 0.0.0.0 agar-pro.club
 0.0.0.0 agbrief.com
+0.0.0.0 agg776.win
 0.0.0.0 agreedairdalton.com
+0.0.0.0 akamai.net
+0.0.0.0 akamaiedge.net
 0.0.0.0 aliapp.org
 0.0.0.0 alibaba.com
 0.0.0.0 alibabagroup.com
@@ -102,6 +108,7 @@
 0.0.0.0 apk-store.org
 0.0.0.0 apktoy.com
 0.0.0.0 app.getgrass.io
+0.0.0.0 app.getgrass.io
 0.0.0.0 appaflix.site
 0.0.0.0 appbrain.com
 0.0.0.0 appsgag.com
@@ -112,6 +119,7 @@
 0.0.0.0 arenaplus.ph
 0.0.0.0 arenaplus8.ph
 0.0.0.0 atlaq.com
+0.0.0.0 b.akamaiedge.net
 0.0.0.0 bangflix.site
 0.0.0.0 bard.com
 0.0.0.0 bet88.ph
@@ -124,6 +132,7 @@
 0.0.0.0 bole90.com
 0.0.0.0 boxflix.cloud
 0.0.0.0 breachpotatoesmelodramatic.com
+0.0.0.0 brightspotcdn.com
 0.0.0.0 bruss.org.ru
 0.0.0.0 bs-movie.site
 0.0.0.0 bulkflix.online
@@ -144,11 +153,14 @@
 0.0.0.0 cinemaestro.site
 0.0.0.0 circumscribeswear.com
 0.0.0.0 circumscribeswear.com
+0.0.0.0 cloudfront.net
 0.0.0.0 cnet.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 countlessdispleased.com
 0.0.0.0 cryptozooworld.com
 0.0.0.0 css.zohocdn.com
+0.0.0.0 d.akamai.net
+0.0.0.0 d378hne7ja.30ir.cloudfront.net
 0.0.0.0 dclottery.com
 0.0.0.0 delusionalrevolt.com
 0.0.0.0 dfast.app
@@ -160,6 +172,7 @@
 0.0.0.0 dogas.info
 0.0.0.0 download.it
 0.0.0.0 droidbang.com
+0.0.0.0 editor.ne16.com
 0.0.0.0 elzmovies.site
 0.0.0.0 emeryn.site
 0.0.0.0 emran-movie.weebly.com
@@ -176,6 +189,7 @@
 0.0.0.0 feastables.com
 0.0.0.0 filehippo.com
 0.0.0.0 fileplanet.com
+0.0.0.0 finance.ru
 0.0.0.0 finance.yahoo.com
 0.0.0.0 firgirlrepacks.org
 0.0.0.0 fitgirl-repack.com
@@ -184,6 +198,7 @@
 0.0.0.0 flixpoint.site
 0.0.0.0 freegames.codes
 0.0.0.0 freetetris.org
+0.0.0.0 g.akamaiedge.net
 0.0.0.0 gacmotorph.com
 0.0.0.0 gameforge.com
 0.0.0.0 gamesbolt.com
@@ -192,6 +207,7 @@
 0.0.0.0 geejetag.com
 0.0.0.0 geekcareonline.co
 0.0.0.0 geelyph.com
+0.0.0.0 getgrass.io
 0.0.0.0 getmangahub.com
 0.0.0.0 getmodsapk.com
 0.0.0.0 getmodsapk.io
@@ -238,6 +254,7 @@
 0.0.0.0 hentaihaven.org
 0.0.0.0 highcharts.com
 0.0.0.0 histats.com
+0.0.0.0 hscollectedforms.net
 0.0.0.0 humas.paserkab.go.id
 0.0.0.0 id.kakaowebtoon.com
 0.0.0.0 ihappymod.com
@@ -267,6 +284,7 @@
 0.0.0.0 kissmanga.in
 0.0.0.0 kissmanga.org
 0.0.0.0 latestmodapks.com
+0.0.0.0 lexipol.brightspotcdn.com
 0.0.0.0 live.bingoplus.net.ph
 0.0.0.0 loadcentral.com.ph
 0.0.0.0 login.bingoplus.net.ph
@@ -276,6 +294,7 @@
 0.0.0.0 luckypatchers.info
 0.0.0.0 luckypatchers.me
 0.0.0.0 lucymodapk.com
+0.0.0.0 m.agg776.win
 0.0.0.0 maegantucker.com
 0.0.0.0 magicjili.online
 0.0.0.0 magisk.me
@@ -301,9 +320,11 @@
 0.0.0.0 motorloan1.com
 0.0.0.0 moviebaz.xyz
 0.0.0.0 moviekhhd.biz
+0.0.0.0 movie-on-reels.online
 0.0.0.0 moviestreamforyou.online
 0.0.0.0 moviestreamplay.alchosting.xyz
 0.0.0.0 mrbeast.store
+0.0.0.0 ne16.com
 0.0.0.0 nhentai.app
 0.0.0.0 nhentai.biz
 0.0.0.0 nhentai.com
@@ -314,6 +335,8 @@
 0.0.0.0 nhentaibr.com
 0.0.0.0 nhentaiyaioi.net
 0.0.0.0 nosteam.ro
+0.0.0.0 omtrdc.net
+0.0.0.0 onetrust.com
 0.0.0.0 paddle.com
 0.0.0.0 pafisumbabarat.org
 0.0.0.0 ph-gov-mysss.mmdagov-ph.com
@@ -321,6 +344,7 @@
 0.0.0.0 pirate-bay-proxy.org
 0.0.0.0 pirateproxy-bay.com
 0.0.0.0 playbingoplus.com
+0.0.0.0 police1.com
 0.0.0.0 porngameshub.com
 0.0.0.0 profitablegatecpm.com
 0.0.0.0 profitwell.com
@@ -332,12 +356,14 @@
 0.0.0.0 rarbg.to
 0.0.0.0 rarbg.tw
 0.0.0.0 rarbg-official.com
+0.0.0.0 razerdata.com
 0.0.0.0 rb.gy
 0.0.0.0 rb.social-card-share.top
 0.0.0.0 rebrand.ly
 0.0.0.0 redr.me
 0.0.0.0 register.arenaplus.net.ph
 0.0.0.0 respectfullyalternate.com
+0.0.0.0 reurl.cc
 0.0.0.0 revanced.net
 0.0.0.0 revanced.to
 0.0.0.0 revancedapk.org
@@ -390,6 +416,7 @@
 0.0.0.0 thekickasstorrents.com
 0.0.0.0 thepiratebay.org
 0.0.0.0 thepiratebay3.co
+0.0.0.0 tinypass.com
 0.0.0.0 tmdb.org
 0.0.0.0 torrentfreak.com
 0.0.0.0 tpsservice-files-inner.cn-hangzhou.oss-cdn.aliyun-inc.com
@@ -454,6 +481,7 @@
 0.0.0.0 www.mrbeastjobs.com
 0.0.0.0 www.pinan.gov.ph
 0.0.0.0 www.pirateproxy-bay.com
+0.0.0.0 www.police1.com
 0.0.0.0 www.psbaqc.edu.ph
 0.0.0.0 www.saicmotor.com
 0.0.0.0 www.shacman.com
@@ -475,6 +503,8 @@
 0.0.0.0 yandex.ru
 0.0.0.0 youku.com
 0.0.0.0 yts-official.mx
+0.0.0.0 zdassets.com
+0.0.0.0 zendesk.com
 0.0.0.0 zoho.com
 0.0.0.0 zohocdn.com
 0.0.0.0 zohopublic.com
