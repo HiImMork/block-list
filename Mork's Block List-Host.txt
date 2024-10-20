@@ -5,7 +5,7 @@
 # Homepage: https://github.com/HiImMork/block-list
 # URL: https://github.com/HiImMork/block-list/blob/main/Mork's%20Block%20List-Host.txt
 #
-
+#
 0.0.0.0 1138403.com
 0.0.0.0 1248593.com
 0.0.0.0 1337.tw
