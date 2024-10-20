@@ -39,6 +39,7 @@
 0.0.0.0 acmarket-app.com
 0.0.0.0 acropholis.site
 0.0.0.0 actknuckleruinous.com
+0.0.0.0 ad-delivery.net
 0.0.0.0 adobedtm.com
 0.0.0.0 agar-pro.club
 0.0.0.0 agar.lol
@@ -207,6 +208,7 @@
 0.0.0.0 freetetris.org
 0.0.0.0 g.akamaiedge.net
 0.0.0.0 gacmotorph.com
+0.0.0.0 gadgetzonemnl.ph
 0.0.0.0 gameforge.com
 0.0.0.0 gamesbolt.com
 0.0.0.0 gcash.asia
