@@ -357,6 +357,7 @@
 0.0.0.0 people.com.cn
 0.0.0.0 ph-gov-mysss.mmdagov-ph.com
 0.0.0.0 phlwin8.com.ph
+0.0.0.0 pinoytv-ako.blogspot.com
 0.0.0.0 pirate-bay-proxy.org
 0.0.0.0 pirateproxy-bay.com
 0.0.0.0 playbingoplus.com
@@ -402,7 +403,6 @@
 0.0.0.0 siblinggut.com
 0.0.0.0 sigmally.com
 0.0.0.0 similarweb.com
-0.0.0.0 sites.google.com
 0.0.0.0 slatic.net
 0.0.0.0 smait-iqrabengkulu.sch.id
 0.0.0.0 smnifoundationinc.com
