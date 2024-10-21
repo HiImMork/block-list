@@ -1,4 +1,4 @@
-! Title: MORK's Block List
+! Title: Mork's Filter List
 ! Description: This list contains domains that I deemed unsafe or untrusted formatted into host file format. If you found a website here that you think should not be blocked don't bother, I won't remove it unless I choose to do so. I create this block list for personal purposes go create your own if you want.
 ! Author: MORK
 ! Author Contact: https://discord.com/users/1070905639162875905
