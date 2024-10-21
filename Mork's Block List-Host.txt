@@ -55,6 +55,7 @@
 0.0.0.0 aliapp.org
 0.0.0.0 alibaba.com
 0.0.0.0 alibabagroup.com
+0.0.0.0 aliyun-inc.com
 0.0.0.0 alphabet747.live
 0.0.0.0 alternativeto.net
 0.0.0.0 an1.com
@@ -160,6 +161,7 @@
 0.0.0.0 circumscribeswear.com
 0.0.0.0 circumscribeswear.com
 0.0.0.0 cloudfront.net
+0.0.0.0 cn-hangzhou.oss-cdn.aliyun-inc.com
 0.0.0.0 cnet.com
 0.0.0.0 cntv.cn
 0.0.0.0 connect.facebook.net
@@ -216,6 +218,7 @@
 0.0.0.0 geejetag.com
 0.0.0.0 geekcareonline.co
 0.0.0.0 geelyph.com
+0.0.0.0 geo.cookie-script.com
 0.0.0.0 getgrass.io
 0.0.0.0 getmangahub.com
 0.0.0.0 getmodsapk.com
@@ -272,6 +275,7 @@
 0.0.0.0 image.tmdb.org
 0.0.0.0 images.1138403.com
 0.0.0.0 images.1248593.com
+0.0.0.0 img.utdstc.com
 0.0.0.0 infinite-craft.com
 0.0.0.0 infinite-craft.io
 0.0.0.0 infinitecraft.net
@@ -347,6 +351,7 @@
 0.0.0.0 nosteam.ro
 0.0.0.0 omtrdc.net
 0.0.0.0 onetrust.com
+0.0.0.0 oss-cdn.aliyun-inc.com
 0.0.0.0 p1.img.cctvpic.com
 0.0.0.0 p2.img.cctvpic.com
 0.0.0.0 p3.img.cctvpic.com
@@ -375,6 +380,7 @@
 0.0.0.0 rarbg.to
 0.0.0.0 rarbg.tw
 0.0.0.0 razerdata.com
+0.0.0.0 razor1911.com
 0.0.0.0 rb.gy
 0.0.0.0 rb.social-card-share.top
 0.0.0.0 rebrand.ly
@@ -415,8 +421,8 @@
 0.0.0.0 sota.travel
 0.0.0.0 sssmy.lc
 0.0.0.0 stastaucm.com
-0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.zohocdn.com
+0.0.0.0 stc.utdstc.com
 0.0.0.0 stellarose.site
 0.0.0.0 stripchat.com
 0.0.0.0 tachiyomi.pro
@@ -436,6 +442,7 @@
 0.0.0.0 tinypass.com
 0.0.0.0 tmdb.org
 0.0.0.0 torrentfreak.com
+0.0.0.0 tpsservice-files-inner.cn-hangzhou.oss-cdn.aliyun-inc.com
 0.0.0.0 tpsservice-files-inner.cn-hangzhou.oss-cdn.aliyun-inc.com
 0.0.0.0 tradeit.gg
 0.0.0.0 tricksvile.com
@@ -496,10 +503,12 @@
 0.0.0.0 www.movifulllink.my.id
 0.0.0.0 www.mrbeastburger.com
 0.0.0.0 www.mrbeastjobs.com
+0.0.0.0 www.nosteam.ro
 0.0.0.0 www.pinan.gov.ph
 0.0.0.0 www.pirateproxy-bay.com
 0.0.0.0 www.police1.com
 0.0.0.0 www.psbaqc.edu.ph
+0.0.0.0 www.razor1911.com
 0.0.0.0 www.saicmotor.com
 0.0.0.0 www.shacman.com
 0.0.0.0 www.silvergames.com
