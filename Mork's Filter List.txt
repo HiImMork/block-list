@@ -23,6 +23,8 @@
 ||1xlite-7326852.top^
 ||218phwin.vip^
 ||23phwin.net^
+||2b2t.online^
+||350.my^
 ||360tour.philrice.gov.ph^
 ||3l3tgfzk8u.free.hr^
 ||4frontcu.cc^
@@ -46,6 +48,7 @@
 ||9animetv.to^
 ||9cache.com^
 ||9gag.com^
+||9minecraft.net^
 ||a-movies.com^
 ||abtasty.com^
 ||abvnd.top^
@@ -87,6 +90,8 @@
 ||almostmy.com^
 ||alpha-betlottery.com^
 ||alphabet747.live^
+||an1.com^
+||android1p.com^
 ||androidapksbox.com^
 ||androidapksfree.com^
 ||androidblue.com^
@@ -152,6 +157,7 @@
 ||arenaplus.net^
 ||arenaplus.ph^
 ||arenaplus8.ph^
+||aristois.net^
 ||arms.iu.edu^
 ||asf.my.id^
 ||atlaq.com^
@@ -186,11 +192,13 @@
 ||bittorrent.com^
 ||bl88.pro^
 ||blacksexy.site^
+||blackspigot.com^
 ||blogspot.com^
 ||bludulce.com^
 ||bluprintuniversity.com^
 ||bnbchain.org^
 ||bnvbf.top^
+||bo3.gg^
 ||bola-asia.top^
 ||bola88.com^
 ||bola88ku.cc^
@@ -224,6 +232,8 @@
 ||chataigpt.org^
 ||chatgpt.com^
 ||chaturbate.com^
+||cheater.fun^
+||cheatermad.com^
 ||cheryauto.ph^
 ||cinehd.in^
 ||cinemaestro.site^
@@ -251,10 +261,12 @@
 ||correoslink.digital^
 ||correosooe.top^
 ||correosradio.cc^
+||corsair.wtf^
 ||countlessdispleased.com^
 ||cpc.people.com.cn^
 ||cprapid.com^
 ||crazygames.com^
+||crunchyroll.com^
 ||cryptozooworld.com^
 ||cs.rin.ru^
 ||csgoempire.com^
@@ -271,6 +283,8 @@
 ||dfast.app^
 ||dgm-l.uatextfront66.com^
 ||dhbffej.cn^
+||discadia.com^
+||discords.com^
 ||disheartensuitebadly.com^
 ||dismissportraypioneer.com^
 ||disqus.com^
@@ -280,6 +294,7 @@
 ||doditorrent.org^
 ||dogas.info^
 ||dooblefa.com^
+||doomsdayclient.com^
 ||download.it^
 ||drinkcirkul.com^
 ||drinkprime.com^
@@ -291,6 +306,7 @@
 ||ecomsend.com^
 ||efdsg.top^
 ||egamersworld.com^
+||elitepvpers.com^
 ||elzmovies.site^
 ||emeryn.site^
 ||emran-movie.weebly.com^
@@ -308,6 +324,7 @@
 ||faqserv.com^
 ||faurein.com^
 ||fawesome.tv^
+||fdpinfo.github.io^
 ||feastables.com^
 ||feelgoodproductivity.com^
 ||filehippo.com^
@@ -321,6 +338,7 @@
 ||flixpoint.site^
 ||fmovies2u.in^
 ||fmoviesru.com^
+||fortnitehacks.io^
 ||foxkit.app^
 ||fractalbitcoin-rpcdebug.pages.dev^
 ||fragile.co^
@@ -328,8 +346,10 @@
 ||freecp.com^
 ||freegames.codes^
 ||freetetris.org^
+||freethevbucks.com^
 ||fxmainnet-dapp.pages.dev^
 ||gadgetzonemnl.ph^
+||gamedeveloper.com^
 ||gameflare.com^
 ||gameforge.com^
 ||gamerpower.com^
@@ -383,6 +403,7 @@
 ||grandlaunching.site^
 ||grupo-correos.icu^
 ||grupo-correos.one^
+||gulfcheats.com^
 ||gumroad.com^
 ||guru99.com^
 ||hanime.com^
@@ -402,6 +423,8 @@
 ||hello-win.vip^
 ||hellowin.cc^
 ||help-kycupdate.com^
+||help.crunchyroll.com^
+||help.twitch.tv^
 ||hentai2read.to^
 ||hentaihaven.org^
 ||herokuapp.com^
@@ -417,6 +440,7 @@
 ||i-scmp.com^
 ||ihappymod.com^
 ||ilulsoab.net^
+||impactclient.net^
 ||infinite-craft.com^
 ||infinite-craft.io^
 ||infinitecraft.net^
@@ -455,6 +479,7 @@
 ||kick.com^
 ||kickass.help^
 ||kickasstorrents.to^
+||kickcommunity.com^
 ||kingdomofjesuschrist.org^
 ||kissanime.com.ru^
 ||kissanime.help^
@@ -474,6 +499,7 @@
 ||latestmodapks.com^
 ||launchdarkly.com^
 ||lightmode.com^
+||liquidbounce.net^
 ||listan.com^
 ||livedskateraisin.com^
 ||ln.run^
@@ -491,6 +517,7 @@
 ||luhfs.cn^
 ||luhfs.top^
 ||lxqse.cn^
+||m.twitch.tv^
 ||m3tanet.site^
 ||maegantucker.com^
 ||magicjili.online^
@@ -513,7 +540,13 @@
 ||manhwa18.com^
 ||manhwa18.net^
 ||mature-pure.com^
+||mc-hacks.net^
 ||mcafee.com^
+||mchacks.net^
+||mcpe-planet.com^
+||mcpedl.com^
+||mcpedl.download^
+||mcpedl.org^
 ||mdfsg.top^
 ||mediapol.cn^
 ||medicardphils.com^
@@ -523,7 +556,16 @@
 ||mg.co.uk^
 ||mihqrfe.cn^
 ||milliontoken.org^
+||minecraftapks.com^
+||minecrafthax.org^
+||minecraftmods.com^
+||minecraftofficial.net^
+||minecrftapk18.com^
+||minecrftdownload.com^
+||minehacks.net^
+||mineshafter.info^
 ||miniplay.com^
+||miraheze.org^
 ||mmdagov-ph.com^
 ||modded-1.com^
 ||modyolo.com.co^
@@ -542,6 +584,7 @@
 ||moviekhhd.biz^
 ||moviestreamforyou.online^
 ||movifulllink.my.id^
+||mpgh.net^
 ||mrbeast.store^
 ||mrbeastburger.com^
 ||mrbeastinfo.com^
@@ -571,6 +614,7 @@
 ||nosteam.ro^
 ||novatech.co.uk^
 ||novatech.co^
+||null.null^
 ||obyvomv.cn^
 ||oddsshark.com^
 ||ojhbzra.cn^
@@ -692,8 +736,10 @@
 ||scoop.it^
 ||scvdr.xyz^
 ||scvsdf.top^
+||se7en.ws^
 ||seduceboozeblackmail.com^
 ||semrush.com^
+||shadowxcraft.net^
 ||sharethis.com^
 ||shartimien.site^
 ||shop2game.com^
@@ -705,6 +751,7 @@
 ||silvergames.com^
 ||sim-registration.top^
 ||similarweb.com^
+||skycheats.com^
 ||slatic.net^
 ||smart-usps.top^
 ||smartsimregistrations.org^
@@ -717,6 +764,7 @@
 ||soft112.com^
 ||softlay.com^
 ||softonic.com^
+||softpedia.com^
 ||software.informer.com^
 ||someapp.com^
 ||someapps.org^
@@ -728,8 +776,11 @@
 ||static.doubleclick.net^
 ||stats.theindex.moe^
 ||stellarose.site^
+||store.crunchy.roll.au^
+||store.crunchy.roll^
 ||stripchat.com^
 ||studio.site^
+||supercheats.com^
 ||surfshark.com^
 ||sutherland.ai^
 ||sweethtooth.io^
@@ -739,6 +790,8 @@
 ||takemod.com^
 ||talking.sbs^
 ||tapas.io^
+||tapimg.com^
+||taptap.io^
 ||techbigs.com^
 ||techspot.com^
 ||techylist.com^
@@ -763,6 +816,7 @@
 ||tmdb.org^
 ||tmsimregistrations.org^
 ||tnvcf.top^
+||toneden.io^
 ||toonily.com^
 ||toonily.me^
 ||torrent-stats.info^
@@ -775,16 +829,19 @@
 ||tubitv.com^
 ||tuncendustri.com^
 ||turbobit.net^
+||twitch.tv^
 ||typekit.net^
 ||u.to^
 ||u7buy.com^
 ||uatextfront66.com^
 ||ubgfd.top^
 ||unclock.site^
+||unknowncheats.me^
 ||unpkg.com^
 ||updatebdo.uk^
 ||uptodown.com^
 ||urlless.com^
+||urlz.fr^
 ||usps.com-postks.top^
 ||usps.com-postmi.top^
 ||usps.com-postnz.top^
@@ -805,6 +862,7 @@
 ||vancedmanager.tools^
 ||vancedyoutube.org^
 ||vdsef.top^
+||vgchartz.com^
 ||viewstats.com^
 ||visually-io.com^
 ||vourplay.site^
@@ -821,6 +879,7 @@
 ||weeblysite.com^
 ||weeklybucks.com^
 ||weibo.com^
+||wemod.com^
 ||weway.travel^
 ||wilottery.com^
 ||wisecleaner.com^
@@ -828,6 +887,7 @@
 ||wizcase.com^
 ||worldsofdypians.com^
 ||wtfast.com^
+||wurstclient.net^
 ||wwv.rarbg.tw^
 ||www.joinhoney.com^
 ||www.phwin.com.ph^
