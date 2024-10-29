@@ -133,8 +133,10 @@
 ||aniwave.se^
 ||aniwave.to.tv^
 ||aniwave.to^
+||anturis.com^
 ||anycolor.co.jp^
 ||anycolor.co^
+||anygame.net^
 ||aoyhfyfa.cn^
 ||aphold-i-login.gitbook.io^
 ||api.cntv.cn^
@@ -243,6 +245,7 @@
 ||blacksexy.site^
 ||blackspigot.com^
 ||bleepingcomputer.com^
+||blindhelp.net^
 ||blogspot.com^
 ||bludulce.com^
 ||bluprintuniversity.com^
@@ -455,11 +458,14 @@
 ||fearlessrevolution.com^
 ||feastables.com^
 ||feelgoodproductivity.com^
+||filecr.com^
 ||fileformat.com^
 ||filehippo.com^
+||filehorse.com^
 ||fileplanet.com^
 ||finance.ru^
 ||finance.yahoo.com^
+||findmysoft.com^
 ||firgirlrepacks.org^
 ||fitgirl-repack.com^
 ||fitgirl-repacks.website^
@@ -809,6 +815,7 @@
 ||minehacks.net^
 ||mineshafter.info^
 ||miniplay.com^
+||minitool.com^
 ||miraheze.org^
 ||mkhhf.cn^
 ||mmdagov-ph.com^
@@ -1220,6 +1227,7 @@
 ||us612713pkg.top^
 ||us675615pkg.top^
 ||user-swisspass.com^
+||userbenchmark.com^
 ||usps.com-postks.top^
 ||usps.com-postmi.top^
 ||usps.com-postnz.top^
@@ -1273,6 +1281,7 @@
 ||weway.travel^
 ||wheresuhaul.com^
 ||wilottery.com^
+||windows.apkpure.com^
 ||windows.net^
 ||wisecleaner.com^
 ||wish.com^
@@ -1333,5 +1342,6 @@
 ||zendesk.com^
 ||zero-squared.com^
 ||ziffstatic.com^
+||zintrack.com^
 ||zireemilsoude.net^
 ||zjxas.com^
