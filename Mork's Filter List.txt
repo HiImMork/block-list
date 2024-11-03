@@ -358,7 +358,6 @@
 ||claim.worldsofdypians.com^
 ||client-onlinebanking.serveftp.net^
 ||clienteprime.com.ua^
-||cloudfront.net^
 ||clube-livelo.info^
 ||cnet.com^
 ||cntv.cn^
