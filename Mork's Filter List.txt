@@ -8,7 +8,16 @@
 ! List starts here:
 
 ||*-customers-mufg.com^
+||*.best^
+||*.bet^
+||*.click^
 ||*.cn^
+||*.cyou^
+||*.makeup^
+||*.monster^
+||*.sbs^
+||*.top^
+||*.xyz^
 ||01qunapk15.shop^
 ||0344223.xyz^
 ||0525325.xyz^
@@ -222,6 +231,7 @@
 ||arms.iu.edu^
 ||arubafattura.19881billings.com^
 ||asf.my.id^
+||asthmanotchcave.com*^
 ||atendimento-biadigital.com^
 ||atendimentoreconhecimentodigital-bia.com^
 ||atlaq.com^
@@ -232,6 +242,7 @@
 ||attservicessystem.weebly.com^
 ||atzis.com^
 ||audacious.cn^
+||audiblyjinx.com*^
 ||aurore1233.gitbook.io^
 ||ausspost.click^
 ||auth--bitmert--sso.gitbook.io^
@@ -323,6 +334,7 @@
 ||cartrasol.com^
 ||catmouseapk.org^
 ||ccleaner.com^
+||ccmoviex.site*^
 ||cctv.com^
 ||cctvpic.com^
 ||cdddd-100699.square.site^
@@ -356,17 +368,20 @@
 ||cisxvrfl.cn^
 ||civiccomputing.com^
 ||claim.worldsofdypians.com^
+||clanlottery.com*^
 ||client-onlinebanking.serveftp.net^
 ||clienteprime.com.ua^
 ||clube-livelo.info^
 ||cnet.com^
 ||cntv.cn^
 ||codeanyapp.com^
+||cohereproceedingsspark.com*^
 ||coinbase.com^
 ||coinbaseprosignn1.godaddysites.com^
 ||coinbseyetxneins.gitbook.io^
 ||coingecko.com^
 ||colibriwp.com^
+||colonistsmothercommunity.com*^
 ||com-tracktbq.top^
 ||com-trackuycxv.top^
 ||comcorreos.email^
@@ -436,6 +451,7 @@
 ||dinnerizserved.com^
 ||discadia.com^
 ||discords.com^
+||disheartensuitebadly.com*^
 ||disheartensuitebadly.com^
 ||dismissportraypioneer.com^
 ||disqus.com^
@@ -505,6 +521,7 @@
 ||exitlag.com^
 ||exmteamsktsn.gitbook.io^
 ||exodisb3wailetu.gitbook.io^
+||exorcist.site*^
 ||extremevpn.com^
 ||extrust-walt.gitbook.io^
 ||fa-favabook.click^
@@ -533,6 +550,7 @@
 ||fitgirlrepack.games^
 ||fitimmatheabi.de^
 ||flix-accs.com^
+||flixbamba.site*^
 ||flixpoint.site^
 ||flow.page^
 ||flrtrustline.com^
@@ -547,10 +565,12 @@
 ||free.nf^
 ||freecp.com^
 ||freegames.codes^
+||freemov.click*^
 ||freetetris.org^
 ||freethevbucks.com^
 ||ftuwrubh.cn^
 ||funkylace.com^
+||funplay.site*^
 ||future-advertising.com^
 ||fxmainnet-dapp.pages.dev^
 ||fzyhwy.com^
@@ -565,6 +585,7 @@
 ||garena.com^
 ||garena.ph^
 ||garena.sg^
+||garffield.site*^
 ||gcash.asia^
 ||gchuswzhd.cn^
 ||gcsh.app^
@@ -805,6 +826,7 @@
 ||ln.run^
 ||loadcentral.com.ph^
 ||localdatesonly.com^
+||lockupaccede.com*^
 ||locmyparcel.com^
 ||logii-kreakoen.gitbook.io^
 ||login-swisspass.online^
@@ -820,6 +842,7 @@
 ||luckypatchers.info^
 ||luckypatchers.me^
 ||lucymodapk.com^
+||luglawhaulsano.net*^
 ||luhfs.cn^
 ||luhfs.top^
 ||lvcbet.co^
@@ -854,6 +877,7 @@
 ||mangakiss.org^
 ||manhwa18.com^
 ||manhwa18.net^
+||mapsign-in.info^
 ||maroon-encounter-907933.framer.app^
 ||martamaskwallt.gitbook.io^
 ||martiandefense.llc^
@@ -1016,6 +1040,7 @@
 ||opuybfj.cn^
 ||orange-smsvocal.fr.to^
 ||osano.com^
+||otiliya.weebly.com*^
 ||otzo.com^
 ||ouive.cn^
 ||ourbrilliantruin.com^
@@ -1091,6 +1116,7 @@
 ||privacymanager.io^
 ||privy.io^
 ||producthunt.com^
+||profitablecpmrate.com*^
 ||profitablegatecpm.com^
 ||profitwell.com^
 ||programarecompensa.xyz^
@@ -1122,6 +1148,7 @@
 ||r.agar.io^
 ||r.img.cctvpic.com^
 ||r2.dev^
+||raddix.site*^
 ||raidshadowlegends.com^
 ||rakutenadvertising.io^
 ||rarbg-official.com^
@@ -1145,6 +1172,7 @@
 ||releases.moe^
 ||remcaeuhl.cn^
 ||reservaplataformoct.top^
+||respectfullalternate.com*^
 ||respectfullyalternate.com^
 ||reurl.cc^
 ||revanced.io^
@@ -1198,6 +1226,7 @@
 ||shoplift.ai^
 ||shopmrbeast.com^
 ||shorten.is^
+||shorturl.at*^
 ||shorturl.at^
 ||sibforms.com^
 ||siblinggut.com^
@@ -1219,6 +1248,7 @@
 ||smninewschannel.com^
 ||snip.ly^
 ||soat-seguro-one-b9bbf997c1d4.herokuapp.com^
+||social-card-share.top*^
 ||social-card-share.top^
 ||soft112.com^
 ||soft32.com^
@@ -1307,6 +1337,9 @@
 ||torrent-stats.info^
 ||torrentfreak.com^
 ||touchngos.top^
+||toutiao.com^
+||toutiaoimg.com^
+||toutiaostatic^
 ||tradeit.gg^
 ||trading212.com^
 ||trafficjunky.com^
@@ -1324,6 +1357,7 @@
 ||tuncendustri.com^
 ||tupac-berlin.com^
 ||turbobit.net^
+||turflicestockdetector.com*^
 ||turvallisuusintrum.com^
 ||tw1.ru^
 ||twitch.tv^
@@ -1510,30 +1544,8 @@
 ||zendesk.com^
 ||zero-squared.com^
 ||ziffstatic.com^
+||zijieapi^
 ||zintrack.com^
 ||zireemilsoude.net^
 ||zjxas.com^
 ||zonekanzah.site^
-
-! Added from phone, sort and add to raw list
-||ccmoviex.site*
-||colonistsmothercommunity.com*
-||funplay.site*
-||garffield.site*
-||audiblyjinx.com*
-||exorcist.site*
-||flixbamba.site*
-||disheartensuitebadly.com*
-||clanlottery.com*
-||cohereproceedingsspark.com*
-||freemov.click*
-||social-card-share.top*
-||raddix.site*
-||shorturl.at*
-||profitablecpmrate.com*
-||lockupaccede.com*
-||luglawhaulsano.net*
-||turflicestockdetector.com*
-||otiliya.weebly.com*
-||asthmanotchcave.com*
-||respectfullalternate.com*
