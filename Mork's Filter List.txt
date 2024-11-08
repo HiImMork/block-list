@@ -6,7 +6,6 @@
 ! URL: https://github.com/HiImMork/block-list/blob/main/Mork's%20Filter%20List.txt
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ! List starts here:
-
 ||*-customers-mufg.com^
 ||*.best^
 ||*.bet^
@@ -35,8 +34,12 @@
 ||1377x.to^
 ||139.59.255.63^
 ||1836457.xyz^
+||195.2.81.61^
 ||1a-1791.com^
 ||1fichier.com^
+||1nwinvip4.info^
+||1nwinvip7.info^
+||1nwinvip8.info^
 ||1st-kissmanga.com^
 ||1xlite-7326852.top^
 ||218phwin.vip^
@@ -65,6 +68,7 @@
 ||85450210.xyz^
 ||86590154.xyz^
 ||8836457.xyz^
+||8on.com^
 ||90jilivip.bar^
 ||9344223.xyz^
 ||9525325.xyz^
@@ -88,6 +92,7 @@
 ||9minecraft.net^
 ||9wp1ta-c0.myshopify.com^
 ||a-movies.com^
+||a100tech.com^
 ||a2zapk.io^
 ||a2zapk.org^
 ||a7f4q5.com^
@@ -145,6 +150,7 @@
 ||alpha-betlottery.com^
 ||alphabet747.live^
 ||alpineautocharges.info^
+||amzn.to^
 ||an1.com^
 ||android1p.com^
 ||androidapksbox.com^
@@ -267,6 +273,7 @@
 ||because-intelligence.com^
 ||bellparkland.com^
 ||bellsouthserviceinfor.weebly.com^
+||bestbuyloot.com^
 ||bet88.ph^
 ||bettermeter.com^
 ||bia-atendimento.com^
@@ -313,6 +320,7 @@
 ||bridge-docs------trezr.gitbook.io^
 ||bruss.org.ru^
 ||bs-movie.site^
+||bs-movies.site.site^
 ||bspoke.cn^
 ||bt.daftpage.com^
 ||bt.draftpage.com^
@@ -369,6 +377,7 @@
 ||civiccomputing.com^
 ||claim.worldsofdypians.com^
 ||clanlottery.com*^
+||clicksocialimage.top^
 ||client-onlinebanking.serveftp.net^
 ||clienteprime.com.ua^
 ||clube-livelo.info^
@@ -382,6 +391,7 @@
 ||coingecko.com^
 ||colibriwp.com^
 ||colonistsmothercommunity.com*^
+||colonistsmothercommunity.com^
 ||com-tracktbq.top^
 ||com-trackuycxv.top^
 ||comcorreos.email^
@@ -411,6 +421,7 @@
 ||courteous-empathy-636213.framer.app^
 ||covadenilsport.com^
 ||cpc.people.com.cn^
+||cpmrevenuegate.com^
 ||cprapid.com^
 ||crazygames.com^
 ||crommetmsk-extnsion.gitbook.io^
@@ -451,6 +462,7 @@
 ||dinnerizserved.com^
 ||discadia.com^
 ||discords.com^
+||discussingnobody.com^
 ||disheartensuitebadly.com*^
 ||disheartensuitebadly.com^
 ||dismissportraypioneer.com^
@@ -504,6 +516,7 @@
 ||elzmovies.site^
 ||emeryn.site^
 ||emran-movie.weebly.com^
+||endflix.site^
 ||english.cctv.com^
 ||english.mofcom.gov.cn^
 ||english.www.gov.cn^
@@ -568,6 +581,7 @@
 ||freemov.click*^
 ||freetetris.org^
 ||freethevbucks.com^
+||frennzy.site^
 ||ftuwrubh.cn^
 ||funkylace.com^
 ||funplay.site*^
@@ -661,6 +675,8 @@
 ||happymod.pro^
 ||happymod.to^
 ||happymodpro.com^
+||haste-913349.webflow.io^
+||haste.net^
 ||hd7udfyfhithu.weeblysite.com^
 ||headagreement.github.io^
 ||hedwigflooredventure.com^
@@ -709,6 +725,7 @@
 ||ibpfnovologinhomebank.com^
 ||ielpqioms.cn^
 ||ierkmwsnhsrofk.weebly.com^
+||iglesianicristo.net^
 ||ihappymod.com^
 ||ihpost.*.xyz^
 ||iilvgfepu.cn^
@@ -717,6 +734,8 @@
 ||impactclient.net^
 ||impost.*.xyz^
 ||in-gf.com^
+||incesflix.site^
+||indiflix.site^
 ||indost.*.xyz^
 ||infinite-craft.com^
 ||infinite-craft.io^
@@ -773,7 +792,10 @@
 ||kagari.moe^
 ||kagari.online^
 ||kakao.com^
+||kakaobank.com^
 ||kakaocorp.com^
+||kakaoent.com^
+||kakaogames.com^
 ||kakaowebtoon.com^
 ||kaneacademy.com^
 ||kat.cr^
@@ -845,6 +867,7 @@
 ||luglawhaulsano.net*^
 ||luhfs.cn^
 ||luhfs.top^
+||luxuryhostel.site^
 ||lvcbet.co^
 ||lxqse.cn^
 ||m.twitch.tv^
@@ -964,6 +987,7 @@
 ||msigniinaphold.gitbook.io^
 ||mslee.workers.dev^
 ||mtype.vercel.app^
+||mugflix.cloud^
 ||multimo.com^
 ||mwinph.com^
 ||my-site-105817-101554.weeblysite.com^
@@ -995,9 +1019,12 @@
 ||nhentai.io^
 ||nhentai.one^
 ||nhentai.to^
+||nhentai.website^
 ||nhentai.xxx^
 ||nhentaibr.com^
+||nhentaihaven.org^
 ||nhentaiyaioi.net^
+||nhentaiyaoi.net^
 ||nick-name.ru^
 ||nijisanji-store.com^
 ||nijisanji.jp^
@@ -1016,6 +1043,7 @@
 ||nvfmdtj.cn^
 ||nyilib.com^
 ||o-lx.*.xyz^
+||o18.click^
 ||obchody.heureka.sk^
 ||obyvomv.cn^
 ||oddsshark.com^
@@ -1032,14 +1060,21 @@
 ||ollx.*.xyz^
 ||olvplcb.cn^
 ||omtrdc.net^
+||on88vip.site^
+||onbet188.vip^
+||onbetnew.com^
+||onbevip.net^
+||onebet.com^
 ||onelink.me^
 ||onetrust.com^
+||openbet.com^
 ||opensea.io^
 ||opera.com^
 ||operacdn.com^
 ||opuybfj.cn^
 ||orange-smsvocal.fr.to^
 ||osano.com^
+||otdmovies.fun^
 ||otiliya.weebly.com*^
 ||otzo.com^
 ||ouive.cn^
@@ -1083,6 +1118,7 @@
 ||phwinaa.com^
 ||phwinh.com^
 ||pinan.gov.ph^
+||pingzapper.com^
 ||pinkssale.pages.dev^
 ||pinoytv-ako.blogspot.com^
 ||pirate-bay-proxy.org^
@@ -1090,6 +1126,7 @@
 ||plagedetemps.com^
 ||play-now.top^
 ||playbingoplus.com^
+||playgoal.site^
 ||pldthome.info^
 ||plex.tv^
 ||plitch.com^
@@ -1117,6 +1154,7 @@
 ||privy.io^
 ||producthunt.com^
 ||profitablecpmrate.com*^
+||profitablecpmrate.com^
 ||profitablegatecpm.com^
 ||profitwell.com^
 ||programarecompensa.xyz^
@@ -1163,11 +1201,13 @@
 ||rdffs.top^
 ||reaktivierung-sapp2.xyz^
 ||reamaze.com^
+||reangbloge.my.id^
 ||rebrand.ly^
 ||rebrandly.com^
 ||redirectplush.co.ua^
 ||redr.me^
 ||reduw.cn^
+||reffil.site^
 ||reificatuidentidad.weebly.com^
 ||releases.moe^
 ||remcaeuhl.cn^
@@ -1191,13 +1231,18 @@
 ||rroolamwsnzbsdejd.weebly.com^
 ||rtd-1060rt03.weeblysite.com^
 ||rtings.com^
+||rtp1nwin.site^
 ||rudderstack.com^
+||rule34.lol^
 ||rule34.us^
+||rule34.world^
+||rule34porn.net^
 ||rule34video.co^
 ||rumble.com^
 ||ruszcpfdz.cn^
 ||rutor.info^
 ||s-portal.net^
+||s.id^
 ||s3a2y3.com^
 ||sa-geek.org^
 ||sa.com^
@@ -1399,6 +1444,7 @@
 ||uppholdlogins-usa.gitbook.io^
 ||uptodown.com^
 ||uqwfmw.top^
+||url78.com^
 ||urlless.com^
 ||urlz.fr^
 ||urnlgejus.cn^
@@ -1442,6 +1488,7 @@
 ||vilw-107479.weeblysite.com^
 ||viptronica.com^
 ||visually-io.com^
+||viva88athenae.com^
 ||vourplay.site^
 ||vsafufmop.cn^
 ||vyg.app^
@@ -1495,6 +1542,7 @@
 ||wwwrevoke.cash^
 ||wzdqboopo.cn^
 ||xamine.top^
+||xbeat.space^
 ||xczxsk.com^
 ||xdmzfuhkt.cn^
 ||xevens3x.pages.dev^
@@ -1506,6 +1554,7 @@
 ||yahoomailverifications2.weebly.com^
 ||yahoomojsghsh.weebly.com^
 ||yahoopaymentsecurity.weebly.com^
+||yakinjp.me^
 ||yandex.com^
 ||yandex.ru^
 ||yandex.uz^
@@ -1532,6 +1581,7 @@
 ||yts.lt^
 ||yts.nz^
 ||ytsmx.mx^
+||ytstv.lol^
 ||yuhappservice.sviluppo.host^
 ||yuhkeyidentity.sviluppo.host^
 ||yuhkundenteam.sviluppo.host^
