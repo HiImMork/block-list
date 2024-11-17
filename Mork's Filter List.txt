@@ -8,17 +8,19 @@
 ! List starts here:
 @@||mnhwa*.xyz^
 ||*-customers-mufg.com^
-||*.best$document^
-||*.bet$document^
-||*.click$document^
-||*.cyou$document^
-||*.makeup$document^
-||*.monster$document^
-||*.sbs$document^
-||*.sviluppo.host^
-||*.top$document^
-||*.vip$document^
-||*.xyz$document^
+||*.best$document
+||*.bet$document
+||*.click$document
+||*.cyou$document
+||*.i-boss.co.kr^
+||*.makeup$document
+||*.monster$document
+||*.sbs$document
+||*.sviluppo.host$document
+||*.top$document
+||*.vip$document
+||*.xyz$document
+||*app-sys-*-web3-*.*$document
 ||0001home.webflow.io^
 ||01qunapk15.shop^
 ||0344223.xyz^
@@ -74,7 +76,7 @@
 ||77tbet.bet^
 ||77tbet.win^
 ||7836457.xyz^
-||7qqnms7f.iqoi4.*$document^
+||7qqnms7f.iqoi4.*$document
 ||8525325.xyz^
 ||85450210.xyz^
 ||86590154.xyz^
@@ -86,12 +88,11 @@
 ||9344223.xyz^
 ||9525325.xyz^
 ||9836457.xyz^
-||9anime*.*$document^
+||9anime*.*$document
 ||9cache.com^
 ||9gag.com^
 ||9minecraft.net^
 ||9wp1ta-c0.myshopify.com^
-||@@mnhwa*.xyz^
 ||a-movies.com^
 ||a100tech.com^
 ||a2zapk.io^
@@ -149,7 +150,7 @@
 ||algolia.net^
 ||aliabdaal.com^
 ||allcars.cn^
-||allegrolokainie.*.xyz$document^
+||allegrolokainie.*.xyz$document
 ||almostmy.com^
 ||alpha-betlottery.com^
 ||alphabet747.live^
@@ -249,6 +250,7 @@
 ||asthmanotchcave.com*^
 ||asv.cabofrio.rj.gov.br^
 ||at-t-mail-d77caa.webflow.io^
+||atccnc.com^
 ||atendimento-biadigital.com^
 ||atendimentoreconhecimentodigital-bia.com^
 ||atlaq.com^
@@ -310,10 +312,12 @@
 ||because-intelligence.com^
 ||bellparkland.com^
 ||bellsouthserviceinfor.weebly.com^
+||belugalab.com^
 ||bereichsicherheit.com^
 ||bestbuyloot.com^
 ||bet88.ph^
 ||bettermeter.com^
+||bettingtop10.ca^
 ||bia-atendimento.com^
 ||bia-bradesco.org^
 ||binance.charity^
@@ -383,6 +387,7 @@
 ||cancelamento.shop^
 ||cannada.site^
 ||capitappull.site^
+||captcharobots.live^
 ||cartrasol.com^
 ||cashlib.info^
 ||catmouseapk.org^
@@ -418,6 +423,7 @@
 ||choix-jour.net^
 ||chrmemiuotamextens.gitbook.io^
 ||chronosbrain.com^
+||chungoal.duckdns.org^
 ||ciclpcghw.cn^
 ||cinehd.in^
 ||cinemaestro.site^
@@ -505,8 +511,12 @@
 ||cruwshwcl.cn^
 ||cryptozooworld.com^
 ||cs.rin.ru^
+||cs2-bets.org^
 ||csgoempire.com^
+||csgofast.com^
+||csgohowl.com^
 ||csgolounge.com^
+||csgoroll.com^
 ||csyvc.cn^
 ||ctt-portal.com^
 ||ctt-portu.xyz^
@@ -533,6 +543,7 @@
 ||dacprt.com^
 ||datma.io^
 ||datum3.pages.dev^
+||datvuhrqkgl.com^
 ||dbcxd.top^
 ||dcdse.online^
 ||dclottery.com^
@@ -541,6 +552,7 @@
 ||descontossmagalu.site^
 ||desemblosoclickapp.top^
 ||dev-react-js-api.onrender.com^
+||devicecrazy.com^
 ||devxbnfhg.cn^
 ||dfast.app^
 ||dfgess.xyz^
@@ -582,7 +594,7 @@
 ||drivereasy.com^
 ||droidbang.com^
 ||dsfe.top^
-||dsfeg.*.*$document^
+||dsfeg.*.*$document
 ||dsprrdbsonline.com^
 ||dub.sh^
 ||duckdns.org^
@@ -709,6 +721,7 @@
 ||garena.ph^
 ||garena.sg^
 ||garffield.site*^
+||gbf7wrqapjg1js045ye8.com^
 ||gcash.asia^
 ||gchuswzhd.cn^
 ||gcsh.app^
@@ -758,6 +771,7 @@
 ||gigya.com^
 ||giminlogesn.gitbook.io^
 ||giwutjaegroup.sbs^
+||glash.gg^
 ||globalsign.com^
 ||globe.gdn^
 ||globesimregistrations.org^
@@ -782,6 +796,7 @@
 ||gov.cn^
 ||gov.livingallowancezt.top^
 ||grandlaunching.site^
+||greenwall.gg^
 ||gruner.pl^
 ||grupo-correos.icu^
 ||grupo-correos.one^
@@ -929,6 +944,8 @@
 ||ixxx.com^
 ||izzysoft.de^
 ||j3n5k7.com^
+||jardinesdelllar.es^
+||jawatankosong.my.id^
 ||jbmnh.top^
 ||jcbvn.top^
 ||jcvdse.xyz^
@@ -972,8 +989,8 @@
 ||kickcommunity.com^
 ||kiiiakenlogin.gitbook.io^
 ||kingdomofjesuschrist.org^
-||kissanime*.*$document^
-||kissmanga*.*$document^
+||kissanime*.*$document
+||kissmanga*.*$document
 ||kixcoimlogio.gitbook.io^
 ||kjenwmaxusdnehskdf.weebly.com^
 ||kkucoinnlogin.gitbook.io^
@@ -1027,6 +1044,7 @@
 ||ledercost.gitbook.io^
 ||ledgerlivedownlosad.gitbook.io^
 ||ledhgrlivedowload.gitbook.io^
+||letmewatchthis.watch^
 ||lightmode.com^
 ||likely-understood-856883.framer.app^
 ||lime037727.studio.site^
@@ -1036,6 +1054,7 @@
 ||liquidbounce.net^
 ||listan.com^
 ||livedskateraisin.com^
+||livraison-france.info^
 ||llc.bcg.mybluehost.me^
 ||lleddg-live-loggn.gitbook.io^
 ||llltreuirzleeno.webflow.io^
@@ -1071,8 +1090,10 @@
 ||lxqse.cn^
 ||m.twitch.tv^
 ||m3tanet.site^
+||m4ufree.space^
 ||m5h9c-vb55f-b5f5e.s3.amazonaws.com^
 ||maahaya.cn^
+||madaniportal.vercel.app^
 ||maegantucker.com^
 ||magalu-indica.com^
 ||magic.ly^
@@ -1254,7 +1275,7 @@
 ||new.express.adobe.com^
 ||newcode.6amtrade.xyz^
 ||newversionattmailapps.weebly.com^
-||nhentai*.*$document,to=~nhentai.net^
+||nhentai*.*$document,to=~nhentai.net
 ||nick-name.ru^
 ||nijisanji-store.com^
 ||nijisanji.jp^
@@ -1280,6 +1301,7 @@
 ||oddsshark.com^
 ||oeco.site^
 ||oelsmekdfudjawnsd.weebly.com^
+||oferta*.online^
 ||ogfdrf.xyz^
 ||oguin-uphholl.gitbook.io^
 ||oix.*.xyz^
@@ -1377,11 +1399,13 @@
 ||pirate-bay-proxy.org^
 ||pirateproxy-bay.com^
 ||plagedetemps.com^
+||platform-sc.*.jp^
 ||play-now.top^
 ||playbingoplus.com^
 ||playgoal.site^
 ||pldthome.info^
 ||plex.tv^
+||plg.bet^
 ||plitch.com^
 ||plu.sh^
 ||police1.com^
@@ -1413,6 +1437,7 @@
 ||profitablegatecpm.com^
 ||profitwell.com^
 ||programarecompensa.xyz^
+||proinstal-alba.ro^
 ||projectwingman.fandom.com^
 ||prokrakencom.gitbook.io^
 ||psbaqc.edu.ph^
@@ -1452,6 +1477,7 @@
 ||raddix.site*^
 ||raidshadowlegends.com^
 ||rainbow-unnoticia-viabcp.glitch.me^
+||rakmanengineering.co.ke^
 ||rakutenadvertising.io^
 ||rarbg-official.com^
 ||rarbg.live^
@@ -1469,6 +1495,7 @@
 ||reangbloge.my.id^
 ||rebrand.ly^
 ||rebrandly.com^
+||redirect-*.zerobot.delivery^
 ||redirectplush.co.ua^
 ||redr.me^
 ||reduw.cn^
@@ -1518,6 +1545,7 @@
 ||rumble.com^
 ||ruszcpfdz.cn^
 ||rutor.info^
+||rxx.kqm.mybluehost.me^
 ||s-portal.net^
 ||s.id^
 ||s3a2y3.com^
@@ -1544,8 +1572,10 @@
 ||serci458-accueil.weebly.com^
 ||serv00.net^
 ||servebbs.org^
+||servicecaptcha.live^
 ||servientpost.top^
 ||servizioaritaly.site^
+||sestosensobarrafranca.it^
 ||sever7478765.weebly.com^
 ||sewing-ladyltd.myshopify.com^
 ||shadowxcraft.net^
@@ -1561,6 +1591,7 @@
 ||shyft-wallet.gitbook.io^
 ||sibforms.com^
 ||siblinggut.com^
+||sidreriaeltonel.com^
 ||sigmally.com^
 ||signinanjgeminilogin.gitbook.io^
 ||silvergames.com^
@@ -1598,6 +1629,7 @@
 ||sooieuwmxbbfhrjkds.weebly.com^
 ||soriano.cn^
 ||sota.travel^
+||spachsw.formstack.com^
 ||sparkasse-agb-aktualisierung.com^
 ||sparkflaretrust.com^
 ||sparkflrcnt.com^
@@ -1633,8 +1665,7 @@
 ||t-terzorwalltii.gitbook.io^
 ||t.ly^
 ||t.me^
-||tachiyomi*.*$document^
-||tachiyomi.pro^
+||tachiyomi*.*$document
 ||takemod.com^
 ||talking.sbs^
 ||tan383519.studio.site^
@@ -1675,6 +1706,7 @@
 ||threadai.zip^
 ||tinypass.com^
 ||tinyurl.com^
+||tips.gg^
 ||tlzs.asia^
 ||tmdb.org^
 ||tmsimregistrations.org^
@@ -1699,7 +1731,10 @@
 ||trazeorwallet.gitbook.io^
 ||tredzorwageletr.gitbook.io^
 ||trejairiostarrtuss.gitbook.io^
+||trendfarma.com.fr^
 ||trendfarma.com.tr^
+||trezjriostart.webflow.io^
+||trezors-walets.webflow.io^
 ||trezowrio-portplus.gitbook.io^
 ||trezzoreweelt.gitbook.io^
 ||tricksvile.com^
@@ -1897,6 +1932,7 @@
 ||yastatic.com^
 ||ybpjqipmu.cn^
 ||yhcjwkdvciye732ewsdvkvhc-qcdikdg8723ewvskjvhc.teemill.com^
+||yigilits.wordifysites.com^
 ||yksduhl.cn^
 ||yntcxuorb.cn^
 ||yotkwoijx.cn^
