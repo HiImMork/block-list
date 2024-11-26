@@ -182,6 +182,7 @@
 ||animerock.io^
 ||animetime.pw^
 ||animeulti.com^
+||anitaku*.*$all,to=~anitaku.bz
 ||aniwave.baby^
 ||aniwave.com.es^
 ||aniwave.ee^
@@ -391,6 +392,7 @@
 ||buzzmsgnow.com^
 ||bwwryezsl.cn^
 ||bxsrfgevh.cn^
+||bypassgpt.ai^
 ||byteoversea.com^
 ||cabofrio.rj.gov.br^
 ||cafebazaar.ir^
@@ -798,20 +800,7 @@
 ||globalsign.com^
 ||globe.gdn^
 ||globesimregistrations.org^
-||gogoanime.cl^
-||gogoanime.com.co^
-||gogoanime.com.ru^
-||gogoanime.me^
-||gogoanime.mom^
-||gogoanime.nl^
-||gogoanime.onl^
-||gogoanime.tv^
-||gogoanime2.org^
-||gogoanime3.net^
-||gogoanimeapk.pro^
-||gogoanimes.fi^
-||gogoanimes.org^
-||gogoanimex.nl^
+||gogoanime*.*$all,to=~gogoanime3.cc
 ||googleads.com^
 ||gorgias.chat^
 ||gostingcolor.com^
@@ -835,6 +824,7 @@
 ||guxaetgt.sbs^
 ||gvcse.online^
 ||gxcbuftkk.cn^
+||h*.g*.jp^
 ||hacktricks.xyz^
 ||hanime.com^
 ||hanime.red^
@@ -886,6 +876,7 @@
 ||highcpmgate.com^
 ||higround.co^
 ||hiko.software^
+||hix.ai^
 ||hjmkrbwdl.cn^
 ||hketcll.top^
 ||hketoi.top^
@@ -911,6 +902,7 @@
 ||hubtrezorstart.webflow.io^
 ||hukmnuxsz.cn^
 ||humas.paserkab.go.id^
+||humbot.ai^
 ||huxjbkwj.cn^
 ||hxsef.online^
 ||i-scmp.com^
@@ -1964,6 +1956,7 @@
 ||yanyanfree.com^
 ||yastatic.com^
 ||ybpjqipmu.cn^
+||yeschat.ai^
 ||yhcjwkdvciye732ewsdvkvhc-qcdikdg8723ewvskjvhc.teemill.com^
 ||yigilits.wordifysites.com^
 ||yksduhl.cn^
@@ -1986,6 +1979,7 @@
 ||yyqkfxqqz.co^
 ||z2u.com^
 ||zakolmnhyhgtwgshdfkds.weebly.com^
+||zerogpt.plus^
 ||zero-squared.com^
 ||ziffstatic.com^
 ||zijieapi.com^
