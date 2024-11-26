@@ -730,7 +730,6 @@
 ||fzyhwy.com^
 ||g2g.com^
 ||gadgetzonemnl.ph^
-||game8.co^
 ||gameboost.com^
 ||gamedeveloper.com^
 ||gameflare.com^
@@ -774,7 +773,6 @@
 ||gemminelogin.gitbook.io^
 ||gemneelgane.gitbook.io^
 ||gemonilogemn.gitbook.io^
-||genshinlab.com^
 ||get-pst.com^
 ||getgrass.io^
 ||getmangahub.com^
@@ -887,7 +885,6 @@
 ||hkhjhjwasbedufisd.weebly.com^
 ||hldvbrqif.cn^
 ||home-metamaskwalletextension.gitbook.io^
-||honkailab.com^
 ||honortrq24.xyz^
 ||hoopladigital.com^
 ||hopto.org^
