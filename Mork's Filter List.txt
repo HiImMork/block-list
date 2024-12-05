@@ -8,6 +8,7 @@
 ! List starts here:
 @@||mnhwa*.xyz^
 ||*-customers-mufg.com$all
+||*.apps-ing-direct.com$all
 ||*.best$all
 ||*.bet,to=~www.bet.com$all
 ||*.choyoga.com$all
@@ -19,8 +20,10 @@
 ||*.sbs$all
 ||*.sviluppo.host$all
 ||*.top$all
+||*.urban*outfitters.shop$all
 ||*.vip$all
 ||*.xyz$all
+||*.zgpartners.com.au$all
 ||*aniwave*.*$all
 ||*app-sys-*-web3-*.*$all
 ||*bet.*$all
@@ -50,6 +53,7 @@
 ||139.59.255.63$all
 ||1836457.xyz$all
 ||195.2.81.61$all
+||195.35.42.56$all
 ||1a-1791.com$all
 ||1fichier.com$all
 ||1nwinvip4.info$all
@@ -89,6 +93,7 @@
 ||7836457.xyz$all
 ||789789.ink$all
 ||7qqnms7f.iqoi4.*$all
+||80ios89ya1h00ios82inc83irs872ruy8ca.netlify.app$all
 ||8525325.xyz$all
 ||85450210.xyz$all
 ||86590154.xyz$all
@@ -113,6 +118,7 @@
 ||a7f4q5.com$all
 ||aapple.pages.dev$all
 ||aatumiccwalleti.gitbook.io$all
+||about.me/circledeactivateoldprofile$all
 ||abtasty.com$all
 ||abvnd.top$all
 ||acasd.top$all
@@ -134,6 +140,7 @@
 ||actknuckleruinous.com$all
 ||ad-delivery.net$all
 ||adageun.top$all
+||adamscardetailing.pythonanywhere.com$all
 ||adatae.top$all
 ||adchoices.asia$all
 ||adform.net$all
@@ -154,12 +161,15 @@
 ||agatasmurf.com$all
 ||agbrief.com$all
 ||agemeewalat.gitbook.io$all
+||aggiornasellahype.com$all
 ||agieling.cyou$all
 ||agreedairdalton.com$all
 ||ahorro.rest$all
 ||ahorro.sbs$all
 ||ahrefs.com$all
 ||aifriendzones.com$all
+||airlines-lat.com$all
+||airlinevooslatambrasil.site$all
 ||airpal.id$all
 ||ais-poin.icu$all
 ||aizipai.cn$all
@@ -182,6 +192,8 @@
 ||alphabet747.live$all
 ||alpineautocharges.info$all
 ||amazon-adsystem.com$all
+||amigavainprincipal.pages.dev$all
+||aml-check.*$all
 ||amtoicwallet.gitbook.io$all
 ||amxtlap.top$all
 ||amxukl.top$all
@@ -261,6 +273,7 @@
 ||appdome.com$all
 ||apphero.co$all
 ||apponic.com$all
+||appscotiseguronline.site$all
 ||appsgag.com$all
 ||appsmav.com$all
 ||appteka.store$all
@@ -274,8 +287,10 @@
 ||arenaplus.ph$all
 ||arenaplus8.ph$all
 ||arenavalorgarena.com$all
+||arianos.online$all
 ||aristois.net$all
 ||arms.iu.edu$all
+||artykuly-polecane-*.buzz$all
 ||arubafattura.19881billings.com$all
 ||asf.my.id$all
 ||ashrdf.xyz$all
@@ -283,6 +298,7 @@
 ||asthmanotchcave.com*$all
 ||asv.cabofrio.rj.gov.br$all
 ||at-t-mail-d77caa.webflow.io$all
+||atacadodepromocoeseofertas.com$all
 ||atccnc.com$all
 ||atendimento-biadigital.com$all
 ||atendimentoreconhecimentodigital-bia.com$all
@@ -294,10 +310,13 @@
 ||atoriomkioswallet.gitbook.io$all
 ||atrezorsigniin.gitbook.io$all
 ||atrezorsignin.gitbook.io$all
+||att-*-*.weeblysite.com$all
 ||att-9012-login-638-41.weeblysite.com$all
 ||att-currently-11-13-24.weeblysite.com$all
 ||att-currtently-11-15-2024.weeblysite.com$all
 ||att-yahoo-mail-upgrade.weeblysite.com$all
+||att-yahoo.att.net$all
+||attcom-*-*.weeblysite.com$all
 ||attcom-100746.weeblysite.com$all
 ||attcom-104356.weeblysite.com$all
 ||attcurrlive.weebly.com$all
@@ -307,6 +326,7 @@
 ||attomicwalletuo.gitbook.io$all
 ||attservicessystem.weebly.com$all
 ||atttnetupdate.weebly.com$all
+||atttttttt.mmm.page$all
 ||atumicuwalleeet.gitbook.io$all
 ||atutfvg.weebly.com$all
 ||atzis.com$all
@@ -318,6 +338,7 @@
 ||auth--bitmert--sso.gitbook.io$all
 ||authrecoveryaccountaccpymntrenewpaneldataappscured.aspren.org.au$all
 ||automicklogina.gitbook.io$all
+||autosocorrofenix.com.br$all
 ||avantages-sociaux.webflow.io$all
 ||avast.com$all
 ||avira.com$all
@@ -329,6 +350,7 @@
 ||aztbnhob.cn$all
 ||azure317266.studio.site$all
 ||azurlaner.com$all
+||b4ntuan-1bub3rs4lin-*.biz.id$all
 ||backinstock.org$all
 ||badmasbacha.com$all
 ||baidu.com$all
@@ -362,14 +384,23 @@
 ||binance.us$all
 ||bingoblitz.com$all
 ||bit.ly$all
+||bitflyer-asia.com$all
+||bitflyer.ttfj.live$all
+||bitflyerx.com$all
+||bitgogo.ai$all
 ||bitmart-helps.gitbook.io$all
 ||bittorrent.com$all
+||bk.worldlibertyfonancial.com$all
 ||bl88.pro$all
 ||black504741.studio.site$all
+||blackbelezanweb.shop$all
+||blackfriday-havan.vercel.app$all
 ||blackfrydanet.online$all
 ||blackfrydanet.site$all
+||blacknovember-oficial.site$all
 ||blacksexy.site$all
 ||blackspigot.com$all
+||blanket-engagement-rejected-prominent.trycloudflare.com$all
 ||bleepingcomputer.com$all
 ||blindhelp.net$all
 ||bludulce.com$all
@@ -395,6 +426,7 @@
 ||botard.life$all
 ||boxflix.cloud$all
 ||brahagocrasse-2539.vercel.app$all
+||brasil*-*.com.br$all
 ||breachpotatoesmelodramatic.com$all
 ||bridge-docs------trezr.gitbook.io$all
 ||bruss.org.ru$all
@@ -418,11 +450,15 @@
 ||bxsrfgevh.cn$all
 ||bypassgpt.ai$all
 ||byteoversea.com$all
+||c3o2024irs07g0v56ya00mai109ser7yio32.netlify.app$all
 ||caadapsal.top$all
 ||cabofrio.rj.gov.br$all
 ||cafebazaar.ir$all
 ||caggasad.top$all
+||cagricolemiseajour.com$all
 ||caha-traa.top$all
+||caixadirectaclientefull.com$all
+||caixadirectafullnet.com$all
 ||cajasamerica.com.mx$all
 ||callajjaiu.top$all
 ||canada.postcanada*.cfd$all
@@ -452,10 +488,13 @@
 ||cfacooperativafina.wixsite.com$all
 ||cfolks.pl$all
 ||cgd-apoioparticulares.com$all
+||cgd-revisar.com$all
 ||cgptonline.tech$all
 ||cgtn.com$all
+||chainsolutiondapp.org$all
 ||chaoside.net$all
 ||chariose.click$all
+||chat-atendimento-experi.me$all
 ||chataigpt.org$all
 ||chatgpt.com$all
 ||chavesegura.site$all
@@ -464,8 +503,11 @@
 ||cheatermad.com$all
 ||cheatevolution.com$all
 ||cheathappens.com$all
+||check-aml.me$all
+||check-aml.net$all
 ||checking-registration-ntfx.info$all
 ||cheryauto.ph$all
+||chevrolet.com.kz$all
 ||chip.de$all
 ||choix-jour.net$all
 ||chrmemiuotamextens.gitbook.io$all
@@ -478,6 +520,7 @@
 ||circumscribeswear.com$all
 ||cisxvrfl.cn$all
 ||citadelonlinesecure.com$all
+||citas-declaracion-cr-*-*.web.app$all
 ||civiccomputing.com$all
 ||cjoinbze-pro-login.gitbook.io$all
 ||claim.worldsofdypians.com$all
@@ -560,6 +603,7 @@
 ||cpc.people.com.cn$all
 ||cpmrevenuegate.com$all
 ||cprapid.com$all
+||cptwillir.net$all
 ||crakenlogiusalo.gitbook.io$all
 ||crazygames.com$all
 ||crommetmsk-extnsion.gitbook.io$all
@@ -568,6 +612,7 @@
 ||cryptozooworld.com$all
 ||cs.rin.ru$all
 ||cs2-bets.org$all
+||csam-be.com$all
 ||csgoempire.com$all
 ||csgofast.com$all
 ||csgohowl.com$all
@@ -585,13 +630,19 @@
 ||cuirumetamsk-mozilla-usa.gitbook.io$all
 ||cumberlandcg.com$all
 ||current.com$all
+||currently*.weebly.com$all
+||currently*.wix.com$all
+||currently*.wixsite.com$all
+||currently*.yahoo.com$all
 ||currently618978.weebly.com$all
 ||currently73fu835t.weebly.com$all
 ||currently90.weebly.com$all
 ||currentlysweb.weebly.com$all
 ||currentlyu73367.weebly.com$all
+||curtismooney*.wixsite.com$all
 ||cutt.ly$all
 ||cvbynumnybt.weebly.com$all
+||cyber-flash.com$all
 ||cyclope.cn$all
 ||cypresslong.com$all
 ||cypruspostdental.cc$all
@@ -602,6 +653,7 @@
 ||datma.io$all
 ||datum3.pages.dev$all
 ||datvuhrqkgl.com$all
+||davivpresbenfes.site$all
 ||dbcxd.top$all
 ||dcdse.online$all
 ||dclottery.com$all
@@ -688,6 +740,7 @@
 ||emjaefotos.com$all
 ||emran-movie.weebly.com$all
 ||en-walletcont.gitbook.io$all
+||end1.my.id$all
 ||endflix.site$all
 ||engineowning.su$all
 ||english.cctv.com$all
@@ -707,6 +760,7 @@
 ||estafeta-store.click$all
 ||estafeta-store.shop$all
 ||estafetai.cc$all
+||ethereum-ide.work$all
 ||etsy.com$all
 ||euphulldlogizei.gitbook.io$all
 ||ev-ri-rescheduletrack.com$all
@@ -719,6 +773,7 @@
 ||exmteamsktsn.gitbook.io$all
 ||exoddswalletlogi.gitbook.io$all
 ||exodisb3wailetu.gitbook.io$all
+||exodus-wallet-*.godaddysites.com$all
 ||exokeyys.s3.us-west-1.amazonaws.com$all
 ||exorcist.site*$all
 ||extremevpn.com$all
@@ -729,6 +784,7 @@
 ||fairbett.com$all
 ||faqserv.com$all
 ||fashionrushbutikk.com$all
+||fatturazioneelettronica.aruba.it$all
 ||faurein.com$all
 ||fawesome.tv$all
 ||fbrevieaccount-managerpage-settingpage-verifynows.pages.dev$all
@@ -755,11 +811,13 @@
 ||fitgirlrepack.games$all
 ||fitimmatheabi.de$all
 ||fjtujhe.weebly.com$all
+||flashbots.net$all
 ||flix-accs.com$all
 ||flixbamba.site*$all
 ||flixpoint.site$all
 ||flow.page$all
 ||flrtrustline.com$all
+||flrtrustline.website$all
 ||fmovies2u.in$all
 ||fmoviesru.com$all
 ||fnmicxrpo.cn$all
@@ -773,6 +831,8 @@
 ||freecp.com$all
 ||freegames.codes$all
 ||freemov.click*$all
+||freeplochtec.*.net$all
+||freeplochtec.dynv6.net$all
 ||freetetris.org$all
 ||freethevbucks.com$all
 ||frennzy.site$all
@@ -850,6 +910,7 @@
 ||gigya.com$all
 ||giminlogesn.gitbook.io$all
 ||giwutjaegroup.sbs$all
+||glamsurystore.com$all
 ||glash.gg$all
 ||glinager*.cyou$all
 ||globalsign.com$all
@@ -866,6 +927,7 @@
 ||grabarz.net$all
 ||grammarin.com$all
 ||grandlaunching.site$all
+||greatestannualeventsinamerica.com$all
 ||greenwall.gg$all
 ||gruner.pl$all
 ||grupo-correos.icu$all
@@ -1002,6 +1064,7 @@
 ||ing-es-appclientes.co$all
 ||ing-es-appmovil.com$all
 ||ing-es-usuarios.com$all
+||ing-es-webcliente.com$all
 ||ing-movil-usuario.com$all
 ||ing.es-acceso-movil.com$all
 ||ing.es-cliente-app.com$all
@@ -1011,6 +1074,7 @@
 ||inpostandparcel.cc$all
 ||inspecpro.com.br$all
 ||instawp.xyz$all
+||interbenefit.viazoneweb.com$all
 ||invoice-swisspass.co$all
 ||invol.co$all
 ||io-app3.info$all
@@ -1038,8 +1102,11 @@
 ||ixxx.com$all
 ||izzysoft.de$all
 ||j3n5k7.com$all
+||jailinrabei.online$all
+||janeway.replit.dev$all
 ||jardinesdelllar.es$all
 ||jawatankosong.my.id$all
+||jaxxliberty.io$all
 ||jbmnh.top$all
 ||jcbvn.top$all
 ||jcvdse.xyz$all
@@ -1073,9 +1140,11 @@
 ||kakaogames.com$all
 ||kakaowebtoon.com$all
 ||kaneacademy.com$all
+||karak-network.vip$all
 ||karousell.com$all
 ||kat.cr$all
 ||katcr.co$all
+||kategorie-promowane-*.buzz$all
 ||kaynshop.pro$all
 ||kerakeniologinn.gitbook.io$all
 ||kernelsu.com$all
@@ -1089,6 +1158,7 @@
 ||kingdomofjesuschrist.org$all
 ||kissanime*.*$all
 ||kissmanga*.*$all
+||kitnatalpremiado.pro$all
 ||kixcoimlogio.gitbook.io$all
 ||kjenwmaxusdnehskdf.weebly.com$all
 ||kkucoinnlogin.gitbook.io$all
@@ -1135,6 +1205,7 @@
 ||latestmodapks.com$all
 ||latestu.wixstudio.io$all
 ||latghfo.duckdns.org$all
+||latm-dezembropromo.com$all
 ||launchdarkly.com$all
 ||lcmack.com$all
 ||ldplayer.net$all
@@ -1143,8 +1214,10 @@
 ||ledercost.gitbook.io$all
 ||ledgerlivedownlosad.gitbook.io$all
 ||ledhgrlivedowload.gitbook.io$all
+||lehealthyarn.com$all
 ||lehighvalleyreads.org$all
 ||letmewatchthis.watch$all
+||lhcet.com$all
 ||lienquangarena-vn.com$all
 ||lightmode.com$all
 ||likely-understood-856883.framer.app$all
@@ -1164,6 +1237,7 @@
 ||ln.run$all
 ||loadcentral.com.ph$all
 ||localdatesonly.com$all
+||locker-mondial.com$all
 ||lockupaccede.com*$all
 ||locmyparcel.com$all
 ||logii-kreakoen.gitbook.io$all
@@ -1171,6 +1245,9 @@
 ||loginx-geminii-accounttv.gitbook.io$all
 ||logistique14.com$all
 ||logiukucoin.gitbook.io$all
+||loja-zinzaneoficial.com$all
+||lojabauducco.store$all
+||lojadaspanelas.online$all
 ||lolfinity.com$all
 ||lonebullet.com$all
 ||lontoo.cn$all
@@ -1196,9 +1273,11 @@
 ||m4ufree.space$all
 ||m5h9c-vb55f-b5f5e.s3.amazonaws.com$all
 ||maahaya.cn$all
+||madaniberbagi.vercel.app$all
 ||madaniportal.vercel.app$all
 ||maegantucker.com$all
 ||magalu-indica.com$all
+||magazineinsight.store$all
 ||magentawave.com$all
 ||magic.ly$all
 ||magicjili.online$all
@@ -1214,6 +1293,7 @@
 ||majorgeeks.com$all
 ||makeuseof.com$all
 ||malavida.com$all
+||malaysia-my.github.io$all
 ||malibal.com$all
 ||mamingsk.vip$all
 ||mamingso.top$all
@@ -1228,6 +1308,7 @@
 ||manhwa18.com$all
 ||manhwa18.net$all
 ||mapsign-in.info$all
+||marathonpetroleumsupply-llc.com$all
 ||maroon-encounter-907933.framer.app$all
 ||martamaskwallt.gitbook.io$all
 ||martiandefense.llc$all
@@ -1250,10 +1331,13 @@
 ||meetamask-exteansion.gitbook.io$all
 ||meetamskkloginq.gitbook.io$all
 ||megagames.com$all
+||megapromo*ltam.com$all
 ||meitymsxitinson.gitbook.io$all
 ||meloginmetamask.gitbook.io$all
 ||memberful.com$all
 ||memuplay.com$all
+||mensagemdia.online$all
+||mensagensdigitalonline.com$all
 ||mensiquwasmrndufidkf.weebly.com$all
 ||menti.com$all
 ||mestamaskwallt.gitbook.io$all
@@ -1280,6 +1364,7 @@
 ||metmmaskchromewrt.gitbook.io$all
 ||metmyaskwallet.gitbook.io$all
 ||metomic.io$all
+||metroglobalcapitalbk.com$all
 ||metsmkchrrmetxens.gitbook.io$all
 ||metsmsk-extsiso.gitbook.io$all
 ||mettaamakwallet.gitbook.io$all
@@ -1291,6 +1376,7 @@
 ||mevetamasklognes.webflow.io$all
 ||mg.co.uk$all
 ||mgftds.xyz$all
+||mice-wrinkle-steel.heyflow.site$all
 ||michelelinhares.adv.br$all
 ||microsoftmailingaccounts.weebly.com$all
 ||mihqrfe.cn$all
@@ -1323,6 +1409,8 @@
 ||momentdisponible.com$all
 ||momentvacant.com$all
 ||mondial-relay-envoi.com$all
+||mondial-relayy.com$all
+||mondialrelay-pickup.fr$all
 ||monkey-type.org$all
 ||monkeytype.club$all
 ||monkeytype.online$all
@@ -1374,6 +1462,8 @@
 ||myupholdlogin.gitbook.io$all
 ||myvaada.top$all
 ||nabsecurex.com$all
+||namade.live$all
+||naturenestu*.shop$all
 ||nbdfse.xyz$all
 ||ndsfe.top$all
 ||ne16.com$all
@@ -1410,6 +1500,7 @@
 ||o-lx.*.xyz$all
 ||o.o$all
 ||o18.click$all
+||o2ios0iya1h00mai119io32eus639ver1fy3.netlify.app$all
 ||obchody.heureka.sk$all
 ||obyvomv.cn$all
 ||oceansaver.in$all
@@ -1417,6 +1508,7 @@
 ||oeco.site$all
 ||oelsmekdfudjawnsd.weebly.com$all
 ||oferta*.online$all
+||ofig4ciali.com$all
 ||ogfdrf.xyz$all
 ||oguin-uphholl.gitbook.io$all
 ||oix.*.xyz$all
@@ -1446,6 +1538,7 @@
 ||opensea.io$all
 ||opera.com$all
 ||operacdn.com$all
+||opo5zsbro.top$all
 ||opuybfj.cn$all
 ||orange-smsvocal.fr.to$all
 ||orgmail.weebly.com$all
@@ -1455,7 +1548,10 @@
 ||otzo.com$all
 ||ouive.cn$all
 ||ourbrilliantruin.com$all
+||outcome-chelsea-doom-orchestra.trycloudflare.com$all
+||outlettluaudalua.store$all
 ||outlookomailupdate.mystrikingly.com$all
+||overbanksprug.space$all
 ||ovh-id.com$all
 ||ovh.page.link$all
 ||ozpvyqzy.cn$all
@@ -1469,15 +1565,20 @@
 ||parcel-info-status-gb.com$all
 ||parg.co$all
 ||parlaybl88.us$all
+||participant-empower-retirement.net$all
 ||particulares-ingdirect.info$all
 ||paylogss.com$all
 ||paymaya.co$all
 ||paypllalogi-inaccoumt.gitbook.io$all
 ||pc-bola88dewa.com$all
+||pccrypto.co$all
+||pcho.gumroad.com$all
 ||people.com.cn$all
 ||personas.bci.cl.developers.reeras.site$all
 ||pervuse.com$all
 ||pesanantokopedia.com$all
+||pestanaleiloesr.com$all
+||petpals*.shop$all
 ||petslifesolution.com$all
 ||pgyer.com$all
 ||phakntom-wallent.gitbook.io$all
@@ -1511,6 +1612,7 @@
 ||pinoytv-ako.blogspot.com$all
 ||pirate-bay-proxy.org$all
 ||pirateproxy-bay.com$all
+||pl-*.buzz$all
 ||pl-*.shop$all
 ||placepay.xyz$all
 ||plagedetemps.com$all
@@ -1544,8 +1646,10 @@
 ||pramjse.net.pl$all
 ||prcjobhiring.blogspot.com$all
 ||premio.io$all
+||presente-premiado.com$all
 ||pricewatch.cn$all
 ||prime-sslbr3.com$all
+||primevideosfaturs.zohosites.com$all
 ||privacy-mgmt.com$all
 ||privacybreach.s3.us-west-1.amazonaws.com$all
 ||privacymanager.io$all
@@ -1555,6 +1659,7 @@
 ||profitablecpmrate.com*$all
 ||profitablegatecpm.com$all
 ||profitwell.com$all
+||profs.mensagemdia.online$all
 ||programarecompensa.xyz$all
 ||proinstal-alba.ro$all
 ||projectwingman.fandom.com$all
@@ -1571,6 +1676,7 @@
 ||purple298929.studio.site$all
 ||pvdscdv.cn$all
 ||pvxsd.top$all
+||pzdeco.com$all
 ||q-r.to$all
 ||qdfwef.xyz$all
 ||qdzqmqzvj.cn$all
@@ -1617,8 +1723,10 @@
 ||reaktivierung-sapp2.xyz$all
 ||reamaze.com$all
 ||reangbloge.my.id$all
+||reativamagalu.com$all
 ||rebrand.ly$all
 ||rebrandly.com$all
+||recibeloahoraa.online$all
 ||redirect-*.zerobot.delivery$all
 ||redirectplush.co.ua$all
 ||redr.me$all
@@ -1630,8 +1738,10 @@
 ||releases.moe$all
 ||remcaeuhl.cn$all
 ||reservaplataformoct.top$all
+||resgatar-*black.site$all
 ||respectfullalternate.com*$all
 ||respectfullyalternate.com$all
+||retourscolis.com$all
 ||reurl.cc$all
 ||revanced.*,to=~revanced.app$all
 ||revancedmanager.*$all
@@ -1655,6 +1765,7 @@
 ||robux.gifts$all
 ||royal-mail-sender.web.app$all
 ||rpcnodeproject.dev$all
+||rpoesgrayllp.shop$all
 ||rroolamwsnzbsdejd.weebly.com$all
 ||rtd-1060rt03.weeblysite.com$all
 ||rtings.com$all
@@ -1675,6 +1786,7 @@
 ||s3a2y3.com$all
 ||sa-geek.org$all
 ||sa.com$all
+||saka.ceshi*.com$all
 ||samft.com$all
 ||sbcglobalenterprisesteam.weebly.com$all
 ||sbcmaills24.weebly.com$all
@@ -1686,6 +1798,7 @@
 ||se7en.ws$all
 ||sebeepromotage.in.net$all
 ||secureclick.net$all
+||secured-db*-websitemessage-log.webflow.io$all
 ||securefilepowerpoint.sbs$all
 ||securepaymentverify.000.pe$all
 ||securityadmin099.weebly.com$all
@@ -1755,10 +1868,12 @@
 ||someapp.com$all
 ||someapps.org$all
 ||sooieuwmxbbfhrjkds.weebly.com$all
+||soportelider.info$all
 ||soriano.cn$all
 ||sota.travel$all
 ||spachsw.formstack.com$all
 ||sparkasse-agb-aktualisierung.com$all
+||sparkfi.co$all
 ||sparkflaretrust.com$all
 ||sparkflrcnt.com$all
 ||special-wealth-628208.framer.app$all
@@ -1777,6 +1892,7 @@
 ||store.crunchy.roll$all
 ||store.crunchy.roll.au$all
 ||stripchat.com$all
+||sualojaonline.store$all
 ||submit-violation--review.vercel.app$all
 ||summoners-vault.com$all
 ||supercheats.com$all
@@ -1800,6 +1916,7 @@
 ||tachiyomi.pro$all
 ||takemod.com$all
 ||talking.sbs$all
+||tamagencybrasil.com$all
 ||tan383519.studio.site$all
 ||tapas.io$all
 ||tapimg.com$all
@@ -1811,6 +1928,7 @@
 ||techspot.com$all
 ||techylist.com$all
 ||techzapk.net$all
+||teknak.com$all
 ||tekpon.com$all
 ||telegram.org$all
 ||temporary-demo.site$all
@@ -1838,6 +1956,11 @@
 ||thespike.gg$all
 ||theworldwewant.is$all
 ||threadai.zip$all
+||ticketpromolatm*.store$all
+||tiecteabreak.com$all
+||tiketes-baratos.com$all
+||tiketesbaratoscol.com$all
+||tiketesbaratospromo.com$all
 ||tinypass.com$all
 ||tinyurl.com$all
 ||tips.gg$all
@@ -1863,6 +1986,7 @@
 ||trafficjunky.com$all
 ||traiazorwallete.gitbook.io$all
 ||trainersforgames.com$all
+||tramitependientedeclare.webnode.cr$all
 ||trazeorwallet.gitbook.io$all
 ||tredzorwageletr.gitbook.io$all
 ||trejairiostarrtuss.gitbook.io$all
@@ -1875,6 +1999,7 @@
 ||tricksvile.com$all
 ||trrzourwalet.gitbook.io$all
 ||true-overlays-943098.framer.app$all
+||trust-wallet-aml.info$all
 ||trustarc.com$all
 ||trustlxtesn.gitbook.io$all
 ||trustpilot.com$all
@@ -1922,6 +2047,7 @@
 ||unclock.site$all
 ||undetectable.ai$all
 ||universalgroundcareltd.weebly.com$all
+||universeactivemailbox.weebly.com$all
 ||unknowncheats.me$all
 ||unpkg.com$all
 ||unrankedsmurfs.com$all
@@ -1956,6 +2082,7 @@
 ||usps.com-postks.top$all
 ||usps.com-postmi.top$all
 ||usps.com-postnz.top$all
+||usps.com-track*.*$all
 ||usps.com-trackhn.top$all
 ||usps.com-tracktbq.top$all
 ||usps24.cc$all
@@ -1983,6 +2110,7 @@
 ||vetylogaminasap.weebly.com$all
 ||vgaygppdc.cn$all
 ||vgchartz.com$all
+||viawebzone.com$all
 ||victoriafarw.com$all
 ||viettelpostle.top$all
 ||viewstats.com$all
@@ -2060,12 +2188,14 @@
 ||xdmzfuhkt.cn$all
 ||xevens3x.pages.dev$all
 ||xhamster.com$all
+||xhfhjcghjhv.webflow.io$all
 ||xranks.com$all
 ||xsdfd.top$all
 ||xsolla.net$all
 ||xwc0b.cn$all
 ||y183-va091-9av8.buzz$all
 ||ya.ru$all
+||yacinetvapk.link$all
 ||yahoomailverifications2.weebly.com$all
 ||yahoomojsghsh.weebly.com$all
 ||yahoopaymentsecurity.weebly.com$all
@@ -2105,6 +2235,7 @@
 ||ziffstatic.com$all
 ||zijieapi.com$all
 ||zintrack.com$all
+||zinza-blacknovember.site$all
 ||zireemilsoude.net$all
 ||zjxas.com$all
 ||zonekanzah.site$all
