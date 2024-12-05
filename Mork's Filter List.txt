@@ -83,6 +83,7 @@
 ||6836457.xyz$all
 ||74354675478236.weebly.com$all
 ||777mini.*$all
+||77gg.ac$all
 ||77tbet.bet$all
 ||77tbet.win$all
 ||7836457.xyz$all
@@ -135,6 +136,7 @@
 ||adageun.top$all
 ||adatae.top$all
 ||adchoices.asia$all
+||adform.net$all
 ||adjhh.top$all
 ||adobedtm.com$all
 ||ads-microsofl.com$all
@@ -156,6 +158,7 @@
 ||agreedairdalton.com$all
 ||ahorro.rest$all
 ||ahorro.sbs$all
+||ahrefs.com$all
 ||aifriendzones.com$all
 ||airpal.id$all
 ||ais-poin.icu$all
@@ -276,6 +279,7 @@
 ||arubafattura.19881billings.com$all
 ||asf.my.id$all
 ||ashrdf.xyz$all
+||askyourpdf.com$all
 ||asthmanotchcave.com*$all
 ||asv.cabofrio.rj.gov.br$all
 ||at-t-mail-d77caa.webflow.io$all
@@ -860,6 +864,7 @@
 ||gov.cn$all
 ||gov.livingallowancezt.top$all
 ||grabarz.net$all
+||grammarin.com$all
 ||grandlaunching.site$all
 ||greenwall.gg$all
 ||gruner.pl$all
@@ -959,6 +964,8 @@
 ||hubtrezorstart.webflow.io$all
 ||huiguige*.cyou$all
 ||hukmnuxsz.cn$all
+||humanizeai.*$all
+||humanizer.org$all
 ||humas.paserkab.go.id$all
 ||humbot.ai$all
 ||huxjbkwj.cn$all
@@ -1056,6 +1063,7 @@
 ||jvoie551.icu$all
 ||jvxoyeofe.cn$all
 ||jwwczlabf.cn$all
+||k7y25shaa.at$all
 ||kagari.moe$all
 ||kagari.online$all
 ||kakao.com$all
@@ -1206,6 +1214,7 @@
 ||majorgeeks.com$all
 ||makeuseof.com$all
 ||malavida.com$all
+||malibal.com$all
 ||mamingsk.vip$all
 ||mamingso.top$all
 ||mamingsu.top$all
@@ -1232,6 +1241,7 @@
 ||mcpedl.com$all
 ||mcpedl.download$all
 ||mcpedl.org$all
+||mdas-gov.tw$all
 ||mdfsg.top$all
 ||meapholdlgin.gitbook.io$all
 ||meapholdlogn.gitbook.io$all
@@ -1371,6 +1381,7 @@
 ||netfangvefsioa.github.io$all
 ||netfixconnect.shop$all
 ||nettfilpex.com$all
+||neurobot-ai.space$all
 ||new-dom1.square.site$all
 ||new-serve00.square.site$all
 ||new.express.adobe.com$all
@@ -1454,6 +1465,7 @@
 ||page--sso--itrustcapital.webflow.io$all
 ||panels.art$all
 ||panopal.online$all
+||paraphraser.io$all
 ||parcel-info-status-gb.com$all
 ||parg.co$all
 ||parlaybl88.us$all
@@ -1623,6 +1635,7 @@
 ||reurl.cc$all
 ||revanced.*,to=~revanced.app$all
 ||revancedmanager.*$all
+||rewritify.ai$all
 ||rfvdcs.xyz$all
 ||rfvvuplfk.cn$all
 ||right-desktop-218841.framer.app$all
@@ -1690,6 +1703,7 @@
 ||sestosensobarrafranca.it$all
 ||sever7478765.weebly.com$all
 ||sewing-ladyltd.myshopify.com$all
+||sh1c7o7vvv.uk$all
 ||shadowxcraft.net$all
 ||shamyouthattach.com$all
 ||shareearn.net$all
@@ -1758,6 +1772,7 @@
 ||stastaucm.com$all
 ||static.doubleclick.net$all
 ||stats.theindex.moe$all
+||stealthwriter.ai$all
 ||stellarose.site$all
 ||store.crunchy.roll$all
 ||store.crunchy.roll.au$all
@@ -1905,6 +1920,7 @@
 ||uk-item-info.com$all
 ||ultra-tall-cow-bcp.glitch.me$all
 ||unclock.site$all
+||undetectable.ai$all
 ||universalgroundcareltd.weebly.com$all
 ||unknowncheats.me$all
 ||unpkg.com$all
@@ -2006,6 +2022,7 @@
 ||wemod.com$all
 ||weway.travel$all
 ||wheresuhaul.com$all
+||whitebridge.ai$all
 ||whsapts.top$all
 ||wikihow.com$all
 ||wilottery.com$all
@@ -2020,6 +2037,8 @@
 ||worldsofdypians.com$all
 ||wov1f4-g4gsf3-9f8eed-qn43cv.netlify.app$all
 ||wrayljjju.cn$all
+||writehuman.ai$all
+||writesonic.com$all
 ||wtfast.com$all
 ||wtoskw.top$all
 ||wuaiji.com$all
