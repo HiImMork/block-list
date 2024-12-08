@@ -4,33 +4,41 @@
 ! Author Contact: https://discord.com/users/1070905639162875905
 ! Homepage: https://github.com/HiImMork/block-list
 ! URL: https://github.com/HiImMork/block-list/blob/main/Mork's%20Filter%20List.txt
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-! List starts here:
-@@||mnhwa*.xyz^
-||*-customers-mufg.com$all
-||*.apps-ing-direct.com$all
-||*.best$all
-||*.bet$all,to=~www.bet.com
-||*.choyoga.com$all
-||*.click$all
-||*.cyou$all
-||*.i-boss.co.kr$all
-||*.makeup$all
-||*.monster$all
-||*.sbs$all
-||*.sviluppo.host$all
-||*.top$all
-||*.urban*outfitters.shop$all
-||*.vip$all
-||*.xyz$all
-||*.zgpartners.com.au$all
-||*aniwave*.*$all
-||*app-sys-*-web3-*.*$all
-||*bet.*$all
-||*bingoplus*.*$all
-||*free.*$all
-||*fs.net$all
-||*giftredeem.*$all
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+! Put all exceptions here:
+@@akidoo.top
+@@alphafish.top
+@@apperoni.top
+@@balley.top
+@@bitpix.top
+@@mnhwa*.xyz^
+
+! Put all block fliters here:
+*-customers-mufg.com$all
+*.apps-ing-direct.com$all
+*.best$all
+*.bet$all,to=~www.bet.com
+*.choyoga.com$all
+*.click$all
+*.cyou$all
+*.i-boss.co.kr$all
+*.makeup$all
+*.monster$all
+*.sbs$all
+*.sviluppo.host$all
+*.top$all
+*.urban*outfitters.shop$all
+*.vip$all
+*.xyz$all
+*.zgpartners.com.au$all
+*aniwave*.$all
+*app-sys-*-web3-*.$all
+*bet.*$all
+*bingoplus*.$all
+*free.*$all
+*fs.net$all
+*giftredeem.*$all
+*gogoanime*.$all,to=~gogoanime3.cc
 ||0001home.webflow.io$all
 ||01qunapk15.shop$all
 ||0344223.xyz$all
@@ -105,7 +113,7 @@
 ||9344223.xyz$all
 ||9525325.xyz$all
 ||9836457.xyz$all
-||9anime*.*$all
+||9anime*.$all
 ||9cache.com$all
 ||9gag.com$all
 ||9minecraft.net$all
@@ -125,7 +133,6 @@
 ||accessagricoledigitale.com$all
 ||accessible-fact-091660.framer.app$all
 ||accountbanking-online.servebbs.com$all
-||accounts.kakao.com$all
 ||acecombat.fandom.com$all
 ||acejackpot1.com$all
 ||acejackpot2.com$all
@@ -184,7 +191,7 @@
 ||allegro*.pw$all
 ||allegro*.run$all
 ||allegrolokainie.*.xyz$all
-||allegrolokalnie*.*$all
+||allegrolokalnie*.$all
 ||allegrolokalnie.proponowane-*-*.shop$all
 ||alltocon.com$all
 ||almostmy.com$all
@@ -212,7 +219,7 @@
 ||animerock.io$all
 ||animetime.pw$all
 ||animeulti.com$all
-||anitaku*.*$all,to=~anitaku.bz
+||anitaku*.$all,to=~anitaku.bz
 ||aniwave.baby$all
 ||aniwave.com.es$all
 ||aniwave.ee$all
@@ -373,7 +380,7 @@
 ||belugalab.com$all
 ||bereichsicherheit.com$all
 ||bestbuyloot.com$all
-||bet*.*$all
+||bet*.$all
 ||bettermeter.com$all
 ||bettingtop10.ca$all
 ||bia-atendimento.com$all
@@ -706,7 +713,7 @@
 ||drivereasy.com$all
 ||droidbang.com$all
 ||dsfe.top$all
-||dsfeg.*.*$all
+||dsfeg.*.$all
 ||dsprrdbsonline.com$all
 ||dub.sh$all
 ||duckdns.org$all
@@ -917,7 +924,7 @@
 ||globalsign.com$all
 ||globe.gdn$all
 ||globesimregistrations.org$all
-||gogoanime*.*$all,to=~gogoanime3.cc
+||gogoanime*.$all,to=~gogoanime3.cc
 ||gonklhetr.cyou$all
 ||googleads.com$all
 ||gorgias.chat$all
@@ -946,11 +953,7 @@
 ||gxcbuftkk.cn$all
 ||h*.g*.jp$all
 ||hacktricks.xyz$all
-||hanime.com$all
-||hanime.red$all
-||hanime.watch$all
-||hanime.xxx$all
-||hanimes.org$all
+||hanime*.$all,to=~hanime.tv
 ||hapake.org$all
 ||happlu-iew.xyz$all
 ||happy-mod.com$all
@@ -1134,12 +1137,7 @@
 ||k7y25shaa.at$all
 ||kagari.moe$all
 ||kagari.online$all
-||kakao.com$all
-||kakaobank.com$all
-||kakaocorp.com$all
-||kakaoent.com$all
-||kakaogames.com$all
-||kakaowebtoon.com$all
+||kakao*.com$all
 ||kaneacademy.com$all
 ||karak-network.vip$all
 ||karousell.com$all
@@ -1157,8 +1155,8 @@
 ||kickcommunity.com$all
 ||kiiiakenlogin.gitbook.io$all
 ||kingdomofjesuschrist.org$all
-||kissanime*.*$all
-||kissmanga*.*$all
+||kissanime*.$all
+||kissmanga*.$all
 ||kitnatalpremiado.pro$all
 ||kixcoimlogio.gitbook.io$all
 ||kjenwmaxusdnehskdf.weebly.com$all
@@ -1478,7 +1476,7 @@
 ||new.express.adobe.com$all
 ||newcode.6amtrade.xyz$all
 ||newversionattmailapps.weebly.com$all
-||nhentai*.*$all,to=~nhentai.net
+||nhentai*.$all,to=~nhentai.net
 ||nick-name.ru$all
 ||niiace.site$all
 ||nijisanji-store.com$all
@@ -1608,7 +1606,7 @@
 ||phrmaya.com$all
 ||phsss.tw$all
 ||phusmolpy.cn$all
-||phwin*.*$all
+||phwin*.$all
 ||pinan.gov.ph$all
 ||pingzapper.com$all
 ||pinkssale.pages.dev$all
@@ -1915,7 +1913,7 @@
 ||t-terzorwalltii.gitbook.io$all
 ||t.ly$all
 ||t.me$all
-||tachiyomi*.*$all
+||tachiyomi*.$all
 ||tachiyomi.pro$all
 ||takemod.com$all
 ||talking.sbs$all
@@ -2085,7 +2083,7 @@
 ||usps.com-postks.top$all
 ||usps.com-postmi.top$all
 ||usps.com-postnz.top$all
-||usps.com-track*.*$all
+||usps.com-track*.$all
 ||usps.com-trackhn.top$all
 ||usps.com-tracktbq.top$all
 ||usps24.cc$all
@@ -2108,7 +2106,7 @@
 ||vastushailendra.com$all
 ||vbucks.ar$all
 ||vdsef.top$all
-||ver-log24.com$all
+||ver-log*.com$all
 ||verificacion-de-preguntas-de-seguridad-bhd.weebly.com$all
 ||vetylogaminasap.weebly.com$all
 ||vgaygppdc.cn$all
@@ -2117,7 +2115,7 @@
 ||victoriafarw.com$all
 ||viettelpostle.top$all
 ||viewstats.com$all
-||vilw-107479.weeblysite.com$all
+||vilw-*.weeblysite.com$all
 ||viptronica.com$all
 ||vipverify.net$all
 ||visually-io.com$all
@@ -2132,7 +2130,7 @@
 ||wafe.co.id$all
 ||walktask.com$all
 ||walletcoinbase.gitbook.io$all
-||walletconnect-----docs.gitbook.io$all
+||walletconnect-*-docs.gitbook.io$all
 ||walletconnect.com$all
 ||walletlink.org$all
 ||warhammer40k.fandom.com$all
@@ -2143,7 +2141,7 @@
 ||webcindario.com$all
 ||webintoapp.com$all
 ||webiyghio.weebly.com$all
-||webmail-101797.weeblysite.com$all
+||webmail-*.weeblysite.com$all
 ||weeklybucks.com$all
 ||weibo.cn$all
 ||weibo.com$all
