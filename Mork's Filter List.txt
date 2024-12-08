@@ -10,7 +10,7 @@
 ||*-customers-mufg.com$all
 ||*.apps-ing-direct.com$all
 ||*.best$all
-||*.bet,to=~www.bet.com$all
+||*.bet$all,to=~www.bet.com
 ||*.choyoga.com$all
 ||*.click$all
 ||*.cyou$all
@@ -212,7 +212,7 @@
 ||animerock.io$all
 ||animetime.pw$all
 ||animeulti.com$all
-||anitaku*.*,to=~anitaku.bz$all
+||anitaku*.*$all,to=~anitaku.bz
 ||aniwave.baby$all
 ||aniwave.com.es$all
 ||aniwave.ee$all
@@ -753,7 +753,8 @@
 ||epg*.shop$all
 ||epg-govpostc.*$all
 ||eptmlr.top$all
-||epy12487-my-cheetah-website.site.builderall.net$all
+||epy*-my-cheetah-website.site.builderall.net$all
+||equalizerapo.com$all
 ||esadf.top$all
 ||esdfa.online$all
 ||estafeta-store.cc$all
@@ -916,7 +917,7 @@
 ||globalsign.com$all
 ||globe.gdn$all
 ||globesimregistrations.org$all
-||gogoanime*.*,to=~gogoanime3.cc$all
+||gogoanime*.*$all,to=~gogoanime3.cc
 ||gonklhetr.cyou$all
 ||googleads.com$all
 ||gorgias.chat$all
@@ -1477,7 +1478,7 @@
 ||new.express.adobe.com$all
 ||newcode.6amtrade.xyz$all
 ||newversionattmailapps.weebly.com$all
-||nhentai*.*,to=~nhentai.net$all
+||nhentai*.*$all,to=~nhentai.net
 ||nick-name.ru$all
 ||niiace.site$all
 ||nijisanji-store.com$all
@@ -1534,6 +1535,7 @@
 ||onetrust.com$all
 ||onfredsezsom*.godaddysites.com$all
 ||onmicrosoft.us$all
+||onworks.net$all
 ||openbet.com$all
 ||opensea.io$all
 ||opera.com$all
@@ -1573,6 +1575,7 @@
 ||pc-bola88dewa.com$all
 ||pccrypto.co$all
 ||pcho.gumroad.com$all
+||peaceequalizer.com$all
 ||people.com.cn$all
 ||personas.bci.cl.developers.reeras.site$all
 ||pervuse.com$all
@@ -1743,7 +1746,7 @@
 ||respectfullyalternate.com$all
 ||retourscolis.com$all
 ||reurl.cc$all
-||revanced.*,to=~revanced.app$all
+||revanced.*$all,to=~revanced.app
 ||revancedmanager.*$all
 ||rewritify.ai$all
 ||rfvdcs.xyz$all
