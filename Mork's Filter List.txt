@@ -14,6 +14,8 @@
 @@mnhwa*.xyz^
 
 ! Put all block fliters here:
+||a2zapk.*$all
+||apkmody.*$all
 *-customers-mufg.com$all
 *.apps-ing-direct.com$all
 *.best$all
@@ -120,8 +122,6 @@
 ||9wp1ta-c0.myshopify.com$all
 ||a-movies.com$all
 ||a100tech.com$all
-||a2zapk.io$all
-||a2zapk.org$all
 ||a776.win$all
 ||a7f4q5.com$all
 ||aapple.pages.dev$all
@@ -220,17 +220,6 @@
 ||animetime.pw$all
 ||animeulti.com$all
 ||anitaku*.$all,to=~anitaku.bz
-||aniwave.baby$all
-||aniwave.com.es$all
-||aniwave.ee$all
-||aniwave.es$all
-||aniwave.fit$all
-||aniwave.icu$all
-||aniwave.lv$all
-||aniwave.mom$all
-||aniwave.se$all
-||aniwave.to$all
-||aniwave.to.tv$all
 ||anturis.com$all
 ||anycolor.co$all
 ||anycolor.co.jp$all
@@ -258,9 +247,6 @@
 ||apklinker.com$all
 ||apkmb.com$all
 ||apkmodget.com$all
-||apkmody.com$all
-||apkmody.fun$all
-||apkmody.io$all
 ||apkmonk.com$all
 ||apkplanet.net$all
 ||apkresult.com$all
@@ -1710,10 +1696,7 @@
 ||rainbow-unnoticia-viabcp.glitch.me$all
 ||rakmanengineering.co.ke$all
 ||rakutenadvertising.io$all
-||rarbg-official.com$all
-||rarbg.live$all
-||rarbg.to$all
-||rarbg.tw$all
+||rarbg*.*$all
 ||rational-experience-167097.framer.app$all
 ||rattlekindergartencultivate.com$all
 ||raum-dkb.com$all
