@@ -5,17 +5,8 @@
 ! Homepage: https://github.com/HiImMork/block-list
 ! URL: https://github.com/HiImMork/block-list/blob/main/Mork's%20Filter%20List.txt
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-! Put all exceptions here:
-@@akidoo.top
-@@alphafish.top
-@@apperoni.top
-@@balley.top
-@@bitpix.top
-@@mnhwa*.xyz^
 
 ! Put all block fliters here:
-||a2zapk.*$all
-||apkmody.*$all
 *-customers-mufg.com$all
 *.apps-ing-direct.com$all
 *.best$all
@@ -37,10 +28,26 @@
 *app-sys-*-web3-*.$all
 *bet.*$all
 *bingoplus*.$all
+*free.$all
 *free.*$all
 *fs.net$all
 *giftredeem.*$all
 *gogoanime*.$all,to=~gogoanime3.cc
+.best$all
+.bet$all,to=~www.bet.com
+.choyoga.com$all
+.click$all
+.cyou$all
+.i-boss.co.kr$all
+.makeup$all
+.monster$all
+.sbs$all
+.sviluppo.host$all
+.top$all
+.urban*outfitters.shop$all
+.vip$all
+.xyz$all
+.zgpartners.com.au$all
 ||0001home.webflow.io$all
 ||01qunapk15.shop$all
 ||0344223.xyz$all
@@ -51,6 +58,7 @@
 ||103.184.180.157$all
 ||107.174.235.95$all
 ||1138403.com$all
+||11808.com$all
 ||123moviescom.net$all
 ||123moviesonline.pro$all
 ||1248593.com$all
@@ -86,6 +94,7 @@
 ||3525325.xyz$all
 ||360haven.com$all
 ||360tour.philrice.gov.ph$all
+||3846bj.com$all
 ||3l3tgfzk8u.free.hr$all
 ||414271d07442cc9e2.podzone.org$all
 ||4344223.xyz$all
@@ -122,6 +131,8 @@
 ||9wp1ta-c0.myshopify.com$all
 ||a-movies.com$all
 ||a100tech.com$all
+||a2zapk.$all
+||a2zapk.*$all
 ||a776.win$all
 ||a7f4q5.com$all
 ||aapple.pages.dev$all
@@ -130,6 +141,7 @@
 ||abtasty.com$all
 ||abvnd.top$all
 ||acasd.top$all
+||acceplay.site$all
 ||accessagricoledigitale.com$all
 ||accessible-fact-091660.framer.app$all
 ||accountbanking-online.servebbs.com$all
@@ -179,6 +191,7 @@
 ||airlinevooslatambrasil.site$all
 ||airpal.id$all
 ||ais-poin.icu$all
+||aithor.com$all
 ||aizipai.cn$all
 ||ajhjo.cn$all
 ||albemarlepro.com$all
@@ -193,6 +206,7 @@
 ||allegrolokainie.*.xyz$all
 ||allegrolokalnie*.$all
 ||allegrolokalnie.proponowane-*-*.shop$all
+||allmutt.(com)$all
 ||alltocon.com$all
 ||almostmy.com$all
 ||alpha-betlottery.com$all
@@ -238,19 +252,19 @@
 ||apkcombo.com$all
 ||apkcombo.id$all
 ||apkcombo.store$all
-||apkdone.co.in$all
-||apkdone.com$all
-||apkdone.mobi$all
+||apkdone*.$all
 ||apkfab.com$all
 ||apkfuel.com$all
 ||apkkey.com$all
 ||apklinker.com$all
 ||apkmb.com$all
 ||apkmodget.com$all
+||apkmody.$all
+||apkmody.*$all
 ||apkmonk.com$all
 ||apkplanet.net$all
-||apkresult.com$all
-||apkresult.net$all
+||apkpure*.$all,to=~apkpure.com
+||apkresult.*$all
 ||apksfull.com$all
 ||apkshub.com$all
 ||apksos.com$all
@@ -266,6 +280,7 @@
 ||appdome.com$all
 ||apphero.co$all
 ||apponic.com$all
+||apps-ing-direct.com$all
 ||appscotiseguronline.site$all
 ||appsgag.com$all
 ||appsmav.com$all
@@ -282,7 +297,9 @@
 ||arenavalorgarena.com$all
 ||arianos.online$all
 ||aristois.net$all
+||arloblue.com$all
 ||arms.iu.edu$all
+||aromapulauseribu.com$all
 ||artykuly-polecane-*.buzz$all
 ||arubafattura.19881billings.com$all
 ||asf.my.id$all
@@ -392,6 +409,7 @@
 ||blackfrydanet.site$all
 ||blacknovember-oficial.site$all
 ||blacksexy.site$all
+||blacksooul.site$all
 ||blackspigot.com$all
 ||blanket-engagement-rejected-prominent.trycloudflare.com$all
 ||bleepingcomputer.com$all
@@ -444,6 +462,7 @@
 ||bypassgpt.ai$all
 ||byteoversea.com$all
 ||c3o2024irs07g0v56ya00mai109ser7yio32.netlify.app$all
+||c3ri123gok1l.live$all
 ||caadapsal.top$all
 ||cabofrio.rj.gov.br$all
 ||cafebazaar.ir$all
@@ -478,6 +497,7 @@
 ||cdsde.top$all
 ||cemqutigq.cn$all
 ||central-oficinas.com$all
+||ceri*.$all
 ||cfacooperativafina.wixsite.com$all
 ||cfolks.pl$all
 ||cgd-apoioparticulares.com$all
@@ -592,6 +612,7 @@
 ||countlessdispleased.com$all
 ||couriiergr.ink$all
 ||courteous-empathy-636213.framer.app$all
+||couryah.com$all
 ||covadenilsport.com$all
 ||cpc.people.com.cn$all
 ||cpmrevenuegate.com$all
@@ -602,7 +623,7 @@
 ||crommetmsk-extnsion.gitbook.io$all
 ||crunchyroll.com$all
 ||cruwshwcl.cn$all
-||cryptozooworld.com$all
+||cryptozooworld*.$all
 ||cs.rin.ru$all
 ||cs2-bets.org$all
 ||csam-be.com$all
@@ -633,6 +654,7 @@
 ||currentlysweb.weebly.com$all
 ||currentlyu73367.weebly.com$all
 ||curtismooney*.wixsite.com$all
+||customers-mufg.com$all
 ||cutt.ly$all
 ||cvbynumnybt.weebly.com$all
 ||cyber-flash.com$all
@@ -657,6 +679,7 @@
 ||dev-react-js-api.onrender.com$all
 ||devicecrazy.com$all
 ||devxbnfhg.cn$all
+||dewi*.$all
 ||dfast.app$all
 ||dfgess.xyz$all
 ||dgm-l.uatextfront66.com$all
@@ -691,6 +714,7 @@
 ||download.it$all
 ||dppd.*.xyz$all
 ||dqutty.cyou$all
+||dramabox.com$all
 ||drankdrinkdrunk.site$all
 ||dreamwp.com$all
 ||drinkcirkul.com$all
@@ -772,6 +796,7 @@
 ||exorcist.site*$all
 ||extremevpn.com$all
 ||extrust-walt.gitbook.io$all
+||f31c.short.gy$all
 ||fa-favabook.click$all
 ||factor75.com$all
 ||failed-parcel-reschedule.com$all
@@ -808,6 +833,7 @@
 ||flashbots.net$all
 ||flix-accs.com$all
 ||flixbamba.site*$all
+||flixmate.site$all
 ||flixpoint.site$all
 ||flow.page$all
 ||flrtrustline.com$all
@@ -831,6 +857,7 @@
 ||freethevbucks.com$all
 ||frennzy.site$all
 ||ftuwrubh.cn$all
+||fundingtraders.com$all
 ||funkylace.com$all
 ||funplay.site*$all
 ||future-advertising.com$all
@@ -1093,6 +1120,7 @@
 ||izzysoft.de$all
 ||j3n5k7.com$all
 ||jailinrabei.online$all
+||jaksel.id$all
 ||janeway.replit.dev$all
 ||jardinesdelllar.es$all
 ||jawatankosong.my.id$all
@@ -1275,6 +1303,7 @@
 ||mail-optusnet-com-au.studio.site$all
 ||maillingpost.com$all
 ||mailphitealistarsp.sbs$all
+||maiyet*.$all
 ||majorgeeks.com$all
 ||makeuseof.com$all
 ||malavida.com$all
@@ -1410,6 +1439,7 @@
 ||movifulllink.my.id$all
 ||mozimsklogi.gitbook.io$all
 ||mpgh.net$all
+||mpo*.$all
 ||mrantifun.net$all
 ||mrbeast.store$all
 ||mrbeastburger.com$all
@@ -1474,6 +1504,7 @@
 ||nordsecurity.com$all
 ||nordvpn.com$all
 ||nordvpn.org$all
+||northloganhealthcarecenter.com$all
 ||norton.com$all
 ||nosteam.ro$all
 ||novatech.co$all
@@ -1540,6 +1571,7 @@
 ||overbanksprug.space$all
 ||ovh-id.com$all
 ||ovh.page.link$all
+||oxll88*.$all
 ||ozpvyqzy.cn$all
 ||paaysphere.com$all
 ||paddle.com$all
@@ -1696,7 +1728,8 @@
 ||rainbow-unnoticia-viabcp.glitch.me$all
 ||rakmanengineering.co.ke$all
 ||rakutenadvertising.io$all
-||rarbg*.*$all
+||rarbg*.$all
+||rargb*.$all
 ||rational-experience-167097.framer.app$all
 ||rattlekindergartencultivate.com$all
 ||raum-dkb.com$all
@@ -1711,6 +1744,7 @@
 ||rebrand.ly$all
 ||rebrandly.com$all
 ||recibeloahoraa.online$all
+||redbears.site$all
 ||redirect-*.zerobot.delivery$all
 ||redirectplush.co.ua$all
 ||redr.me$all
@@ -1727,8 +1761,8 @@
 ||respectfullyalternate.com$all
 ||retourscolis.com$all
 ||reurl.cc$all
-||revanced.*$all,to=~revanced.app
-||revancedmanager.*$all
+||revanced*.$all,to=~revanced.app
+||revancedmanager*.$all
 ||rewritify.ai$all
 ||rfvdcs.xyz$all
 ||rfvvuplfk.cn$all
@@ -1772,6 +1806,7 @@
 ||sa.com$all
 ||saka.ceshi*.com$all
 ||samft.com$all
+||samsungstore-id.online$all
 ||sbcglobalenterprisesteam.weebly.com$all
 ||sbcmaills24.weebly.com$all
 ||sch.id$all
@@ -1828,6 +1863,7 @@
 ||sky-main.weebly.com$all
 ||skycheats.com$all
 ||slatic.net$all
+||sluicebigheartedpeevish.com$all
 ||smart-usps.top$all
 ||smartsimregistrations.org$all
 ||smbc-cof.com$all
@@ -1860,6 +1896,7 @@
 ||sparkfi.co$all
 ||sparkflaretrust.com$all
 ||sparkflrcnt.com$all
+||sparttan.site$all
 ||special-wealth-628208.framer.app$all
 ||spmailtechno.com$all
 ||spolamxncberdjffhdu.weebly.com$all
@@ -1867,6 +1904,7 @@
 ||sql-server-performance.com$all
 ||sssmy.lc$all
 ||sswwsldorifdkfjsddf.weebly.com$all
+||stacher*.$all,to=~stacher.io
 ||stake.com$all
 ||stastaucm.com$all
 ||static.doubleclick.net$all
@@ -1955,6 +1993,7 @@
 ||tntvacationhomes.kinsta.cloud$all
 ||tnvcf.top$all
 ||toneden.io$all
+||toomics.com$all
 ||toonily.com$all
 ||toonily.me$all
 ||torrent-stats.info$all
@@ -1981,6 +2020,7 @@
 ||trezowrio-portplus.gitbook.io$all
 ||trezzoreweelt.gitbook.io$all
 ||tricksvile.com$all
+||tropers.site$all
 ||trrzourwalet.gitbook.io$all
 ||true-overlays-943098.framer.app$all
 ||trust-wallet-aml.info$all
@@ -2040,6 +2080,7 @@
 ||upcoanbib.cn$all
 ||updatebdo.uk$all
 ||updatecleanservice2233334.weebly.com$all
+||updateinfotxshj.top$all
 ||uphlold-logiin.gitbook.io$all
 ||uphoildlogizz-1.gitbook.io$all
 ||uphold-logd.gitbook.io$all
@@ -2075,6 +2116,7 @@
 ||uspsnetwork.cc$all
 ||uspssearch.cc$all
 ||uspssupport.cc$all
+||utama*.$all
 ||utdstc.com$all
 ||utorrent.com$all
 ||uvcds.xyz$all
@@ -2122,6 +2164,7 @@
 ||wdvmr.icu$all
 ||web-manage-help-secure-support.com$all
 ||webcindario.com$all
+||webfic.com$all
 ||webintoapp.com$all
 ||webiyghio.weebly.com$all
 ||webmail-*.weeblysite.com$all
@@ -2150,6 +2193,7 @@
 ||wov1f4-g4gsf3-9f8eed-qn43cv.netlify.app$all
 ||wrayljjju.cn$all
 ||writehuman.ai$all
+||writeless.ai$all
 ||writesonic.com$all
 ||wtfast.com$all
 ||wtoskw.top$all
@@ -2173,6 +2217,7 @@
 ||xevens3x.pages.dev$all
 ||xhamster.com$all
 ||xhfhjcghjhv.webflow.io$all
+||xml-v*.*cluster-a.online$all
 ||xranks.com$all
 ||xsdfd.top$all
 ||xsolla.net$all
@@ -2223,3 +2268,14 @@
 ||zireemilsoude.net$all
 ||zjxas.com$all
 ||zonekanzah.site$all
+
+! Exceptions must be put to after the block list to take effect.
+! Put all exceptions here:
+@@akidoo.top$all
+@@alphafish.top$all
+@@apperoni.top$all
+@@balley.top$all
+@@bet.com$all
+@@bitpix.top$all
+@@mnhwa*.xyz^$all
+@@s3embtaku.pro/download?*gogoanime$all
