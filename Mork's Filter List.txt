@@ -87,6 +87,7 @@
 ||4344223.xyz$all
 ||4836457.xyz$all
 ||4frontcu.cc$all
+||500.casino$all
 ||5344223.xyz$all
 ||5836457.xyz$all
 ||62.146.232.72$all
@@ -183,6 +184,7 @@
 ||aithor.com$all
 ||aizipai.cn$all
 ||ajhjo.cn$all
+||akamaiedge.net$all
 ||albemarlepro.com$all
 ||alchosting.xyz$all
 ||alextour72.ru$all
@@ -227,6 +229,8 @@
 ||animetime.pw$all
 ||animeulti.com$all
 ||anitaku*.$all,to=~anitaku.bz
+||anjouangaming.org$all
+
 ||anturis.com$all
 ||anycolor.co$all
 ||anycolor.co.jp$all
@@ -433,6 +437,7 @@
 ||boredapeyachtclub.com$all
 ||borgerindberetning.com$all
 ||botard.life$all
+||bountystars.com$all
 ||boxflix.cloud$all
 ||brahagocrasse-2539.vercel.app$all
 ||brasil*-*.com.br$all
@@ -509,6 +514,7 @@
 ||ceri*.$all
 ||cfacooperativafina.wixsite.com$all
 ||cfolks.pl$all
+||cgcb.info$all
 ||cgd-apoioparticulares.com$all
 ||cgd-revisar.com$all
 ||cgptonline.tech$all
@@ -531,6 +537,7 @@
 ||cheerlessrelationswearisome.com$all
 ||cheryauto.ph$all
 ||chevrolet.com.kz$all
+||chicken.gg$all
 ||chip.de$all
 ||choix-jour.net$all
 ||chrmemiuotamextens.gitbook.io$all
@@ -550,6 +557,7 @@
 ||claim.worldsofdypians.com$all
 ||claims.ftx.com$all
 ||clanlottery.com*$all
+||clash.gg$all
 ||clicksocialimage.top$all
 ||client-onlinebanking.serveftp.net$all
 ||clienteprime.com.ua$all
@@ -640,13 +648,17 @@
 ||crunchyroll.com$all
 ||cruwshwcl.cn$all
 ||cryptozooworld*.$all
+||cs.fail$all
 ||cs.rin.ru$all
 ||cs2-bets.org$all
 ||csam-be.com$all
+||csgobig.com$all
 ||csgoempire.com$all
 ||csgofast.com$all
+||csgogem.com$all
 ||csgohowl.com$all
 ||csgolounge.com$all
+||csgoluck.com$all
 ||csgoroll.com$all
 ||csyvc.cn$all
 ||ctt-portal.com$all
@@ -690,6 +702,7 @@
 ||dcdse.online$all
 ||dclottery.com$all
 ||ddhc.club$all
+||deciecedaisle.com$all
 ||delusionalrevolt.com$all
 ||demo3.playgrounds.cloud$all
 ||descontossmagalu.site$all
@@ -749,6 +762,8 @@
 ||dsprrdbsonline.com$all
 ||dub.sh$all
 ||duckdns.org$all
+||duelbits.com$all
+||dueltbitscdn.com$all
 ||dueyjcgtavshefhidorat.net$all
 ||dweb.link$all
 ||dyfjdvmih.cn$all
@@ -899,6 +914,7 @@
 ||fzyhwy.com$all
 ||g2g.com$all
 ||gadgetzonemnl.ph$all
+||gamdom.com$all
 ||gameboost.com$all
 ||gamedeveloper.com$all
 ||gameflare.com$all
@@ -1141,6 +1157,8 @@
 ||inmobi.com$all
 ||innovestx.vip$all
 ||inpostandparcel.cc$all
+||insane.gg$all
+||insane.gl$all
 ||inspecpro.com.br$all
 ||instawp.xyz$all
 ||interbenefit.viazoneweb.com$all
@@ -1234,6 +1252,7 @@
 ||kliyts.cn$all
 ||klmainprost.com$all
 ||klsdfbfgdhabb.sbs$all
+||knifex.com$all
 ||kocoieknlogin.gitbook.io$all
 ||koenbaasecomloguins.gitbook.io$all
 ||koenbassprolog.godaddysites.com$all
@@ -1889,6 +1908,7 @@
 ||robinhuood-com-login.gitbook.io$all
 ||robinhwdlogns.gitbook.io$all
 ||robux.gifts$all
+||rollbit.com$all
 ||royal-mail-sender.web.app$all
 ||rpcnodeproject.dev$all
 ||rpoesgrayllp.shop$all
@@ -1974,6 +1994,9 @@
 ||sites.google.com$all
 ||sjsamsunghospital.com$all
 ||skin.club$all
+||skindeck.com$all
+||skinlords.com$all
+||skinrave.gg$all
 ||sky-main.weebly.com$all
 ||skycheats.com$all
 ||slatic.net$all
@@ -2028,6 +2051,7 @@
 ||static.doubleclick.net$all
 ||stats.theindex.moe$all
 ||stealthwriter.ai$all
+||steamcommunity-a.akamaihd.net$all
 ||stellarose.site$all
 ||steplesflix.site$all
 ||store.crunchy.roll$all
@@ -2277,6 +2301,7 @@
 ||vipverify.net$all
 ||visually-io.com$all
 ||viva88athenae.com$all
+||vk.com$all
 ||vourplay.site$all
 ||vsafufmop.cn$all
 ||vyg.app$all
@@ -2416,7 +2441,7 @@
 ||zonekanzah.site$all
 ||zoooyo.com.ph$all
 
-! EXCEPTIONS; must be put to after the block list to take effect.
+!EXCEPTIONS; must be put to after the block list to overwrite block list.
 @@akidoo.top$all
 @@alphafish.top$all
 @@apperoni.top$all
