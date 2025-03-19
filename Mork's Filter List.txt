@@ -39,7 +39,6 @@ b! Title: Mork's Filter List
 /01x\.\d+\.xyz/
 /0lz\.\d+\.xyz/
 /\d+-inchairdop\.[a-z]+/
-/\d+\.com/
 /\d+nwinvip\d+\.[a-z]+/
 /\d{1,9}\.xyz/
 /\w{16,}\.gitbook.io/
