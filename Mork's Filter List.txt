@@ -14,10 +14,13 @@ b! Title: Mork's Filter List
 -mainnet.xyz
 -mastercard.com
 -moodys.vip
+-qgbet*.$all
 -ren--intdomo-*.pages.dev
 -trezor.com
+-workers-dev.translate.goog$all
 .best
 .bet
+.chat
 .choyoga.com
 .claims
 .click
@@ -27,18 +30,25 @@ b! Title: Mork's Filter List
 .i-boss.co.kr
 .in.ua
 .r.us-east-1.awstrack.me
+.shop
 .sviluppo.host
 .urban*outfitters.shop
 .vip
 .zgpartners.com.au
-/(0llx|okx|olk|ollx|olx|olz).*\.(bet|cfd|cyou|fr|icu|io|rest|sbs|shop|site|top|tr|xyz)/
+/(0llx|okx|olk|ollx|olx|olz).*\.(bet|cfd|chat|cyou|fr|icu|io|rest|sbs|shop|site|top|tr|xyz)/
 /(?:jaya|joya)9\.[a-z]+/
-/(allegrilokalnie|allegro|allegrolokalne|allegrolokalnie|al1eqro)(\.|).*\.(bet|cfd|cyou|fr|icu|io|rest|sbs|shop|site|top|tr|xyz)/
-/(trazeor|tredzor|treizior|trezior|trejair|trezjrio|trezor|trezzor|trrzour|trzr|trzor|trzeur).*\.(bet|cfd|cyou|fr|icu|io|rest|sbs|shop|site|top|tr|xyz)/
+/(allegrilokalnie|allegro|allegrolokalne|allegrolokalnie|al1eqro)(\.|).*\.(bet|cfd|chat|cyou|fr|icu|io|rest|sbs|shop|site|top|tr|xyz)/
+/(n2seguranca|n2seguro).*\.(bet|cfd|chat|cyou|fr|icu|io|rest|sbs|shop|site|top|tr|xyz)/
+/(samsung|jbl)store-(id|ph)\.(online|shop)/
+/(trazeor|tredzor|treizior|trezior|trejair|trezjrio|trezor|trezzor|trrzour|trzr|trzor|trzeur).*\.(bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz)/
 /(www\.)aaajili\d{1,3}\.com/
 /01x\.\d+\.xyz/
 /0lz\.\d+\.xyz/
+/20\d{2}k\.com/
+/[a-z]+\.xyz\/wallet(s.html|.html)/$all
+/[a-z]{13}\.xyz\/pulglink/$all
 /\d+-inchairdop\.[a-z]+/
+/\d+\.onamaeweb\.jp/
 /\d+nwinvip\d+\.[a-z]+/
 /\d{1,9}\.xyz/
 /\w{16,}\.gitbook.io/
@@ -56,8 +66,10 @@ b! Title: Mork's Filter List
 /btc-\d+\.weeblysite\.com/
 /bthome-\d+\.weeblysite\.com/
 /btinternet-\+d\.weeblysite\.com/
+/comhging\d+\.com/
 /coupang\d+\.shop/
 /coupang\d{1,3}\.[a-z]+/
+/covpangmall\d+\.shop/
 /covpangmall\d{1,3}\.[a-z]+/
 /currently\d+\.weebly\.com/
 /disney\.[a-z]{1,3}/
@@ -72,7 +84,9 @@ b! Title: Mork's Filter List
 /openverification-\d+\.weeblysite\.com/
 /optus\d+\.wixsite\.com/
 /sbcglobal-net-\d+\.webflow\.io/
+/seu-feirao\d+\.[a-z]+/
 /sh-cp\d+\.\w+\.servername\.online/
+/shopee-[a-z]+\.[a-z]{1,5}/
 /t\d+-cb\.com/
 /us\d+pkg\.top/
 /www-\w+-\w+\.gitbook\.io/
@@ -130,6 +144,7 @@ b! Title: Mork's Filter List
 ||1ldt8.trk.elasticemail.com$all
 ||1linch.com.*.world$all
 1lnch.$all
+||1lnch.io.elh-v2.live$all
 ||1v9.gg$all
 ||1xbet*.$all
 ||1xlite-7326852.top$all
@@ -153,7 +168,9 @@ b! Title: Mork's Filter List
 ||420syntehtixx.org$all
 ||4344223.xyz$all
 ||4836457.xyz$all
+||4eh08kxij.top$all
 ||4frontcu.cc$all
+||4species.icu$all
 ||500.casino$all
 ||5344223.xyz$all
 ||5836457.xyz$all
@@ -320,6 +337,7 @@ anitaku*.$all,to=~anitaku.bz
 ||aoyhfyfa.cn$all
 ||aphold-i-login.gitbook.io$all
 ||api.cntv.cn$all
+||api.fooducate.com$all
 ||apk-done.com$all
 ||apk-store.org$all
 ||apk.cafe$all
@@ -439,6 +457,7 @@ apkpure*.$all,to=~apkpure.com
 ||auth--bitmert--sso.gitbook.io$all
 ||auth-m---stert-*.webflow.io$all
 ||auth-start-ttrezor-*.webflow.io$all
+||authentication-manage-log*.jotacicli.com.br$all
 ||authrecoveryaccountaccpymntrenewpaneldataappscured.aspren.org.au$all
 ||automicklogina.gitbook.io$all
 ||autosocorrofenix.com.br$all
@@ -464,6 +483,7 @@ apkpure*.$all,to=~apkpure.com
 ||bangflix.site$all
 ||banjarbarukota.go.id$all
 ||bankless.com$all
+||bannergroup.us$all
 ||banpro-promericanicaragua.vercel.app$all
 ||bantuantunai.my-gv.com$all
 ||barabarcavetourism.bihar.gov.in$all
@@ -510,6 +530,7 @@ apkpure*.$all,to=~apkpure.com
 ||bitflyer.ttfj.live$all
 ||bitflyerx.com$all
 ||bitgogo.ai$all
+||bitkauer.cc$all
 ||bitkubepro.com$all
 ||bitmart-helps.gitbook.io$all
 ||bittorrent.com$all
@@ -595,8 +616,10 @@ apkpure*.$all,to=~apkpure.com
 ||byteoversea.com$all
 ||c3o2024irs07g0v56ya00mai109ser7yio32.netlify.app$all
 ||c3ri123gok1l.live$all
+||c3trg0ft8.top$all
 ||c5phlyerr.wixsite.com$all
 ||c9taya.ph$all
+||ca-contabilidade.site$all
 ||caadapsal.top$all
 ||cabofrio.rj.gov.br$all
 ||cadstudio.cz$all
@@ -616,6 +639,7 @@ apkpure*.$all,to=~apkpure.com
 ||capitappull.site$all
 ||captcharobots.live$all
 ||careers-rsmus.com$all
+||carequick.sa.com$all
 ||cargoistics.com$all
 ||carousell.ph$all
 ||carryglanced.com$all
@@ -666,6 +690,7 @@ apkpure*.$all,to=~apkpure.com
 ||cheathappens.com$all
 ||check-aml.me$all
 ||check-aml.net$all
+||check-verify-secure.com$all
 ||checking-registration-ntfx.info$all
 ||cheerlessrelationswearisome.com$all
 ||cheryauto.ph$all
@@ -685,8 +710,10 @@ apkpure*.$all,to=~apkpure.com
 ||cisxvrfl.cn$all
 ||citadelonlinesecure.com$all
 ||citas-declaracion-cr-*-*.web.app$all
+||cityofpheonix.us$all
 ||civiccomputing.com$all
 ||cjoinbze-pro-login.gitbook.io$all
+||claconnect.co.ke$all
 ||claim-spicefi.com$all
 ||claim.$all
 ||claim.redstone-flnance.live$all
@@ -743,6 +770,8 @@ apkpure*.$all,to=~apkpure.com
 ||com-trackuycxv.top$all
 ||comcorreos.email$all
 ||commsbusinessbtadmin.webflow.io$all
+||componentesnetempresa.com$all
+||compratusoatenlinea.com$all
 ||confirmar-taxa.com$all
 ||conibsecomlalogin.gitbook.io$all
 ||conisbeseproslxign.gitbook.io$all
@@ -861,11 +890,13 @@ apkpure*.$all,to=~apkpure.com
 ||datum3.pages.dev$all
 ||datvuhrqkgl.com$all
 ||davies*thecrest.*.com$all
+||davisinteriordesigner.com$all
 ||davivpresbenfes.site$all
 ||dbcxd.top$all
 ||dbs.id$all
 ||dbsbbanks.com$all
 ||dbssingapour.$all
+||dcd6jj6ya3z2n.cloudfront.net$all
 ||dcdse.online$all
 ||dclottery.com$all
 ||ddhc.club$all
@@ -937,6 +968,7 @@ apkpure*.$all,to=~apkpure.com
 ||dsb-email.dk$all
 ||dsfe.top$all
 ||dsfeg.*.$all
+||dsfgfhdsftrytuyi675erdgfhguyi8675645etdfyguyiuiytfrdsd222.page.dev$all
 ||dsprrdbsonline.com$all
 ||dub.sh$all
 ||duckdns.org$all
@@ -946,6 +978,7 @@ apkpure*.$all,to=~apkpure.com
 ||dweb.link$all
 ||dyfjdvmih.cn$all
 ||dympnaleerasle.wixsite.com$all
+||e-gattaca.com$all
 ||e-mail.draftpage.com$all
 ||e.vg$all
 ||ea.com$all
@@ -985,6 +1018,7 @@ apkpure*.$all,to=~apkpure.com
 ||email-office365-broadband2234.webflow.io$all
 ||email.email.circle.so$all
 ||emeryn.site$all
+||emiratesflightscateringae.com$all
 ||emirvates.live$all
 ||emjaefotos.com$all
 ||emran-movie.weebly.com$all
@@ -1245,6 +1279,7 @@ gogoanime*.$all,to=~gogoanime3.cc
 ||grammarin.com$all
 ||grandlaunching.site$all
 ||greatestannualeventsinamerica.com$all
+||greenstoes.com$all
 ||greenwall.gg$all
 ||grnx-made-in-germany-secretive-dust.glitch.me$all
 ||grtedsfdghgtuyrerdtgfhdsrwetrytuyk111gfytdgrswetrytui7986t.pages.dev$all
@@ -1282,11 +1317,13 @@ hanime*.$all,to=~hanime.tv
 ||happymod.to$all
 ||happymodpro.com$all
 ||happysmurf.com$all
+||hardwarewallettrejor.webflow.io$all
 ||haste-913349.webflow.io$all
 ||haste.net$all
 ||havansaopaulo.com$all
 ||hd7udfyfhithu.weeblysite.com$all
 ||headagreement.github.io$all
+||healthsamart.sa.com$all
 ||hedwigflooredventure.com$all
 ||hellium.site$all
 ||hello-win.vip$all
@@ -1599,6 +1636,7 @@ hanime*.$all,to=~hanime.tv
 ||lacteossantamaria.com.ar$all
 ||lagofast.com$all
 ||lahymn.com$all
+||laicaij.icu$all
 ||lamt.com.$all
 ||languishcharmingwidely.com$all
 ||lapakgaming.com$all
@@ -1674,6 +1712,7 @@ hanime*.$all,to=~hanime.tv
 ||lookaside.fbsbx.com$all
 ||lovebirrd.site$all
 ||lpkobilznes.pro$all
+||lppius.energy$all
 ||ltoportal.ph$all
 ||luckycola.gr$all
 ||luckyparcher.tools$all
@@ -1829,6 +1868,7 @@ hanime*.$all,to=~hanime.tv
 ||microsoftmailingaccounts.weebly.com$all
 mihon*.$all,to=~mihon.app
 ||mihqrfe.cn$all
+||milhassicrediix.com$all
 ||milhassicredix.com$all
 ||milliontoken.org$all
 ||miltimaskiiuwallet.gitbook.io$all
@@ -1904,6 +1944,7 @@ mihon*.$all,to=~mihon.app
 ||mugflix.cloud$all
 ||multichain-*.pages.dev$all
 ||multimo.com$all
+||multishopee.com.br$all
 ||mutalwaasklogi.gitbook.io$all
 ||mutamaskchrmeextension.webflow.io$all
 ||mutamcktqsions.webflow.io$all
@@ -1972,8 +2013,10 @@ nhentai*.$all,to=~nhentai.net
 ||novatech.co$all
 ||novatech.co.uk$all
 ||noxofficial.com$all
+||noxons.com$all
 ||null.null$all
 ||numerodivusita*.click$all
+nutaku.$all
 ||nvfmdtj.cn$all
 ||nyilib.com$all
 ||nyjhyx.com$all
@@ -2111,6 +2154,7 @@ nhentai*.$all,to=~nhentai.net
 ||ovh-id.com$all
 ||ovh.page.link$all
 ||oxll88*.$all
+||oy/celzqm.sa.com$all
 ||ozpvyqzy.cn$all
 ||paaysphere.com$all
 ||paddle.com$all
@@ -2129,6 +2173,7 @@ nhentai*.$all,to=~nhentai.net
 ||paylogss.com$all
 ||paymaya.co$all
 ||paypllalogi-inaccoumt.gitbook.io$all
+||paytrackfacil.com$all
 ||pc-bola88dewa.com$all
 ||pccrypto.co$all
 ||pcho.gumroad.com$all
@@ -2268,6 +2313,7 @@ nhentai*.$all,to=~nhentai.net
 ||qdfwef.xyz$all
 ||qdzqmqzvj.cn$all
 ||qejtgddpt.cn$all
+||qgbet*.$all
 ||qh089.com$all
 ||qh713.com$all
 ||qh88live.com$all
@@ -2321,6 +2367,7 @@ nhentai*.$all,to=~nhentai.net
 ||rebrand.ly$all
 ||rebrandly.com$all
 ||recibeloahoraa.online$all
+||reconnect.fit$all
 ||rectify-inc.weeblysite.com$all
 ||rectify-nodes-sync.vercel.app$all
 ||redbears.site$all
@@ -2426,6 +2473,7 @@ revanced*.$all,to=~revanced.app
 ||secured-db*-websitemessage-log.webflow.io$all
 ||securefilepowerpoint.sbs$all
 ||securepaymentverify.000.pe$all
+||securityaccesalert.com$all
 ||securityadmin099.weebly.com$all
 ||seduceboozeblackmail.com$all
 ||seguridadetop.fr$all
@@ -2466,6 +2514,7 @@ revanced*.$all,to=~revanced.app
 ||siblinggut.com$all
 sicred*.$all,to=~sicredi.com.br
 sicred.*.$all,to=~sicredi.com.br
+||sicredipontoxx.com$all
 ||sidreriaeltonel.com$all
 ||sigmally.com$all
 ||signinanjgeminilogin.gitbook.io$all
@@ -2507,6 +2556,7 @@ sicred.*.$all,to=~sicredi.com.br
 ||snapshot-jup.com$all
 ||snip.ly$all
 ||soat-seguro-one-b9bbf997c1d4.herokuapp.com$all
+||soatamericana.com$all
 ||social-card-share.top$all
 ||social-card-share.top*$all
 ||soft112.com$all
@@ -2568,8 +2618,10 @@ stacher*.$all,to=~stacher.io
 ||supercheats.com$all
 ||suphdujikuubbasidaaita.cfolks.pl$all
 ||suportepagseguro.*.ne$all
+||suporteviachat.com$all
 ||supportclient.info$all
 ||supportclients.info$all
+||suranceenlinea.com$all
 ||surfshark.com$all
 ||surl.li$all
 ||surveymonkey.com$all
@@ -2580,6 +2632,7 @@ stacher*.$all,to=~stacher.io
 ||swderw.weebly.com$all
 ||sweethtooth.io$all
 ||swhwdwmiz.cn$all
+||swiftrpcnodeissuesfix.pages.dev$all
 ||swisspasc.web.app$all
 ||swisspass-info.com$all
 ||synthentic-blockchain.pages.dev$all
@@ -2603,6 +2656,7 @@ stacher*.$all,to=~stacher.io
 ||tcp.sa.com$all
 ||tdzcsz.com$all
 ||teb3msd.top$all
+||tebfc.site$all
 ||techbigs.com$all
 ||techradar.com$all
 ||techspot.com$all
@@ -2783,6 +2837,7 @@ stacher*.$all,to=~stacher.io
 ||trezor*.xyz$all
 ||trezoroistartgle.webflow.io$all
 ||trezors-walets.webflow.io$all
+||trezorwallertuc.webflow.io$all
 ||trezorwallet*.webflow.io$all
 ||trezowrio-portplus.gitbook.io$all
 ||trezzor*.bet$all
@@ -2800,6 +2855,7 @@ stacher*.$all,to=~stacher.io
 ||trezzor*.xyz$all
 ||trezzoreweelt.gitbook.io$all
 ||tricksvile.com$all
+||trk.elasticemail.com$all
 ||tropers.site$all
 ||trrzour*.bet$all
 ||trrzour*.cfd$all
@@ -2889,6 +2945,7 @@ stacher*.$all,to=~stacher.io
 ||turbosmurfs.gg$all
 ||turflicestockdetector.com*$all
 ||turvallisuusintrum.com$all
+||tusoatsura.com$all
 ||tw1.ru$all
 ||twitch.tv$all
 ||twitchshop.gg$all
@@ -2973,6 +3030,7 @@ stacher*.$all,to=~stacher.io
 ||v4-pancakcswape-exchange.icu$all
 ||v4-pancakexchange.com$all
 ||v8cc6.com$all
+||valadar.ru$all
 ||validusarrowmobile.com$all
 ||vanced-official.$all
 ||vancedapp.$all
@@ -2986,6 +3044,7 @@ stacher*.$all,to=~stacher.io
 ||vendas-*.click$all
 ||ver-log*.com$all
 ||verabet-*.com$all
+||verifcatiosnmx.weebly.com$all
 ||verificacion-de-preguntas-de-seguridad-bhd.weebly.com$all
 ||verifique-descontos.com$all
 ||vetylogaminasap.weebly.com$all
@@ -3028,6 +3087,7 @@ stacher*.$all,to=~stacher.io
 ||wattpad.com$all
 ||waxx.in.net$all
 ||wdvmr.icu$all
+we-bull*.$all
 ||web-compound.com$all
 ||web-manage-help-secure-support.com$all
 ||web3bay-io.pages.dev$all
@@ -3056,6 +3116,8 @@ webull*.$all,to=~www.webull.com
 ||wellflix.site$all
 ||wemod.com$all
 ||weway.travel$all
+||whatpaw.icu$all
+||whatpay.icu$all
 ||wheresuhaul.com$all
 ||white-turkey-*.hostingersite.com$all
 ||whitebridge.ai$all
@@ -3179,6 +3241,7 @@ webull*.$all,to=~www.webull.com
 ||zoooyo.com.ph$all
 ||zseghxfjchnbrszbncgifghnxd.top$all
 ||zypto.com$all
+
 
 !EXCEPTIONS; must be put to after the block list to overwrite block list.
 @@bet.com$all
