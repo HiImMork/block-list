@@ -1,11 +1,33 @@
 # Mork's Block List 🤔
-Mork's Block List is a list of websites that I (Mork) deemed unsafe for consumption. These "unsafe" websites are not limited to malicious websites trying to gain access to, destroy, or steal data from your device and will also include ad services for adblocking and malicious trackers for your privacy. 
+Mork's Block List is an AdGuard Filter List that blocks malicious, gambling, pornographic, and other websites. The rules in these list are currated based on the websites I encounter and websites I collated from Phishtank.org. This list is not regularly updated but I am trying my best to keep it up to date during my free time. This project is for non-profit and free to use or modify by anyone.
 
-### *Disclaimer*: this list may also contain websites that might necessarily malicious and might be included due to personal reasons. 
+### ‼️*Disclaimer*: This list contain malicious websites that could harm you if you open them. For safety reasons, I do not recommend you opening these websites at all or without proper protection such as VPN, antivirus, virtual machine, etc. Some websites may also contain NSFW which are beyond my control or websites that are not suitable for children. 
 
-# How Does It Work? ⚙️
-This repository contains different versions of the list for different purposes and support for different platforms. I am currently maintaining this repository and keep it as up to date as I can.
+# Installation? ⚙️
+You can use this list by adding it to your AdGuard filter list or uBlock Origin filter list. This list is specifically designed to work with uBlock Origin; since uBlock uses AdGuard's filter it should work on AdGuard too. Below are the instructions on how to add this list to your AdGuard or uBlock Origin browser extensions.
+
+>Please do not use use uBlock Origin and AdGuard at the same time to avoid conflict or potential issue.
+
+## [uBlock Origin](https://github.com/gorhill/uBlock)🛡
+1. Download and Install AdGuard browser extension for your browser. [Chrome](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=item-share-cb) || [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/).
+2. Open the uBlock Origin dashboard.
+3. Go to the "Filter Lists" tab.
+4. Expand "Import".
+5. Paste the following URL: `https://raw.githubusercontent.com/HiImMork/block-list/refs/heads/main/Mork's%20Filter%20List.txt`.
+6. Click "Apply Changes".
+> Due to the rollout of Manifest V3 for Chromium browsers, uBlock Origin may not work as expected. 
+
+
+## [AdGuard](https://adguard.com/en/welcome.html)🛡️
+1. Download and Install AdGuard browser extension for your browser. [Chrome](https://adguard.com/en/adguard-browser-extension/chrome/overview.html) || [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker/)
+2. Open AdGuard's options page.
+3. Go to "Filters" tab.
+4. Scroll down and click on "Custom".
+5. Click on "Add Custom Filter".
+6. Paste the following URL: `https://raw.githubusercontent.com/HiImMork/block-list/refs/heads/main/Mork's%20Filter%20List.txt`.
+7. Click "Next".
+8. Click "Subscribe". <sub>*✔ Ticking "Trusted" is optional.*</sub>
+> Due to the rollout of Manifest V3 for Chromium browsers, AdGuard may not work as expected.
 
 # Contact 🤳🏼
-_If you have further question or suggestions, feel free to contact me via [discord](https://discord.com/users/566384603007549480).
-
+If you have further question or suggestions, feel free to contact me via [discord](https://discord.com/users/566384603007549480).
