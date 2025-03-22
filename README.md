@@ -1,9 +1,20 @@
 # Mork's Block List 🤔
 Mork's Block List is an AdGuard Filter List that blocks malicious, gambling, pornographic, and other websites. The rules in these list are currated based on the websites I encounter and websites I collated from Phishtank.org. This list is not regularly updated but I am trying my best to keep it up to date during my free time. This project is for non-profit and free to use or modify by anyone.
 
-### ‼️*Disclaimer*: This list contain malicious websites that could harm you if you open them. For safety reasons, I do not recommend you opening these websites at all or without proper protection such as VPN, antivirus, virtual machine, etc. Some websites may also contain NSFW which are beyond my control or websites that are not suitable for children. 
+### ‼️*Disclaimer*: This list contain malicious websites that could harm you if you open them. For safety reasons, I do not recommend you opening these websites at all or without proper protection such as VPN, antivirus, virtual machine, etc.
+### ‼️Some websites may also contain  NSFW content or any content inappropirate for viewing for minors. The content of these websites are beyong my control and are here simply for blocking purposes.
 
-# Installation? ⚙️
+# ❓FAQ
+Q: How do I use/install this list? <br> 
+A: Go to [Installation](#installation-⚙️) section. <br>
+
+Q: I found a website that is not blocked by this list. How do I report it? <br>
+A: You can submit a report to the proper channels like Google Safe Browsing. Please do not send the link via Discord, email, or any other social media platform. I WILL BLOCK YOU AND REPORT YOU TO THE PLATFORM IF YOU DO SO. <br>
+
+Q: I have a suggestion for this list. How do I submit it? <br>
+A: You can submit your suggestion via [Discord](https://discord.com/users/566384603007549480). Again, don't send me malicious links. <br>
+
+# Installation ⚙️
 You can use this list by adding it to your AdGuard filter list or uBlock Origin filter list. This list is specifically designed to work with uBlock Origin; since uBlock uses AdGuard's filter it should work on AdGuard too. Below are the instructions on how to add this list to your AdGuard or uBlock Origin browser extensions.
 
 >Please do not use use uBlock Origin and AdGuard at the same time to avoid conflict or potential issue.
