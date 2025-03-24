@@ -64,6 +64,16 @@ body {
     font-family: sans-serif;
 }
 
+a {
+    text-decoration: none;
+    color: var(--primary-500);
+    transition: 200ms;
+}
+
+a:hover {
+    color: var(--secondary-600);
+}
+
 .container {
     width: clamp(360px, 80%, 1800px);
     height: 100%;
@@ -154,4 +164,17 @@ button[type="button"]#unfilter {
 button[type="reset"]#clear {
     background-color: #ff4444;
     color: var(--text-main);
+}
+
+footer > .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1em;
+    padding: 1em 0;
+}
+
+footer .copyright {
+    font-size: 0.8em;
+    color: var(--text-sub);
 }
