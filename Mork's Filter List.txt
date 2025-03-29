@@ -36,14 +36,14 @@
 .urban*outfitters.shop
 .vip
 .zgpartners.com.au
-/(0llx|okx|olk|ollx|olx|olz).*\.(bet|cfd|chat|cyou|fr|icu|io|rest|sbs|shop|site|top|tr|xyz)/
+/(:?assets|interests)-0x0exchange\.(:?net|xyz|com)/
+/(:?n2seguranca|n2seguro).*\.(:?bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz)/
+/(:?samsung|jbl)store-(:?id|ph)\.(:?online|shop)/
+/(:?support-xphantom--wallet|(:?phantom|phuntiom)-wallet|phantom-cdn-wallet-help).*\.webflow\.io/
+/(?:0llx|okx|olk|ollx|olx|olz).*\.(:?bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz)/
+/(?:allegrilokalnie|allegro|allegrolokalne|allegrolokalnie|al1eqro)(?:\.|).*\.(:?bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz)/
 /(?:jaya|joya)9\.[a-z]+/
-/(allegrilokalnie|allegro|allegrolokalne|allegrolokalnie|al1eqro)(\.|).*\.(bet|cfd|chat|cyou|fr|icu|io|rest|sbs|shop|site|top|tr|xyz)/
-/(assets|interests)-0x0exchange\.(net|xyz|com)/
-/(n2seguranca|n2seguro).*\.(bet|cfd|chat|cyou|fr|icu|io|rest|sbs|shop|site|top|tr|xyz)/
-/(samsung|jbl)store-(id|ph)\.(online|shop)/
-/(support-xphantom--wallet|(phantom|phuntiom)-wallet|phantom-cdn-wallet-help).*\.webflow\.io/
-/(trazeor|tredzor|treizior|trezior|trejair|trezjrio|trezor|trezzor|trrzour|trzr|trzor|trzeur).*\.(bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz)/
+/(trazeor|tredzor|treizior|trezior|trejair|trezjrio|trezor|trezzor|trrzour|trzr|trzor|trzeur).*\.(:?bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz)/
 /(www\.)aaajili\d{1,3}\.com/
 /01x\.\d+\.xyz/
 /0lz\.\d+\.xyz/
@@ -65,9 +65,10 @@
 /\w{8,}-\w{8,}\.teemill\.com/
 /\w{8,}-\w{8,}\.weebly\.com/
 /acordovalido\d{1,4}\.com\.br/
+/aliegro\d+\.one/
 /aniwave\.[a-z]{1,5}/
 /att-\d+\.weeblysite\.com/
-/attcurrently-\d{1,2}-\d{1,2}-\d{1,4}\.weeblysite\.com/
+/attcurrently-\d{1,2}-\d{1,2}-\d{1,4}\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
 /bantuantunai\d+\.\w+\.cc/
 /bigjpg\.(com|ai|app)/
 /branddefense(hub|pro)\.com/
@@ -93,6 +94,8 @@
 /disney\.[a-z]{1,3}/
 /distribuidora.*\.(online|com)/
 /dlx\.\d+\.xyz/
+/driveezmd\.com-\w+\.[a-z]{1,5}/
+/e-zpass.*(?:\.[a-z]{1,5}|\.com\.[a-z]{1,12}\.[a-z]{1,5})/,to=~e-zpassiag.com
 /e-zpassny.com-.*\.[a-z]{1,5}/
 /eebtnewupdate\+d\.weebly\.com/
 /evri\..*\.[a-z]{1,10}
@@ -359,6 +362,7 @@
 ||americanwealths.com$all
 ||amigavainprincipal.pages.dev$all
 ||aml-check.$all
+||amnis-finance.run$all
 ||amtoicwallet.gitbook.io$all
 ||amxtlap.top$all
 ||amxukl.top$all
@@ -602,6 +606,7 @@ apkpure*.$all,to=~apkpure.com
 ||bia-bradesco.com$all
 ||bia-bradesco.org$all
 ||bignox.com$all
+||bikys.cn$all
 ||bil.lu.bilnetlu.com$all
 ||binance.$all
 ||bindeye.cc$all
@@ -638,6 +643,7 @@ apkpure*.$all,to=~apkpure.com
 ||blackspigot.com$all
 ||blanket-engagement-rejected-prominent.trycloudflare.com$all
 ||bleepingcomputer.com$all
+||blhx.fandom.com$all
 ||blik-pl.bezpieczna-platnosc.world$all
 ||blindhelp.net$all
 ||blkwio7.sa.com$all
@@ -731,6 +737,7 @@ apkpure*.$all,to=~apkpure.com
 ||caixadirectaclientefull.com$all
 ||caixadirectafullnet.com$all
 ||cajasamerica.com.mx$all
+||cakeswap.top$all
 ||callajjaiu.top$all
 ||camelotos.exhange$all
 ||canada.postcanada*.cfd$all
@@ -954,6 +961,7 @@ coupang.$all
 ||crunchyroll.com$all
 ||cruwshwcl.cn$all
 ||cryptomixer.info$all
+||cryptorank.io$all
 ||cryptozooworld*.$all
 ||cs.fail$all
 ||cs.rin.ru$all
@@ -1082,6 +1090,7 @@ coupang.$all
 ||doditorrent.org$all
 ||dofuspourlesnoobs.quete.online$all
 ||dogas.info$all
+||dongkljr.top$all
 ||dooblefa.com$all
 ||doomsdayclient.com$all
 ||dorothymcginlley-my-cheetah-website.site.builderall.net$all
@@ -1104,6 +1113,7 @@ coupang.$all
 ||dsfe.top$all
 ||dsfeg.*.$all
 ||dsfgfhdsftrytuyi675erdgfhguyi8675645etdfyguyiuiytfrdsd222.page.dev$all
+||dshdyjsharshdtjdgsgjhsdydf.top$all
 ||dsprrdbsonline.com$all
 ||dsrct.io$all
 ||dub.sh$all
@@ -2370,6 +2380,7 @@ nutaku.$all
 ||orange-smsvocal.fr.to$all
 ||org-ticket*.shop$all
 ||orgmail.weebly.com$all
+||orico.co.jp$all
 ||orlenity.com$all
 ||oroyawave.com$all
 ||osano.com$all
@@ -3007,6 +3018,7 @@ stacher*.$all,to=~stacher.io
 ||tereezurwalett.gitbook.io$all
 ||terezurrwaletl.gitbook.io$all
 ||terezurwalettioo.gitbook.io$all
+||termse.space$all
 ||terraria.fandom.com$all
 ||terrauexx.top$all
 ||terrijorhardwearawallet.gitbook.io$all
@@ -3442,6 +3454,7 @@ universalstudios*.com$all,to=~www.universalstudios.com
 ||walletconnect-*.pages.dev$all
 ||walletconnect.com$all
 ||walletlink.org$all
+||walrusprotocol.space$all
 ||warhammer40k.fandom.com$all
 ||washlongsgbeng5372.top$all
 ||wattpad.com$all
@@ -3612,6 +3625,7 @@ webull*.$all,to=~www.webull.com
 ||zoryk.click$all
 ||zseghxfjchnbrszbncgifghnxd.top$all
 ||zypto.com$all
+
 
 !EXCEPTIONS; must be put to after the block list to overwrite block list.
 @@bet.com$all
