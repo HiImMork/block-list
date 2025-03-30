@@ -15,6 +15,7 @@
 -mastercard.com
 -moodys.vip
 -mybess.com
+-netflix.com
 -qgbet*.$all
 -ren--intdomo-*.pages.dev
 -trezor.com
@@ -48,6 +49,7 @@
 /01x\.\d+\.xyz/
 /0lz\.\d+\.xyz/
 /20\d{2}k\.com/
+/2iuosdg\.[a-z]{1,5}/
 /[a-z]+\.xyz\/wallet(s.html|.html)/$all
 /[a-z]{1,2}-coinbase\.com/
 /[a-z]{1,5}-mysub\.com/
@@ -68,9 +70,11 @@
 /aliegro\d+\.one/
 /aniwave\.[a-z]{1,5}/
 /att-\d+\.weeblysite\.com/
+/attcomunicationsupport\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
 /attcurrently-\d{1,2}-\d{1,2}-\d{1,4}\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
 /bantuantunai\d+\.\w+\.cc/
 /bigjpg\.(com|ai|app)/
+/bomberclupgrade\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
 /branddefense(hub|pro)\.com/
 /bt-\d+\.weeblysite\.com/
 /btbroadband00023\./
@@ -83,6 +87,7 @@
 /claim.(redstone-(flnance|finance)|worldsofdypians|spicefi|ftx)\.(com|org|live|site|xyz)/
 /cloudflare-namada-validator\d+\.pages\.dev/
 /coinbase.*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
+/comcast-email-\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
 /comhging\d+\.com/
 /coupang(-\d+|\d+)\.[a-z]+/
 /coupang\d+\.shop/
@@ -90,6 +95,7 @@
 /covpangmall\d+\.shop/
 /covpangmall\d{1,3}\.[a-z]+/
 /currently\d+\.weebly\.com/
+/dappsrecovery\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
 /delivery-evri\.[a-z]{1,10}/
 /disney\.[a-z]{1,3}/
 /distribuidora.*\.(online|com)/
@@ -101,6 +107,8 @@
 /evri\..*\.[a-z]{1,10}
 /familiya\d+\.ru/
 /giftgenius\.(shop|io)/
+/glitcheee\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
+/goodchangees\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
 /grupasgb\d+\.\d+\.com/
 /home-\d+\.weeblysite\.com/
 /inp(:?0|o|O)st\.\d+\.xyz/
@@ -108,33 +116,42 @@
 /mailattccount\-\d+.weeblysite\.com/
 /my-site-\d+-\d+\.weeblysite\.com/
 /my-site\-\d+\-\d+.weeblysite\.com/
+/mynewbigpond\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
 /nc-\d+.freshlearn\.com/
 /nutured-side-\d+\.framer\.app/
 /office\d+\.webflow.io
 /openverification-\d+\.weeblysite\.com/
 /optus\d+\.wixsite\.com/
+/processingcreative\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
 /restone\.(info|cc)/
 /sbcglobal-net-\d+\.webflow\.io/
 /service-aeno\..*\.[a-z]{1,10}/
 /seu-feirao\d+\.[a-z]+/
 /sh-cp\d+\.\w+\.servername\.online/
-/shopee-[a-z]+\.[a-z]{1,5}/
 /srv\d+\.(seohost|hoster-test)\.com/
 /t\d+-cb\.com/
 /team-[a-z]{1,3}\.com/
+/telstrasupprort\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
 /u88(|live}|gaming)\.[a-z]{1,5}/
+/updatemytelstra\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
+/upgrade-.*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
 /us\d+pkg\.top/
 /usecorn(?:s|)\.[a-z]{1,10}/
 /virtu(a|4)lb(a|4)nrural-gt\.web\.app/
 /vloce\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
 /web3btc\d+\.top/
+/webkkwel\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
+/werflybuy\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
 /www-\w+-\w+\.gitbook\.io/
 /www-\w+-\w+\.teemil\.com/
 /www-\w+-\w+\.weebly\.com/
 /www-\w+\.gitbook\.io/
 /www-\w+\.teemil\.com/
 /www-\w+\.weebly\.com/
+/xn--ftp02-2m8t187b1ui20kgheo04b\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
 /youthful-one-\d+\.framer\.app/
+/yrfy\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
+/zimibra\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/
 ||0.0.0.10$all
 ||0001home.webflow.io$all
 ||01qunapk15.shop$all
@@ -752,7 +769,6 @@ apkpure*.$all,to=~apkpure.com
 ||cargoistics.com$all
 ||carousell.ph$all
 ||carryglanced.com$all
-||cartaocreditoshopee.shop$all
 ||cartrasol.com$all
 ||caserevs.com$all
 ||cashalo.com$all
@@ -850,6 +866,7 @@ apkpure*.$all,to=~apkpure.com
 ||cns.bf$all
 ||cntv.cn$all
 ||codeanyapp.com$all
+||codeginl.info$all
 ||codeginlo.org$all
 ||cohereproceedingsspark.com*$all
 ||coibeasprolugon.godaddysites.com$all
@@ -964,6 +981,7 @@ coupang.$all
 ||cryptorank.io$all
 ||cryptozooworld*.$all
 ||cs.fail$all
+||cs.money$all
 ||cs.rin.ru$all
 ||cs2-bets.org$all
 ||csam-be.com$all
@@ -1046,6 +1064,7 @@ coupang.$all
 ||desemblosoclickapp.top$all
 ||desolutiondapp.xyz$all
 ||dev-react-js-api.onrender.com$all
+||device-diagnostic.com$all
 ||devicecrazy.com$all
 ||devxbnfhg.cn$all
 ||dewi*.$all
@@ -1338,6 +1357,7 @@ coupang.$all
 ||fvy84ijldmfi0epf.weebly.com$all
 ||fxccd.online$all
 ||fxmainnet-dapp.pages.dev$all
+||fyxer.com$all
 ||fzyhwy.com$all
 ||g-suplementts.site$all
 ||g.suplementos-marketplace.com$all
@@ -1443,6 +1463,7 @@ gogoanime*.$all,to=~gogoanime3.cc
 ||gonklhetr.cyou$all
 ||googleads.com$all
 ||gorgias.chat$all
+||gorgias.help$all
 ||gostingcolor.com$all
 ||gov-mmda.tw$all
 ||gov.cn$all
@@ -2027,6 +2048,7 @@ hanime*.$all,to=~hanime.tv
 ||melodic-abaft-element.glitch.me$all
 ||meloginmetamask.gitbook.io$all
 ||memberful.com$all
+||membershipbill.hosted.phplist.com$all
 ||memuplay.com$all
 ||mensagemdia.online$all
 ||mensagensdigitalonline.com$all
@@ -2174,7 +2196,6 @@ monadsters.$all
 ||mugflix.cloud$all
 ||multichain-*.pages.dev$all
 ||multimo.com$all
-||multishopee.com.br$all
 ||mutalwaasklogi.gitbook.io$all
 ||mutamaskchrmeextension.webflow.io$all
 ||mutamcktqsions.webflow.io$all
@@ -2184,6 +2205,7 @@ monadsters.$all
 ||mxguuai.top$all
 ||mxukdonline.top$all
 ||my-citizenstatesbin.cfd$all
+||myacesdeactivateicu.com$all
 ||mybayara.shop$all
 ||mybayarshop.xyz$all
 ||myconbuswellet.gitbook.io$all
@@ -2381,6 +2403,7 @@ nutaku.$all
 ||org-ticket*.shop$all
 ||orgmail.weebly.com$all
 ||orico.co.jp$all
+||origins.avianarp.ru$all
 ||orlenity.com$all
 ||oroyawave.com$all
 ||osano.com$all
@@ -2530,6 +2553,7 @@ nutaku.$all
 ||prime-sslbr3.com$all
 ||primeconvertapp.com$all
 ||primefr-family.com$all
+||primevideo-family.com$all
 ||primevideosfaturs.zohosites.com$all
 ||primuslabs.id-web3.com$all
 ||privacy-mgmt.com$all
@@ -2547,7 +2571,6 @@ nutaku.$all
 ||project-mainnet-*.pages.dev$all
 ||projectwingman.fandom.com$all
 ||prokrakencom.gitbook.io$all
-||promoshopeecartao.online$all
 ||promowane-ogloszenia*.shop$all
 ||proposal-axelar.com$all
 ||proposals-elixir.com$all
@@ -2597,6 +2620,7 @@ nutaku.$all
 ||quantcast.com$all
 ||quarrion.cn$all
 ||qubetlcs.ink$all
+||questionariobox.online$all
 ||quevexport.com$all
 ||quickapks.com$all
 ||quill.run$all
@@ -2730,7 +2754,6 @@ revanced*.$all,to=~revanced.app
 ||rzzcode.com$all
 ||s-portal.net$all
 ||s.id$all
-||s.shopee.ph$all
 ||s3a2y3.com$all
 ||sa-geek.org$all
 ||safety-profiles-*-ads-*.vercel.app$all
@@ -2787,20 +2810,13 @@ revanced*.$all,to=~revanced.app
 ||shadowxcraft.net$all
 ||shamyouthattach.com$all
 ||share-*.hsforms.com$all
+||share-eu1.hsforms.com$all
 ||share.hsforms.com$all
 ||shareearn.net$all
 ||sharethis.com$all
 ||sharpethomas36.wixsite.com$all
 ||shartimien.site$all
 ||shop2game.com$all
-||shopee*.xyz$all
-shopee-*.$all
-||shopee-*.online$all
-||shopee-official.$all
-||shopee-oficial.$all
-||shopeeganhe.site$all
-||shopeenaveia.com$all
-||shopeeoferas.app$all
 ||shoplift.ai$all
 ||shopmrbeast.com$all
 ||shopping-arezzo.myshopify.com$all
@@ -2878,6 +2894,7 @@ sicred.*.$all,to=~sicredi.com.br
 ||solaxydapp.live$all
 ||solesbeachbar.com$all
 ||solicitando-*.amazonaws.com$all
+||solicitaragora.click$all
 ||soliciteagoranovidade.top$all
 ||solreclaim.web.app$all
 ||someapp.com$all
@@ -2901,6 +2918,7 @@ sicred.*.$all,to=~sicredi.com.br
 ||spmailtechno.com$all
 ||spolamxncberdjffhdu.weebly.com$all
 ||sportsplus.ph$all
+||spotnest.sa.com$all
 ||sql-server-performance.com$all
 ||srssicorp.com$all
 ||ssbet*.$all
@@ -2909,6 +2927,7 @@ sicred.*.$all,to=~sicredi.com.br
 ||sswwsldorifdkfjsddf.weebly.com$all
 stacher*.$all,to=~stacher.io
 ||stacsa.one$all
+||staging-bardsleygroup-stating.kinsta.cloud$all
 ||stake.com$all
 ||stastaucm.com$all
 ||static.doubleclick.net$all
@@ -3425,6 +3444,7 @@ universalstudios*.com$all,to=~www.universalstudios.com
 ||viettelpostle.top$all
 ||view-replyservice.com$all
 ||viewstats.com$all
+||viiidey.lat$all
 ||vilw-*.weeblysite.com$all
 ||viptronica.com$all
 ||vipverify.net$all
