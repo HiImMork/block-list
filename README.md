@@ -26,7 +26,7 @@ You can use this list by adding it to your AdGuard filter list or uBlock Origin 
 4. Expand "Import".
 5. Paste the following URL: `https://raw.githubusercontent.com/HiImMork/block-list/refs/heads/main/Mork's%20Filter%20List.txt`.
 6. Click "Apply Changes".
-> Due to the rollout of Manifest V3 for Chromium browsers, uBlock Origin may not work as expected. 
+> Due to the rollout of Manifest V3 for Chromium browsers, Extensions that work with request such as ad blockers may not work or deemed as unsafe.
 
 
 ## [AdGuard](https://adguard.com/en/welcome.html)🛡️
@@ -38,7 +38,7 @@ You can use this list by adding it to your AdGuard filter list or uBlock Origin 
 6. Paste the following URL: `https://raw.githubusercontent.com/HiImMork/block-list/refs/heads/main/Mork's%20Filter%20List.txt`.
 7. Click "Next".
 8. Click "Subscribe". <sub>*✔ Ticking "Trusted" is optional.*</sub>
-> Due to the rollout of Manifest V3 for Chromium browsers, AdGuard may not work as expected.
+> Due to the rollout of Manifest V3 for Chromium browsers, Extensions that work with request such as ad blockers may not work or deemed as unsafe.mani
 
 # Contact 🤳🏼
 If you have further question or suggestions, feel free to contact me via [discord](https://discord.com/users/566384603007549480).
