@@ -9,15 +9,15 @@ Q: How do I use/install this list? <br>
 A: Go to [Installation](#installation-⚙️) section. <br>
 
 Q: I found a website that is not blocked by this list. How do I report it? <br>
-A: You can submit a report to the proper channels like [Google Safe Browsing (GSB)](https://safebrowsing.google.com/safebrowsing/report_general/), [PhishTank](https://phishtank.org/), or other similar websites. *PLEASE DO NOT SEND PHISHING LINKS TO MY EMAIL, DISCORD, OR ANY OTHER PLATFORM OR I WILL REPORT AND BLOCK YOU.*  <br>
+A: You can submit a report to the proper channels like [Google Safe Browsing (GSB)](https://safebrowsing.google.com/safebrowsing/report_general/), [PhishTank](https://phishtank.org/), or other similar websites. *PLEASE DO NOT SEND PHISHING LINKS TO MY EMAIL, DISCORD ELSE ANY OTHER PLATFORM OR I WILL REPORT AND BLOCK YOU.*  <br>
 
-Q: I have a suggestion for this list. How do I submit it? <br>
-A: You can submit your suggestion via [Discord](https://discord.com/users/566384603007549480). Please refer to the question above about the reporting of phishing websites. <br>
+Q: I have a suggestion/s for this project, where can I send it? <br>
+A: You can submit your suggestion via [Discord](https://discord.com/users/566384603007549480). Please refer to the question above regarding the proper steps of reporting of phishing websites. <br>
 
 Q: How often is this list updated? <br>
 A: Not regularly but I am trying to add as much websites as I can everyday. Each update may vary in size depending on the latest on PhishTank, GSB, or sites that I encounter. <br>
 
-Q: This list made *insert website name* broken! <br>
+Q: This list made *[insert website name]* broken! <br>
 A: As stated in a previous answer, I cannot guarantee that there will be bugs with this list. Again this list is tailor made for me and might not work for your use case. I understand your frustration but please bear with me and I am not a cybersecurity expert. I am trying to learn new things about cybersecurity and I am trying to make this list as seemless and bug-free as I can. <br>
 
 # Installation ⚙️
