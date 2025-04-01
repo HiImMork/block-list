@@ -4,6 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="This is an open-source tool that helps me (MORK) to maintain and update the my blocklist. Learn more at https://github.com/HiImMork/block-list/">
     <title>Blocklist Tools</title>
     <link rel="shortcut icon" href="./assets/image/crimson1.webp" type="image/x-icon">
     <link rel="stylesheet" href="./assets/style.css">
@@ -14,23 +16,43 @@
         <header>
             <div class="container">
                 <div class="logo">
-                    <img src="./assets/image/crimson1.webp" alt="">
+                    <img src="./assets/image/crimson1.webp" alt="website logo">
                     <h1>Blocklist Tools</h1>
                 </div>
             </div>
         </header>
         <main>
+            <!-- Domain Parser -->
             <div class="container">
-                <section class="tool">
-                    <textarea name="domain" id="input"></textarea>
+                <section id="domainParser">
+                    <h2>Domain Parser</h2>
+                    <label for="inputDomains">
+                        Domains:
+                    </label>
+                    <textarea name="domain" id="inputDomains"></textarea>
                     <div class="controls">
                         <button type="button" id="sort">Sort</button>
                         <button type="button" id="clean">Clean</button>
                         <button type="button" id="filter">Filter</button>
                         <button type="button" id="unfilter">Unfilter</button>
                         <button type="button" id="copy">Copy</button>
-                        <button type="reset" id="clear">Clear</button>
-                        <span id="message"></span>
+                        <button type="reset">Clear</button>
+                        <span id="message" aria-live="polite">Message goes here...</span>
+                    </div>
+                </section>
+            </div>
+            <hr>
+            <!-- String Length Counter -->
+            <div class="container">
+                <section id="charCounter">
+                    <h2>String Length Counter</h2>
+                    <label for="stringInput">
+                        String: 
+                    </label>
+                    <textarea name="stringInput" id="stringInput"></textarea>
+                    <p><span id="charCount">0</span> characters</p>
+                    <div class="controls">
+                        <button type="reset">Clear</button>
                     </div>
                 </section>
             </div>
@@ -40,13 +62,14 @@
                 <small class="copyright">
                     &copy; 2025 HiImMork. All rights reserved.
                 </small>
-                <a href=" https://github.com/HiImMork/block-list/tree/main">
-                    <span>Github Repo</span>
+                <a href="https://github.com/HiImMork/block-list/tree/main">
+                    <span>Github Page</span>
                 </a>
             </div>
         </footer>
     </div>
-    <script src="./lib/scripts/buttons.js"></script>
+    <script src="./lib/scripts/domainParser.js"></script>
+    <script src="./lib/scripts/charCounter.js"></script>
 </body>
 
 </html>
