@@ -9,13 +9,19 @@ Q: How do I use/install this list? <br>
 A: Go to [Installation](#installation-⚙️) section. <br>
 
 Q: I found a website that is not blocked by this list. How do I report it? <br>
-A: You can submit a report to the proper channels like Google Safe Browsing. Please do not send the link via Discord, email, or any other social media platform. I WILL BLOCK YOU AND REPORT YOU TO THE PLATFORM IF YOU DO SO. <br>
+A: You can submit a report to the proper channels like [Google Safe Browsing (GSB)](https://safebrowsing.google.com/safebrowsing/report_general/), [PhishTank](https://phishtank.org/), or other similar websites. *PLEASE DO NOT SEND PHISHING LINKS TO MY EMAIL, DISCORD, OR ANY OTHER PLATFORM OR I WILL REPORT AND BLOCK YOU.*  <br>
 
 Q: I have a suggestion for this list. How do I submit it? <br>
-A: You can submit your suggestion via [Discord](https://discord.com/users/566384603007549480). Again, don't send me malicious links. <br>
+A: You can submit your suggestion via [Discord](https://discord.com/users/566384603007549480). Please refer to the question above about the reporting of phishing websites. <br>
+
+Q: How often is this list updated? <br>
+A: Not regularly but I am trying to add as much websites as I can everyday. Each update may vary in size depending on the latest on PhishTank, GSB, or sites that I encounter. <br>
+
+Q: This list made *insert website name* broken! <br>
+A: As stated in a previous answer, I cannot guarantee that there will be bugs with this list. Again this list is tailor made for me and might not work for your use case. I understand your frustration but please bear with me and I am not a cybersecurity expert. I am trying to learn new things about cybersecurity and I am trying to make this list as seemless and bug-free as I can. <br>
 
 # Installation ⚙️
-You can use this list by adding it to your AdGuard filter list or uBlock Origin filter list. This list is specifically designed to work with uBlock Origin; since uBlock uses AdGuard's filter it should work on AdGuard too. Below are the instructions on how to add this list to your AdGuard or uBlock Origin browser extensions.
+You can use this list by adding it to your AdGuard filter list or uBlock Origin filter list or anything that can use AdGuard's Filter Syntax. This list is specifically designed to work with uBlock Origin; since uBlock uses AdGuard's filter it should work on AdGuard too but I can't guarantee that it will be bug free. Below are the instructions on how to add this list to your AdGuard or uBlock Origin browser extensions.
 
 >Please do not use use uBlock Origin and AdGuard at the same time to avoid conflict or potential issue.
 
