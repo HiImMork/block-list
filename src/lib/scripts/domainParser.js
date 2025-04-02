@@ -1,5 +1,5 @@
 const domainTextarea = document.querySelector("#inputDomains");
-const message = document.querySelector("#domainParser #message");
+const domainParserMessage = document.querySelector("#domainParser #domainParserMessage");
 
 const buttons = {
   sort: document.querySelector("#domainParser #sort"),
@@ -11,8 +11,8 @@ const buttons = {
 };
 
 function showMessage(text, isError = false) {
-  message.textContent = text;
-  message.classList.toggle("error", isError);
+  domainParserMessage.textContent = text;
+  domainParserMessage.classList.toggle("error", isError);
 }
 
 function processInput(callback, emptyMessage, successMessage) {
