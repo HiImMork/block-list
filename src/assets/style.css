@@ -76,17 +76,41 @@ body {
 }
 
 a {
-    color: var(--primary-500);
+    color: var(--primary-600);
     text-decoration: none;
     transition: color var(--anim-duration-default);
 }
 
 a:hover {
-    color: var(--primary-500);
+    color: var(--primary-400);
 }
 
 hr {
-    margin: 0.5em 0;
+    margin: 1em 0;
+}
+
+input,
+textarea {
+    margin-top: 1em;
+    padding: 0.5em;
+    background: var(--background-900);
+    outline: none;
+    border: 1px solid currentColor;
+    border-radius: var(--rounded-corners);
+    color: var(--text-main);
+    font-family: 'Fira Code', monospace;
+}
+
+input:focus,
+textarea:focus,
+input:active,
+textarea:active {
+    color: var(--primary-300);
+}
+
+input::placeholder,
+textarea::placeholder {
+    color: var(--text-sub);
 }
 
 .container {
@@ -118,6 +142,7 @@ button,
 
 /* Header */
 header {
+    padding: 1em;
     border-bottom: 1px solid var(--background-200);
 }
 
@@ -134,7 +159,7 @@ header {
     display: flex;
     flex-flow: column nowrap;
     gap: 1em;
-    padding: 1em;
+    padding: 1em 2em;
     border-right: 1px solid var(--background-200);
 }
 
@@ -145,6 +170,9 @@ header {
 }
 
 .sidebar .copyright {
+    color: var(--text-sub);
+    font-style: italic;
+    text-align: center;
     font-size: 0.6rem;
     line-height: 1em;
 }
@@ -152,7 +180,7 @@ header {
 /* Main */
 .main-content main {
     flex: 0 1 100%;
-    padding: 1em 1.5em;
+    padding: 2em 4em;
     background: var(--background-900);
 }
 
@@ -165,7 +193,7 @@ main section .controls {
     display: flex;
     flex-flow: row nowrap;
     gap: 1em;
-    margin: 0.25em 0;
+    margin: 1em 0;
 }
 
 main section .message {
@@ -173,22 +201,43 @@ main section .message {
 }
 
 /* Domain */
-#domainParser textarea#domainListInput {
+#domainParser textarea#domainList {
     height: 650px;
 }
 
 /* String Counter */
 #charCounter p#charCount {
-    flex: 0 0 100px;
+    flex: 0 0 125px;
     display: flex;
     gap: 0.5rem;
 }
 
 /* Footer */
 footer {
+    padding: 4em 0;
     border-top: 1px solid var(--background-200);
 }
 
+footer .container {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    align-items: start;
+}
+
 footer .branding {
-    justify-content: start;
+    align-self: center;
+}
+
+footer .site-map,
+footer .social-links {
+    height: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+footer a {
+    display: flex;
+    gap: 0.5em;
+    align-items: center;
 }

@@ -1,101 +1,60 @@
-const domainTextarea = document.querySelector("#inputDomains");
-const domainParserMessage = document.querySelector("#domainParser #domainParserMessage");
-
-const buttons = {
-  sort: document.querySelector("#domainParser #sort"),
-  clean: document.querySelector("#domainParser #clean"),
-  filter: document.querySelector("#domainParser #filter"),
-  unfilter: document.querySelector("#domainParser #unfilter"),
-  copy: document.querySelector("#domainParser #copy"),
-  clear: document.querySelector("#domainParser button[type='reset']"),
-};
-
-function showMessage(text, isError = false) {
-  domainParserMessage.textContent = text;
-  domainParserMessage.classList.toggle("error", isError);
-}
-
-function processInput(callback, emptyMessage, successMessage) {
-  const input = domainTextarea.value.trim();
-  if (!input) {
-    showMessage(emptyMessage, true);
-    return;
-  }
-  domainTextarea.value = callback(input.split("\n")).join("\n");
-  showMessage(successMessage);
-}
+const domainList = document.querySelector("#domainList");
+const message = document.querySelector("#domainParser .message");
 
 const actions = {
-  sort: () =>
-    processInput(
-      (lines) => lines.sort(),
-      "Cannot sort an empty list. Please enter some text in the input field.",
-      "List has been sorted successfully."
-    ),
-
-  clean: () =>
-    processInput(
-      (lines) => [...new Set(lines.filter((line) => line.trim() !== ""))],
-      "Cannot clean an empty list. Please enter some text in the input field.",
-      "Removed duplicate and empty lines successfully."
-    ),
-
-  filter: () =>
-    processInput(
-      (lines) =>
-        lines.map((line) => {
-          if (/^[.\-*\|\/]/.test(line) || line.endsWith("$all")) return line;
-          if (/to=~.+$/.test(line)) return line.replace(/(,to=~.+)$/, "$all$1");
-          return `||${line}$all`;
-        }),
-      "Cannot modify empty lines. Please enter some text in the input field.",
-      "Added '||' at the beginning and '$all' at the appropriate position for each line."
-    ),
-
-  unfilter: () =>
-    processInput(
-      (lines) =>
-        lines.map((line) => {
-          if (line.startsWith("||") && line.endsWith("$all"))
-            return line.slice(2, -4);
-          if (/(\$all)(,to=~.+)$/.test(line))
-            return line.replace(/(\$all)(,to=~.+)$/, "$2");
-          return line;
-        }),
-      "Cannot remove missing strings. Please ensure that the output is not empty and the strings are present in all lines.",
-      "Removed '||' from the beginning, '$all' from the end, and adjusted '$all' before ',to=~' where applicable."
-    ),
-
+  clean: () => {
+    const domains = getDomains();
+    if (!domains.length) return setMessage("The list is empty. Nothing to clean.");
+    const unique = [...new Set(domains)];
+    if (unique.length === domains.length) return setMessage("No duplicates found. The list is already clean.");
+    updateList(unique, "Duplicates removed successfully.");
+  },
+  sort: () => {
+    const domains = getDomains();
+    if (!domains.length) return setMessage("The list is empty. Nothing to sort.");
+    const sorted = [...domains].sort((a, b) => a.localeCompare(b));
+    if (JSON.stringify(sorted) === JSON.stringify(domains)) return setMessage("The list is already sorted.");
+    updateList(sorted, "Domains sorted alphabetically.");
+  },
+  filter: () => {
+    const domains = getDomains();
+    if (!domains.length) return setMessage("The list is empty. Nothing to filter.");
+    const filtered = domains.map(line => line.startsWith("/") || /^[^a-zA-Z0-9]/.test(line) ? line : `||${line}$all`);
+    if (JSON.stringify(filtered) === JSON.stringify(domains)) return setMessage("The list is already filtered.");
+    updateList(filtered, "Domains filtered successfully.");
+  },
+  undo: () => {
+    const domains = getDomains();
+    if (!domains.length) return setMessage("The list is empty. Nothing to remove.");
+    const undone = domains.map(line => line.startsWith("||") && line.endsWith("$all") ? line.slice(2, -4) : line);
+    if (JSON.stringify(undone) === JSON.stringify(domains)) return setMessage("No filters found to remove.");
+    updateList(undone, "Removed filters.");
+  },
   copy: () => {
-    const input = domainTextarea.value.trim();
-    if (!input) {
-      showMessage(
-        "Cannot copy an empty list. Please generate some output first.",
-        true
-      );
-      return;
-    }
-    domainTextarea.select();
-    domainTextarea.setSelectionRange(0, input.length);
-    navigator.clipboard.writeText(input);
-    showMessage("Copied text to clipboard successfully.");
+    if (!domainList.value.trim()) return setMessage("The list is empty. Nothing to copy.");
+    domainList.select();
+    document.execCommand("copy");
+    setMessage("Domains copied to clipboard.");
   },
-
   clear: () => {
-    const input = domainTextarea.value.trim();
-    if (!input) {
-      showMessage(
-        "Cannot clear an empty list. Please enter some text in the input field.",
-        true
-      );
-      return;
-    }
-    domainTextarea.value = "";
-    showMessage("Cleared the input field successfully.");
-  },
+    if (!domainList.value.trim()) return setMessage("The list is already empty.");
+    updateList([], "Domain list cleared.");
+  }
 };
 
-// Attach event listeners to buttons
-Object.entries(buttons).forEach(([action, button]) => {
-  button.addEventListener("click", actions[action]);
+document.querySelectorAll("#domainParser button").forEach(btn => {
+  btn.addEventListener("click", () => actions[btn.className]?.());
 });
+
+function getDomains() {
+  return domainList.value.split("\n").map(line => line.trim()).filter(line => line);
+}
+
+function updateList(domains, msg) {
+  domainList.value = domains.join("\n");
+  setMessage(msg);
+}
+
+function setMessage(msg) {
+  message.textContent = msg;
+}

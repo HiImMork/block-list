@@ -1,24 +1,18 @@
-const input = document.querySelector("#stringInput");
-const charCounterMessage = document.querySelector("#charCounterMessage");
-charCounterMessage.textContent = "";
-let typingTimeout;
+const messageElement = document.querySelector("#charCounter .message");
+const charCountElement = document.querySelector("#charCounter #charCount");
+const inputField = document.querySelector("#charCounter #charCounterInput");
 
-input.addEventListener("input", () => {
-  let clearInputOffset = 1250;
-  document.querySelector("#charCount").textContent = input.value.length;
-  charCounterMessage.textContent = "User is typing...";
-
-  clearTimeout(typingTimeout);
-  typingTimeout = setTimeout(() => {
-    charCounterMessage.textContent = "";
-  }, clearInputOffset);
+inputField.addEventListener("input", (event) => {
+  charCountElement.textContent = `Characters: ${event.target.value.length}`;
+  messageElement.textContent = "User is typing something...";
+  setTimeout(() => {
+    messageElement.textContent = "User has stopped typing. Waiting for input...";
+  }, 1000);
 });
 
-const clearStringInputField = document.querySelector(
-  "#charCounter button[type='reset']"
-);
-clearStringInputField.addEventListener("click", function () {
-  input.value = "";
-  document.querySelector("#charCount").textContent = 0;
-  charCounterMessage.textContent = "Input cleared successfully.";
+const clearButton = document.querySelector("#charCounter .clear");
+clearButton.addEventListener("click", () => {
+  inputField.value = "";
+  charCountElement.textContent = "Characters: ";
+  messageElement.textContent = "Input has been cleared!";
 });
