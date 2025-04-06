@@ -35,8 +35,31 @@
                 </nav>
             </aside>
             <main>
-                <section>
-
+                <section id="domainParser">
+                    <h2>Domain</h2>
+                    <p><label for="domainListInput">Enter your list of domains below:</label></p>
+                    <textarea name="domainListInput" id="domainListInput"
+                        placeholder="Enter domains here..."></textarea>
+                    <div class="controls">
+                        <button type="button" class="clean">Clean List</button>
+                        <button type="button" class="sort">Sort List</button>
+                        <button type="button" class="filter">Add Filters</button>
+                        <button type="button" class="undo">Undo Filters</button>
+                        <button type="button" class="copy">Copy to Clipboard</button>
+                        <button type="reset" class="clear">Clear List</button>
+                    </div>
+                    <p class="message"></p>
+                </section>
+                <hr>
+                <section id="charCounter">
+                    <h2>Character Counter</h2>
+                    <p><label for="charCountInput">Enter string to be counted:</label></p>
+                    <input type="text" id="charCountInput" placeholder="Enter string here..." />
+                    <div class="controls">
+                        <p id="charCount"></p>
+                        <button type="reset" class="clear">Clear Input</button>
+                    </div>
+                    <p class="message">Waiting for user input</p>
                 </section>
             </main>
         </div>

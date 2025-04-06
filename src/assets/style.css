@@ -53,6 +53,8 @@
     --header-height: 72px;
     --footer-height: 144px;
 
+    --rounded-corners: 8px;
+
     --anim-duration-default: 200ms;
     --anim-type-default: ease-in-out;
     --anim-offset-default: 50ms;
@@ -83,6 +85,10 @@ a:hover {
     color: var(--primary-500);
 }
 
+hr {
+    margin: 0.5em 0;
+}
+
 .container {
     height: 100%;
     width: 90%;
@@ -101,21 +107,30 @@ a:hover {
     height: clamp(1rem, 7.5vw, var(--header-height));
 }
 
-/* header */
+button,
+.btn {
+    background: transparent;
+    color: var(--text-main);
+    border: 1px solid var(--text-main);
+    border-radius: var(--rounded-corners);
+    padding: 0.5em;
+}
+
+/* Header */
 header {
     border-bottom: 1px solid var(--background-200);
 }
 
-/* main content */
+/* Main Content */
 .main-content {
     display: flex;
     flex-flow: row nowrap;
 
 }
 
-/* sidebar */
+/* Sidebar */
 .main-content aside {
-    flex: 0 0 192px;
+    flex: 0 0 clamp(125px, 25vw, 300px);
     display: flex;
     flex-flow: column nowrap;
     gap: 1em;
@@ -129,21 +144,47 @@ header {
     font-weight: 700;
 }
 
-.sidebar hr {
-    margin: 0.5em 0;
-}
-
-.sidebar .copyright{
-    font-size: 0.8rem;
+.sidebar .copyright {
+    font-size: 0.6rem;
     line-height: 1em;
 }
-/* main */
+
+/* Main */
 .main-content main {
     flex: 0 1 100%;
+    padding: 1em 1.5em;
     background: var(--background-900);
 }
 
-/* footer */
+main section {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+main section .controls {
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 1em;
+    margin: 0.25em 0;
+}
+
+main section .message {
+    font-size: 0.8rem;
+}
+
+/* Domain */
+#domainParser textarea#domainListInput {
+    height: 650px;
+}
+
+/* String Counter */
+#charCounter p#charCount {
+    flex: 0 0 100px;
+    display: flex;
+    gap: 0.5rem;
+}
+
+/* Footer */
 footer {
     border-top: 1px solid var(--background-200);
 }
