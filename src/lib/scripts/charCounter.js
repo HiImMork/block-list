@@ -1,18 +1,13 @@
-const messageElement = document.querySelector("#charCounter .message");
-const charCountElement = document.querySelector("#charCounter #charCount");
-const inputField = document.querySelector("#charCounter #charCounterInput");
+const [msgEl, countEl, inputEl, clearBtn] = ["#charCounter .message", "#charCounter #charCount", "#charCounter #charCounterInput", "#charCounter .clear"].map(s => document.querySelector(s));
 
-inputField.addEventListener("input", (event) => {
-  charCountElement.textContent = `Characters: ${event.target.value.length}`;
-  messageElement.textContent = "User is typing something...";
-  setTimeout(() => {
-    messageElement.textContent = "User has stopped typing. Waiting for input...";
-  }, 1000);
+inputEl.addEventListener("input", e => {
+  countEl.textContent = `Characters: ${e.target.value.length}`;
+  msgEl.textContent = "User is typing something...";
+  setTimeout(() => msgEl.textContent = "User has stopped typing. Waiting for input...", 1000);
 });
 
-const clearButton = document.querySelector("#charCounter .clear");
-clearButton.addEventListener("click", () => {
-  inputField.value = "";
-  charCountElement.textContent = "Characters: ";
-  messageElement.textContent = "Input has been cleared!";
+clearBtn.addEventListener("click", () => {
+  inputEl.value = "";
+  countEl.textContent = "Characters: ";
+  msgEl.textContent = "Input has been cleared!";
 });
