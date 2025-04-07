@@ -1,84 +1,75 @@
-console.log("Start of domainParser.js");
-
-// DOM elements
 const domainList = document.querySelector("#domainList");
 const message = document.querySelector("#domainParser .message");
 
-// Action handlers
-const actions = {
-  clean: () => processDomains(
-    domains => [...new Set(domains)],
-    "Duplicates removed successfully.",
-    "No duplicates found. The list is already clean."
-  ),
-
-  sort: () => processDomains(
-    domains => [...domains].sort((a, b) => a.localeCompare(b)),
-    "Domains sorted alphabetically.",
-    "The list is already sorted."
-  ),
-
-  filter: () => processDomains(
-    domains => domains.map(line => 
-      line.includes(",to=~") ? `${line.slice(0, line.indexOf(",to=~"))}$all${line.slice(line.indexOf(",to=~"))}` :
-      line.startsWith("/") || /^[^a-zA-Z0-9]/.test(line) ? line : `||${line}$all`
-    ),
-    "Domains filtered successfully.",
-    "The list is already filtered."
-  ),
-
-  undo: () => processDomains(
-    domains => domains.map(line => 
-      line.startsWith("||") && line.endsWith("$all") ? line.slice(2, -4) : line
-    ),
-    "Removed filters.",
-    "No filters found to remove."
-  ),
-
-  copy: () => {
-    if (!domainList.value.trim()) return setMessage("The list is empty. Nothing to copy.");
-    domainList.select();
-    navigator.clipboard.writeText(domainList.value)
-      .then(() => setMessage("Domains copied to clipboard."))
-      .catch(err => {
-        console.error("Failed to copy text: ", err);
-        setMessage("Failed to copy domains to clipboard.");
-      });
-  },
-
-  clear: () => {
-    if (!domainList.value.trim()) return setMessage("The list is already empty.");
-    updateList([], "Domain list cleared.");
-  }
-};
-
-// Attach event listeners to buttons
-document.querySelectorAll("#domainParser button").forEach(btn => {
-  btn.addEventListener("click", () => {
-    const actionClass = [...btn.classList].find(cls => actions[cls]);
-    actionClass ? actions[actionClass]() : console.warn(`No action defined for button with classes: ${btn.className}`);
+const cleanListBtn = document
+  .querySelector("#domainParser button.clean.primary")
+  .addEventListener("click", () => {
+    //Function clean button.
+    const lines = domainList.value.split("\n");
+    const cleanedLines = [...new Set(lines.filter(line => line.trim() !== ""))];
+    domainList.value = cleanedLines.join("\n");
   });
-});
 
-// Helper functions
-function getDomains() {
-  return domainList.value.split("\n").map(line => line.trim()).filter(Boolean);
-}
+const sortListBtn = document
+  .querySelector("#domainParser button.sort.primary")
+  .addEventListener("click", () => {
+    // Function for sort button.
+    const lines = domainList.value.split("\n");
+    const sortedLines = lines.filter(line => line.trim() !== "").sort();
+    domainList.value = sortedLines.join("\n");
+  });
 
-function updateList(domains, msg) {
-  domainList.value = domains.join("\n");
-  setMessage(msg);
-}
+const filterListBtn = document
+  .querySelector("#domainParser button.filter.primary")
+  .addEventListener("click", () => {
+    // Function for filter button.
+    const lines = domainList.value.split("\n");
+    const filteredLines = lines.map(line => {
+      if (line.startsWith("||") || line.startsWith("#") || line.trim() === "") {
+        return line.trim().endsWith("$all") ? line : `${line}$all`;
+      } else if (line.includes(",to=~")) {
+        const [before, after] = line.split(",to=~");
+        return before.includes("$all") ? `||${line}` : `||${before}$all,to=~${after}`;
+      } else {
+        return `||${line}$all`;
+      }
+    });
+    domainList.value = filteredLines.join("\n");
+  });
 
-function setMessage(msg) {
-  message.textContent = msg;
-}
+const undoFilterBtn = document
+  .querySelector("#domainParser button.undo.secondary")
+  .addEventListener("click", () => {
+    // Function for undo button.
+    const lines = domainList.value.split("\n");
+    const undoneLines = lines.map(line => {
+      if (line.startsWith("||")) {
+        line = line.slice(2);
+      }
+      if (line.endsWith("$all")) {
+        line = line.slice(0, -4);
+      }
+      if (line.includes("$all,to=~")) {
+        line = line.replace("$all,to=~", ",to=~");
+      }
+      return line;
+    });
+    domainList.value = undoneLines.join("\n");
+  });
 
-function processDomains(transformFn, successMsg, noChangeMsg) {
-  const domains = getDomains();
-  if (!domains.length) return setMessage("The list is empty.");
-  const updated = transformFn(domains);
-  JSON.stringify(updated) === JSON.stringify(domains) ? setMessage(noChangeMsg) : updateList(updated, successMsg);
-}
+const copyListButton = document
+  .querySelector("#domainParser button.copy.secondary")
+  .addEventListener("click", () => {
+    // Function for copy button.
+    navigator.clipboard.writeText(domainList.value).then(() => {
+      message.textContent = "Copied to clipboard!";
+      setTimeout(() => (message.textContent = ""), 2000);
+    });
+  });
 
-console.log("End of domainParser.js");
+const clearListBtn = document
+  .querySelector("#domainParser button.clear.danger")
+  .addEventListener("click", () => {
+    // Function for clear button.
+    domainList.value = "";
+  });
