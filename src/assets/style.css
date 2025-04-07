@@ -235,10 +235,17 @@ main section {
 }
 
 main section .controls {
-    display: flex;
-    flex-flow: row nowrap;
-    gap: 1em;
-    margin: 1em 0;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: 1fr;
+    column-gap: 1.25em;
+    align-items: center;
+    padding-top: 1em;
+}
+
+main #charCounter .controls {
+    display: grid;
+    grid-template-columns: 1fr max-content;
 }
 
 main section .message {
