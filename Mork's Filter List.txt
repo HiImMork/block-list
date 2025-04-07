@@ -398,7 +398,6 @@
 ||aithor.com$all
 ||aizipai.cn$all
 ||ajhjo.cn$all
-||akamaiedge.net$all
 ||alagoasonline.site$all
 ||albbscp.cn$all
 ||albemarlepro.com$all
@@ -442,14 +441,14 @@
 ||androidout.com$all
 ||angelesperiod.com$all
 ||angie.com$all
-anilab.$all$all,to=~anilab.to
+||anilab.$all,to=~anilab.to
 ||anilabapk.$all
 ||animekai.bo$all
 ||animekaisub.com$all
 ||animerock.io$all
 ||animetime.pw$all
 ||animeulti.com$all
-anitaku*.$all$all,to=~anitaku.bz
+||anitaku*.$all,to=~anitaku.bz
 ||anjouangaming.org$all
 ||anoma.app-web3s.com$all
 ||anturis.com$all
@@ -485,7 +484,7 @@ anitaku*.$all$all,to=~anitaku.bz
 ||apkmody.$all
 ||apkmonk.com$all
 ||apkplanet.net$all
-apkpure*.$all$all,to=~apkpure.com
+||apkpure*.$all,to=~apkpure.com
 ||apkresult.$all
 ||apksfull.com$all
 ||apkshub.com$all
@@ -536,7 +535,6 @@ apkpure*.$all$all,to=~apkpure.com
 ||arubafattura.19881billings.com$all
 ||as.meetporn.net$all
 ||asaerfadertgsrtgsdrtgsfrtyherfg.weeblysite.com$all
-asdasdsad$all$all,to=~asdasd-*-*-*-*.webflow.io
 ||aseiintl.comabout--coinbase--uath.webflow.io$all
 ||asesorias-alamano.vercel.app$all
 ||asf.my.id$all
@@ -1530,7 +1528,7 @@ asdasdsad$all$all,to=~asdasd-*-*-*-*.webflow.io
 ||gloomy.site$all
 ||gogashutit.com$all
 ||goglzonsonic.io$all
-gogoanime*.$all$all,to=~gogoanime3.cc
+||gogoanime*.$all,to=~gogoanime3.cc
 ||goldenplace.site$all
 ||gonitro.com$all
 ||gonklhetr.cyou$all
@@ -1586,7 +1584,7 @@ gogoanime*.$all$all,to=~gogoanime3.cc
 ||halowalletplus.xyz$all
 ||ham-radio-op.net$all
 ||han.gl$all
-hanime*.$all$all,to=~hanime.tv
+||hanime*.$all,to=~hanime.tv
 ||haos-project-org$all
 ||hapake.org$all
 ||happlu-iew.xyz$all
@@ -2195,7 +2193,7 @@ hanime*.$all$all,to=~hanime.tv
 ||micedge.store$all
 ||michelelinhares.adv.br$all
 ||microsoftmailingaccounts.weebly.com$all
-mihon*.$all$all,to=~mihon.app
+||mihon*.$all,to=~mihon.app
 ||mihqrfe.cn$all
 ||milhassicrediix.com$all
 ||milhassicredix.com$all
@@ -2348,7 +2346,7 @@ mihon*.$all$all,to=~mihon.app
 ||new.express.adobe.com$all
 ||newcode.6amtrade.xyz$all
 ||newversionattmailapps.weebly.com$all
-nhentai*.$all$all,to=~nhentai.net
+||nhentai*.$all,to=~nhentai.net
 ||nick-name.ru$all
 ||niiace.site$all
 ||nijisanji-store.com$all
@@ -2744,7 +2742,7 @@ nhentai*.$all$all,to=~nhentai.net
 ||retrooavaxdropsclaim.lol$all
 ||reurl.cc$all
 ||revaffilliatespx.site$all
-revanced*.$all$all,to=~revanced.app
+||revanced*.$all,to=~revanced.app
 ||revancedmanager*.$all
 ||rewards-*.exchange$all
 ||rewards-shiba.org$all
@@ -2860,7 +2858,7 @@ revanced*.$all$all,to=~revanced.app
 ||sharpethomas36.wixsite.com$all
 ||shartimien.site$all
 ||shop2game.com$all
-shopee-*.$all$all,to=~/shopee.[a-z]{1,2}/
+||shopee-*.$all,to=~/shopee.[a-z]{1,2}/
 ||shopee-*.online$all
 ||shopee-official.$all$all
 ||shopee-oficial.$all$all
@@ -2878,8 +2876,8 @@ shopee-*.$all$all,to=~/shopee.[a-z]{1,2}/
 ||shyft-wallet.gitbook.io$all
 ||sibforms.com$all
 ||siblinggut.com$all
-sicred.*.$all$all,to=~sicredi.com.br
-sicred*.$all$all,to=~sicredi.com.br
+||sicred.*.$all,to=~sicredi.com.br
+||sicred*.$all,to=~sicredi.com.br
 ||sicredbrativo.ru$all
 ||sicredipontoxx.com$all
 ||sidreriaeltonel.com$all
@@ -2976,7 +2974,7 @@ sicred*.$all$all,to=~sicredi.com.br
 ||sso-coinbasepros-.webflow.io$all
 ||sssmy.lc$all
 ||sswwsldorifdkfjsddf.weebly.com$all
-stacher*.$all$all,to=~stacher.io
+||stacher*.$all,to=~stacher.io
 ||stacsa.one$all
 ||staging-bardsleygroup-stating.kinsta.cloud$all
 ||stake.com$all
@@ -3307,7 +3305,7 @@ stacher*.$all$all,to=~stacher.io
 ||unitedresftual.com$all
 ||universalgroundcareltd.weebly.com$all
 ||universalparks.com$all
-universalstudios*.com$all$all,to=~www.universalstudios.com
+||universalstudios*.com$all$all,to=~www.universalstudios.com
 ||universeactivemailbox.weebly.com$all
 ||unknowncheats.me$all
 ||unpkg.com$all
@@ -3444,8 +3442,8 @@ universalstudios*.com$all$all,to=~www.universalstudios.com
 ||webulk.$all
 ||webull-vip*.$all
 ||webull.co.kr$all
-webull*.$all$all,to=~www.webull.com
-webull*$all$all,to=~webull.com
+||webull*.$all,to=~www.webull.com
+||webull*$all,to=~webull.com
 ||webullisrael.$all
 ||webulllogi.weebly.com$all
 ||webullrewards.com$all
