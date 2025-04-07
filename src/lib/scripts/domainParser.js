@@ -1,3 +1,6 @@
+console.log("start of domainParser.js");
+
+
 const domainList = document.querySelector("#domainList");
 const message = document.querySelector("#domainParser .message");
 
@@ -43,7 +46,14 @@ const actions = {
 };
 
 document.querySelectorAll("#domainParser button").forEach(btn => {
-  btn.addEventListener("click", () => actions[btn.className]?.());
+  btn.addEventListener("click", () => {
+    const actionClass = [...btn.classList].find(cls => actions[cls]);
+    if (actionClass) {
+      actions[actionClass]?.();
+    } else {
+      console.warn(`No action defined for button with classes: ${btn.className}`);
+    }
+  });
 });
 
 function getDomains() {
@@ -58,3 +68,5 @@ function updateList(domains, msg) {
 function setMessage(msg) {
   message.textContent = msg;
 }
+
+console.log("End of domainParser.js");

@@ -131,13 +131,54 @@ textarea::placeholder {
     height: clamp(1rem, 7.5vw, var(--header-height));
 }
 
+/* Buttons */
 button,
 .btn {
-    background: transparent;
+    background-color: transparent;
     color: var(--text-main);
     border: 1px solid var(--text-main);
     border-radius: var(--rounded-corners);
     padding: 0.5em;
+    transition: var(--anim-duration-default) var(--anim-type-default);
+}
+
+button.primary,
+.btn.primary {
+    background-color: var(--primary-600);
+    border: none;
+    color: var(--secondary-500);
+}
+
+button.primary:hover,
+.btn.primary:hover {
+    background-color: var(--secondary-500);
+    color: var(--background-950);
+}
+
+button.secondary,
+.btn.secondary {
+    background-color: var(--accent-500);
+    border: none;
+    color: var(--background-950);
+}
+
+button.secondary:hover,
+.btn.secondary:hover {
+    background-color: var(--background-950);
+    color: var(--accent-400);
+}
+
+button.danger,
+.btn.danger {
+    background-color: #d44;
+    border: none;
+    color: var(--text-main);
+}
+
+button.danger:hover, .btn.danger:hover {
+    background-color: #f22;
+    color: var(--background-950);
+
 }
 
 /* Header */
