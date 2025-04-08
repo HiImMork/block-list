@@ -405,7 +405,6 @@
 ||aithor.com$all
 ||aizipai.cn$all
 ||ajhjo.cn$all
-||akamaiedge.net$all
 ||alagoasonline.site$all
 ||albbscp.cn$all
 ||albemarlepro.com$all
