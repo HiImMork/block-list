@@ -25,7 +25,12 @@ const filterListBtn = document
     // Function for filter button.
     const lines = domainList.value.split("\n");
     const filteredLines = lines.map(line => {
-      if (line.startsWith("||") || line.startsWith("#") || line.trim() === "") {
+      if (
+        line.startsWith("||") || 
+        line.startsWith("#") || 
+        line.trim() === "" || 
+        /^[^a-zA-Z0-9]/.test(line.trim())
+      ) {
         return line.trim().endsWith("$all") ? line : `${line}$all`;
       } else if (line.includes(",to=~")) {
         const [before, after] = line.split(",to=~");
