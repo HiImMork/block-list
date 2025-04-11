@@ -5,15 +5,10 @@ const clearStringInput = document.getElementById("clearStringInput");
 // Initialize charCounterConsole
 setConsole();
 
-// Evenlisteners for input and buttons
-charCounterInput.addEventListener("input", () => {
-  setConsole();
-});
+// Event listeners for input and buttons
+charCounterInput.addEventListener("input", setConsole());
 
-clearStringInput.addEventListener("click", () => {
-  charCounterInput.value = "";
-  setConsole();
-});
+clearStringInput.addEventListener("click", clearConsole());
 
 // Function for getting the string length
 function getLength() {
@@ -23,4 +18,10 @@ function getLength() {
 // Function for setting the string legth
 function setConsole() {
   charCounterConsole.textContent = "Characters: " + getLength().toString();
+}
+
+// Function for clear button
+function clearConsole() {
+  charCounterInput.value = "";
+  setConsole();
 }
