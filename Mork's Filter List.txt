@@ -3196,7 +3196,6 @@
 ||tevomuhendislik.com.tr$all
 ||theblacksportswoman.com$all
 ||thecentrium.in$all
-||thecomqueror.events$all
 ||thekickasstorrents.com$all
 ||thepasswordgame.io$all
 ||thepiratebay*.$all
