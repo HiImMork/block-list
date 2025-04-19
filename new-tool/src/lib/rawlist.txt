@@ -58,6 +58,7 @@
 /\d+\.onamaeweb\.jp/
 /\d+\.top/
 /\d+\.world/
+/\d+club\d+\.club/
 /\d+nwinvip\d+\.[a-z]{1,8}/
 /\d{1,9}\.xyz/
 /\w{16,}\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com)/
@@ -219,6 +220,8 @@
 /pa-ezpass[a-z]{1,5}\.[a-z]{1,8}/
 /packages[a-z]{2}\.xin/
 /pancakeswap[a-z]{4}\.com/
+/phlruby\d+\.com/
+/phrush\d+\.com/
 /plrpamelasilva\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com)/
 /policy-violation-\d+\.msurridge\.com\.uk/
 /processingcreative\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com)/
@@ -377,6 +380,7 @@ abvnd.top
 acasd.top
 acc0untver1f1cationeasily.com
 acceplay.site
+acceptablefoot.com
 accessagricoledigitale.com
 account-helpnetfllixmiseajour.online
 account.appleiicloud.com
@@ -842,6 +846,7 @@ cashalo.com
 cashlib.info
 cashmanagement.*.sbs
 casino.guru
+casinoplus.com.ph
 catadaaz.top
 catastrophee.site
 catmouseapk.org
@@ -1260,6 +1265,7 @@ egamersworld.com
 ehibinzzx.cn
 eigenfi.web3-open.net
 eldorado.gg
+elektrobot.site
 elitepvpers.com
 elizasol.xyz
 ellion.site
@@ -1982,6 +1988,7 @@ lbmcredit.com
 lcmack.com
 ldercaja-empresas.com
 ldplayer.net
+leaklitre.com
 learn-app-brdg.gitbook.io
 learn-app-trezxzoroi.gitbook.io
 learn-trzorhdw.gitbook.io
@@ -2155,6 +2162,7 @@ mdmehedi.site
 mdmltd.co.il
 meapholdlgin.gitbook.io
 meapholdlogn.gitbook.io
+mechanicladenthereby.com
 mecrurytimes.com
 mediapol.cn
 medicardphils.com
@@ -2635,6 +2643,7 @@ privacybreach.s3.us-west-1.amazonaws.com
 privacymanager.io
 privy.io
 producthunt.com
+profitablecpm.com
 profitablecpmrate.com
 profitablecpmrate.com*
 profitablegatecpm.com
@@ -2712,6 +2721,7 @@ racetoabillion.fun
 raddix.site*
 radess.info
 radiantcapital.money
+raibet.com
 raidshadowlegends.com
 rain.gg
 rainbow-unnoticia-viabcp.glitch.me

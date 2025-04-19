@@ -67,6 +67,7 @@
 /\d+\.onamaeweb\.jp/$all
 /\d+\.top/$all
 /\d+\.world/$all
+/\d+club\d+\.club/$all
 /\d+nwinvip\d+\.[a-z]{1,8}/$all
 /\d{1,9}\.xyz/$all
 /\w{16,}\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com)/$all
@@ -228,6 +229,8 @@
 /pa-ezpass[a-z]{1,5}\.[a-z]{1,8}/$all
 /packages[a-z]{2}\.xin/$all
 /pancakeswap[a-z]{4}\.com/$all
+/phlruby\d+\.com/$all
+/phrush\d+\.com/$all
 /plrpamelasilva\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com)/$all
 /policy-violation-\d+\.msurridge\.com\.uk/$all
 /processingcreative\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com)/$all
@@ -386,6 +389,7 @@
 ||acasd.top$all
 ||acc0untver1f1cationeasily.com$all
 ||acceplay.site$all
+||acceptablefoot.com$all
 ||accessagricoledigitale.com$all
 ||account-helpnetfllixmiseajour.online$all
 ||account.appleiicloud.com$all
@@ -851,6 +855,7 @@
 ||cashlib.info$all
 ||cashmanagement.*.sbs$all
 ||casino.guru$all
+||casinoplus.com.ph$all
 ||catadaaz.top$all
 ||catastrophee.site$all
 ||catmouseapk.org$all
@@ -1269,6 +1274,7 @@
 ||ehibinzzx.cn$all
 ||eigenfi.web3-open.net$all
 ||eldorado.gg$all
+||elektrobot.site$all
 ||elitepvpers.com$all
 ||elizasol.xyz$all
 ||ellion.site$all
@@ -1991,6 +1997,7 @@
 ||lcmack.com$all
 ||ldercaja-empresas.com$all
 ||ldplayer.net$all
+||leaklitre.com$all
 ||learn-app-brdg.gitbook.io$all
 ||learn-app-trezxzoroi.gitbook.io$all
 ||learn-trzorhdw.gitbook.io$all
@@ -2164,6 +2171,7 @@
 ||mdmltd.co.il$all
 ||meapholdlgin.gitbook.io$all
 ||meapholdlogn.gitbook.io$all
+||mechanicladenthereby.com$all
 ||mecrurytimes.com$all
 ||mediapol.cn$all
 ||medicardphils.com$all
@@ -2644,6 +2652,7 @@
 ||privacymanager.io$all
 ||privy.io$all
 ||producthunt.com$all
+||profitablecpm.com$all
 ||profitablecpmrate.com$all
 ||profitablecpmrate.com*$all
 ||profitablegatecpm.com$all
@@ -2721,6 +2730,7 @@
 ||raddix.site*$all
 ||radess.info$all
 ||radiantcapital.money$all
+||raibet.com$all
 ||raidshadowlegends.com$all
 ||rain.gg$all
 ||rainbow-unnoticia-viabcp.glitch.me$all
