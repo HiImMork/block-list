@@ -410,9 +410,6 @@
 ||9minecraft.net$all
 ||9terawolf.com$all
 ||9wp1ta-c0.myshopify.com$all
-<<<<<<< HEAD$all
-=======$all
->>>>>>> 151dd5a374ddb905019bbc38f22b4feefa882cb6$all
 ||a-movies.com$all
 ||a-online.us$all
 ||a100tech.com$all
