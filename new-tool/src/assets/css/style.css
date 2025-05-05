@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
 :root {
     /** Color Palette **/
     --text-main: #f1f1f1;
@@ -71,6 +73,7 @@
 body {
     background-color: var(--background-950);
     color: var(--text-main);
+    font-family: 'Roboto FLex', sans-serif;
 }
 
 .container {
@@ -186,7 +189,7 @@ button,
 #wrapper {
     display: grid;
     grid-template-columns: minmax(128px, max-content) 1fr;
-    grid-template-rows: 96px 1fr 192px;
+    grid-template-rows: minmax(96px, max-content) 1fr minmax(192px, max-content);
     grid-template-areas: " header header"
         "aside main"
         "footer footer";
@@ -310,7 +313,7 @@ section .input-controls {
 /* Footer */
 footer {
     grid-area: footer;
-    padding: 2em 0;
+    padding: 2em;
     background-color: var(--background-800);
 }
 
