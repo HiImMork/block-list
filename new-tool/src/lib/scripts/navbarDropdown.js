@@ -1,8 +1,8 @@
-const dropdownRoot = document.querySelector("nav.dropdown");
-const dropdownToggle = document.querySelector("button.dropdown-toggle");
+const elementDropdownRoot = document.querySelector("nav.dropdown");
+const elementDropdownToggle = document.querySelector("button.dropdown-toggle");
 
-dropdownToggle.addEventListener("click", toggleDropdownVisibility);
+elementDropdownToggle.addEventListener("click", toggleDropdownVisibility);
 
 function toggleDropdownVisibility() {
-    dropdownRoot.classList.toggle("show");
+  elementDropdownRoot.classList.toggle("show");
 }
