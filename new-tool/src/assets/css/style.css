@@ -188,7 +188,7 @@ button,
 /* Page Wrapper */
 #wrapper {
     display: grid;
-    grid-template-columns: minmax(128px, max-content) 1fr;
+    grid-template-columns: minmax(224px, max-content) 1fr;
     grid-template-rows: minmax(96px, max-content) 1fr minmax(192px, max-content);
     grid-template-areas: " header header"
         "aside main"
@@ -232,6 +232,10 @@ aside.left-sidebar {
     font-weight: 500;
 }
 
+.left-sidebar ul li a {
+    text-wrap: nowrap;
+}
+
 /* Main Content */
 main {
     grid-area: main;
@@ -241,6 +245,7 @@ main {
 
 main>.container>hr {
     margin: 2em 0;
+    border: 2px solid currentColor;
 }
 
 section {
@@ -281,8 +286,8 @@ section .input-group textarea {
     padding: 0.5em;
     outline: none;
     background: transparent;
-    border: 1px solid currentColor;
-    border-radius: var(--corner-radius-default);
+    border: 3px inset currentColor;
+    border-radius: calc(var(--corner-radius-default)/4);
     color: var(--text-sub);
 }
 
@@ -351,7 +356,8 @@ footer #legalNotice {
     font-size: 0.8rem;
 }
 
-@media (orientation: portrait) {
+@media screen and (orientation: portrait),
+(max-width: 480px) {
     #wrapper {
         display: flex;
         flex-flow: column;
@@ -380,5 +386,10 @@ footer #legalNotice {
 
     section .input-group label {
         flex: 0 0 100%;
+    }
+
+    /* Footer */
+    .page-footer>.row.container {
+        padding-bottom: 100px;
     }
 }

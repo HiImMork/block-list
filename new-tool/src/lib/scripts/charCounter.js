@@ -1,12 +1,11 @@
 const elementInputTextStringInput = document.getElementById("charCounterInput");
 const elementOutputTextStringLength =
   document.getElementById("charCounterConsole");
-const elementButtonClearString = document.getElementById("clearStringInput");
+const elementButtonClearString = document.getElementById("clearString");
 let characters;
 
 elementInputTextStringInput.addEventListener("input", scanForUserInput);
-
-elementButtonClearString.addEventListener("click", clearAll);
+elementButtonClearString.addEventListener("click", clearStringInput);
 
 function countChars() {
   elementOutputTextStringLength.textContent = `Characters: ${characters}`;
@@ -18,7 +17,7 @@ function scanForUserInput() {
   countChars();
 }
 
-function clearAll() {
+function clearStringInput() {
   characters = 0;
   elementInputTextStringInput.value = "";
   countChars();
