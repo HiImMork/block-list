@@ -307,8 +307,36 @@ section .input-controls {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-template-rows: auto;
-    gap: 0.5em 1em;
+    gap: 0.5em;
 }
+
+#characterCounterContainer>.input-controls {
+    grid-template-columns: 3fr 1fr;
+}
+
+#characterCounterContainer .input-group {
+    position: relative;
+}
+
+#characterCounterContainer .input-group label {
+    flex: 0 0 25%;
+    position: absolute;
+    left: 0.5em;
+    transition: transform var(--anim-dur-default) ease-in-out;
+    pointer-events: none;
+}
+
+#characterCounterContainer .input-group input {
+    transition: 200ms;
+    width: 100%;
+}
+
+#characterCounterContainer .input-group input:focus,
+#characterCounterContainer .input-group input:not(:placeholder-shown) {
+    transform: translateX(150px);
+    flex: 0 0 75%;
+}
+
 
 #domainListInput {
     min-height: 50vh;
@@ -371,14 +399,10 @@ footer #legalNotice {
     aside.navbar {
         grid-area: aside;
         display: initial;
-        background-color: var(--background-900);
+        background-color: var(--background-800);
     }
 
     /* Main Content */
-    main {
-        background-color: var(--background-950);
-    }
-
     section .input-group {
         flex-flow: row wrap;
         gap: 0.5em;
