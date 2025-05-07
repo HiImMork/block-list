@@ -315,11 +315,12 @@ section .input-controls {
 }
 
 #characterCounterContainer .input-group {
+    --label-width: 150px;
     position: relative;
 }
 
 #characterCounterContainer .input-group label {
-    flex: 0 0 25%;
+    flex: 0 0 150px;
     position: absolute;
     left: 0.5em;
     transition: transform var(--anim-dur-default) ease-in-out;
@@ -327,16 +328,14 @@ section .input-controls {
 }
 
 #characterCounterContainer .input-group input {
-    transition: 200ms;
-    width: 100%;
+    transition: 200ms ease-in-out;
 }
 
 #characterCounterContainer .input-group input:focus,
 #characterCounterContainer .input-group input:not(:placeholder-shown) {
-    transform: translateX(150px);
-    flex: 0 0 75%;
+    transform: translateX(var(--label-width));
+    flex: 0 1 calc(100% - var(--label-width));
 }
-
 
 #domainListInput {
     min-height: 50vh;
