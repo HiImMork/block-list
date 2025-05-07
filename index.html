@@ -1,204 +1,164 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./new-tool/src/assets/css/style.css" />
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
-    />
-    <link
-      rel="shortcut icon"
-      href="./new-tool/src/assets/img/wuwa/v2/F_Rover_29_01.webp"
-      type="image/x-icon"
-    />
-    <title>MORK's Blocklist Tools</title>
-  </head>
-  <body>
-    <!-- Page Wrapper -->
-    <div id="wrapper">
-      <!-- Page Header -->
-      <header class="page-header">
-        <!-- Header Branding -->
-        <a href="/" class="branding row">
-          <img
-            src="./new-tool/src/assets/img/wuwa/v2/F_Rover_29_01.webp"
-            alt="Website Logo"
-          />
-          <h1>MORK's Blocklist Tools</h1>
-        </a>
-      </header>
-      <!-- Navbar -->
-      <aside class="navbar">
-        <nav class="dropdown">
-          <button class="dropdown-toggle">
-            <i class="bi bi-list"></i>
-          </button>
-          <ul class="dropdown-menu">
-            <li>
-              <a href="/"><i class="bi bi-house"></i> Home</a>
-            </li>
-            <li>
-              <a href="#domainListToolContainer"
-                ><i class="bi bi-globe"></i> Domain List Tool</a
-              >
-            </li>
-            <li>
-              <a href="#characterCounterContainer"
-                ><i class="bi bi-subscript"></i> Character Counter</a
-              >
-            </li>
-            <li>
-              <a href="https://github.com/HiImMork/block-list"
-                ><i class="bi bi-github"></i> GitHub Repo</a
-              >
-            </li>
-            <hr />
-            <li>
-              <a href="./old-tool/src/index.html"
-                ><i class="bi bi-archive"></i> Old Page</a
-              >
-            </li>
-          </ul>
-        </nav>
-      </aside>
-      <!-- Left Side Bar -->
-      <aside class="left-sidebar">
-        <nav class="container">
-          <ul class="side-navigation">
-            <li class="navigation-link">
-              <a href="/"><i class="bi bi-house"></i> Home</a>
-            </li>
-            <li class="navigation-link">
-              <a href="#domainListToolContainer"
-                ><i class="bi bi-globe"></i> Domain List Tool</a
-              >
-            </li>
-            <li class="navigation-link">
-              <a href="#characterCounterContainer"
-                ><i class="bi bi-subscript"></i> Character Counter</a
-              >
-            </li>
-            <li class="navigation-link">
-              <a href="https://github.com/HiImMork/block-list">
-                <i class="bi bi-github"></i> GitHub Repo
-              </a>
-            </li>
-            <hr />
-            <li class="navigation-link">
-              <a href="./old-tool/src/index.html"
-                ><i class="bi bi-archive"></i> Old Page</a
-              >
-            </li>
-          </ul>
-        </nav>
-      </aside>
-      <!-- Main Content -->
-      <main class="main-content">
-        <div class="container">
-          <section id="domainListToolContainer">
-            <!-- Section Header -->
-            <h2><i class="bi bi-globe"></i> Domain Stuff</h2>
-            <!-- Section Content -->
-            <div class="input-group full-width-label">
-              <label for="domainListInput">Enter domain list:</label>
-              <textarea
-                name=""
-                id="domainListInput"
-                placeholder="Enter domain/s here..."
-              ></textarea>
-            </div>
-            <div class="input-controls">
-              <button type="button" id="sortDomainList" class="btn-primary">
-                <i class="bi bi-sort-alpha-down"></i>
-                <span> Sort domains</span>
-              </button>
-              <button type="button" id="cleanDomainList" class="btn-primary">
-                <i class="bi bi-stars"></i>
-                <span> Clean duplicates/empty lines</span>
-              </button>
-              <button type="button" id="addFilters" class="btn-secondary">
-                <i class="bi bi-plus"></i>
-                <span> Add strings for filters</span>
-              </button>
-              <button type="button" id="removeFilters" class="btn-secondary">
-                <i class="bi bi-dash"></i>
-                <span> Remove strings for filters</span>
-              </button>
-              <button type="button" id="copyDomains" class="btn-primary">
-                <i class="bi bi-copy"></i>
-                <span> Copy all domains</span>
-              </button>
-              <button type="button" id="clearDomainList" class="btn-danger">
-                <i class="bi bi-trash"></i>
-                <span> Clear domain list</span>
-              </button>
-            </div>
-          </section>
-          <hr />
-          <section id="characterCounterContainer">
-            <!-- Section Header -->
-            <h2><i class="bi bi-subscript"></i> Character Counter</h2>
-            <!-- Section Body -->
-            <div class="input-group">
-              <label for="charCounterInput">Enter string: </label
-              ><input
-                type="text"
-                id="charCounterInput"
-                placeholder="Enter text here..."
-              />
-            </div>
-            <div class="input-controls">
-              <span id="charCounterConsole"></span>
-              <button type="button" id="clearString" class="btn-danger">
-                <i class="bi bi-trash"></i> Clear input
-              </button>
-            </div>
-          </section>
-        </div>
-      </main>
-      <!-- Footer -->
-      <footer class="page-footer">
-        <div class="row container">
-          <!-- Site Map -->
-          <div class="col">
-            <h3>Site Map</h3>
-            <a href="/">Home</a>
-            <a href="#domainListToolContainer">Domain List Tool</a>
-            <a href="#characterCounterContainer">Character Counter</a>
-            <a href="https://github.com/HiImMork/block-list">GitHub Repo</a>
-            <a href="./old-tool/src/index.html">Old Page</a>
-          </div>
-          <!-- Contact -->
-          <div class="col">
-            <h3>Contact</h3>
-            <a href="https://github.com/HiImMork"
-              ><i class="bi bi-github"></i> GitHub</a
-            >
-            <a href="https://www.facebook.com/HiImMork">
-              <i class="bi bi-facebook"></i> Facebook
-            </a>
-            <a href="https://www.youtube.com/@HiImMark">
-              <i class="bi bi-youtube"></i> YouTube
-            </a>
-          </div>
-          <img
-            src="./new-tool/src/assets/img/wuwa/v2/F_Rover_29_01.webp"
-            alt="Footer Logo"
-          />
-          <span id="legalNotice"
-            >Copyright © 2025 MORK. All rights reserved.</span
-          >
-        </div>
-      </footer>
-    </div>
 
-    <!-- Script for char counter -->
-    <script src="/new-tool/src/lib/scripts/charCounter.js"></script>
-    <!-- Script for domain list -->
-    <script src="/new-tool/src/lib/scripts/domainList.js"></script>
-    <!-- Script ofr Dropdown -->
-     <script src="/new-tool/src/lib/scripts/navbarDropdown.js"></script>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./new-tool/src/assets/css/style.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
+  <link rel="shortcut icon" href="./new-tool/src/assets/img/wuwa/v2/F_Rover_29_01.webp" type="image/x-icon" />
+  <title>MORK's Blocklist Tools</title>
+</head>
+
+<body>
+  <!-- Page Wrapper -->
+  <div id="wrapper">
+    <!-- Page Header -->
+    <header class="page-header">
+      <!-- Header Branding -->
+      <a href="/" class="branding row">
+        <img src="./new-tool/src/assets/img/wuwa/v2/F_Rover_29_01.webp" alt="Website Logo" />
+        <h1>MORK's Blocklist Tools</h1>
+      </a>
+    </header>
+    <!-- Navbar -->
+    <aside class="navbar">
+      <nav class="dropdown">
+        <button class="dropdown-toggle">
+          <i class="bi bi-list"></i>
+        </button>
+        <ul class="dropdown-menu">
+          <li>
+            <a href="/"><i class="bi bi-house"></i> Home</a>
+          </li>
+          <li>
+            <a href="#domainListToolContainer"><i class="bi bi-globe"></i> Domain List Tool</a>
+          </li>
+          <li>
+            <a href="#characterCounterContainer"><i class="bi bi-subscript"></i> Character Counter</a>
+          </li>
+          <li>
+            <a href="https://github.com/HiImMork/block-list"><i class="bi bi-github"></i> GitHub Repo</a>
+          </li>
+          <hr />
+        </ul>
+      </nav>
+    </aside>
+    <!-- Left Side Bar -->
+    <aside class="left-sidebar">
+      <nav class="container">
+        <ul class="side-navigation">
+          <li class="navigation-link">
+            <a href="/"><i class="bi bi-house"></i> Home</a>
+          </li>
+          <li class="navigation-link">
+            <a href="#domainListToolContainer"><i class="bi bi-globe"></i> Domain List Tool</a>
+          </li>
+          <li class="navigation-link">
+            <a href="#characterCounterContainer"><i class="bi bi-subscript"></i> Character Counter</a>
+          </li>
+          <li class="navigation-link">
+            <a href="https://github.com/HiImMork/block-list">
+              <i class="bi bi-github"></i> GitHub Repo
+            </a>
+          </li>
+          <hr />
+          <li class="navigation-link">
+            <a href="./old-tool/src/index.html"><i class="bi bi-archive"></i> Old Page</a>
+          </li>
+        </ul>
+      </nav>
+    </aside>
+    <!-- Main Content -->
+    <main class="main-content">
+      <div class="container">
+        <section id="domainListToolContainer">
+          <!-- Section Header -->
+          <h2><i class="bi bi-globe"></i> Domain Stuff</h2>
+          <!-- Section Content -->
+          <div class="input-group full-width-label">
+            <label for="domainListInput">Enter domain list:</label>
+            <textarea name="" id="domainListInput" placeholder="Enter domain/s here..."></textarea>
+          </div>
+          <div class="input-controls">
+            <button type="button" id="sortDomainList" class="btn-primary">
+              <i class="bi bi-sort-alpha-down"></i>
+              <span> Sort domains</span>
+            </button>
+            <button type="button" id="cleanDomainList" class="btn-primary">
+              <i class="bi bi-stars"></i>
+              <span> Clean duplicates/empty lines</span>
+            </button>
+            <button type="button" id="addFilters" class="btn-secondary">
+              <i class="bi bi-plus"></i>
+              <span> Add strings for filters</span>
+            </button>
+            <button type="button" id="removeFilters" class="btn-secondary">
+              <i class="bi bi-dash"></i>
+              <span> Remove strings for filters</span>
+            </button>
+            <button type="button" id="copyDomains" class="btn-primary">
+              <i class="bi bi-copy"></i>
+              <span> Copy all domains</span>
+            </button>
+            <button type="button" id="clearDomainList" class="btn-danger">
+              <i class="bi bi-trash"></i>
+              <span> Clear domain list</span>
+            </button>
+          </div>
+        </section>
+        <hr />
+        <section id="characterCounterContainer">
+          <!-- Section Header -->
+          <h2><i class="bi bi-subscript"></i> Character Counter</h2>
+          <!-- Section Body -->
+          <div class="input-group">
+            <label for="charCounterInput">Enter string: </label><input type="text" id="charCounterInput"
+              placeholder="Enter text here..." />
+          </div>
+          <div class="input-controls">
+            <span id="charCounterConsole"></span>
+            <button type="button" id="clearString" class="btn-danger">
+              <i class="bi bi-trash"></i> Clear input
+            </button>
+          </div>
+        </section>
+      </div>
+    </main>
+    <!-- Footer -->
+    <footer class="page-footer">
+      <div class="row container">
+        <!-- Site Map -->
+        <div class="col">
+          <h3>Site Map</h3>
+          <a href="/">Home</a>
+          <a href="#domainListToolContainer">Domain List Tool</a>
+          <a href="#characterCounterContainer">Character Counter</a>
+          <a href="https://github.com/HiImMork/block-list">GitHub Repo</a>
+        </div>
+        <!-- Contact -->
+        <div class="col">
+          <h3>Contact</h3>
+          <a href="https://github.com/HiImMork"><i class="bi bi-github"></i> GitHub</a>
+          <a href="https://www.facebook.com/HiImMork">
+            <i class="bi bi-facebook"></i> Facebook
+          </a>
+          <a href="https://www.youtube.com/@HiImMark">
+            <i class="bi bi-youtube"></i> YouTube
+          </a>
+        </div>
+        <img src="./new-tool/src/assets/img/wuwa/v2/F_Rover_29_01.webp" alt="Footer Logo" />
+        <span id="legalNotice">Copyright © 2025 MORK. All rights reserved.</span>
+      </div>
+    </footer>
+  </div>
+
+  <!-- Script for char counter -->
+  <script src="/new-tool/src/lib/scripts/charCounter.js"></script>
+  <!-- Script for domain list -->
+  <script src="/new-tool/src/lib/scripts/domainList.js"></script>
+  <!-- Script ofr Dropdown -->
+  <script src="/new-tool/src/lib/scripts/navbarDropdown.js"></script>
+</body>
+
 </html>
