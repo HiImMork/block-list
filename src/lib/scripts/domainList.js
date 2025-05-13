@@ -72,6 +72,19 @@ function clearDomainList() {
   domainListInput.value = "";
 }
 
+// Function that loads the content of the rawlist.txt to the domain list
+function loadRawList() {
+  fetch("./src/lib/rawlist.txt")
+    .then((response) => response.text())
+    .then((data) => {
+      domainListInput.value = data;
+    })
+    .catch((error) => console.error("Error loading raw list:", error));
+}
+
+// Calls the loadRawList function on document load
+document.addEventListener("DOMContentLoaded", loadRawList);
+
 /* The lines below gets the elements based on their ID and adds a click event listener to each element along 
   with their respective functions */
 document
