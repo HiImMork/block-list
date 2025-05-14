@@ -333,12 +333,15 @@ section .input-controls {
     left: 0.5em;
     transition: transform var(--anim-dur-default) ease-in-out;
     pointer-events: none;
+    z-index: 1;
 }
 
 #characterCounterContainer .input-group input {
-    transition: transform 200ms ease-in-out;
+    background: var(--background-900);
     will-change: transform;
     transform: translateX(0);
+    transition: transform 200ms ease-in-out, flex 200ms ease-in-out;
+    z-index: 2;
 }
 
 #characterCounterContainer .input-group input:focus,
