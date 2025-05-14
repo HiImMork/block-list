@@ -1,103 +1,105 @@
 const domainListInput = document.getElementById("domainListInput");
+const elementOutputText = document.getElementById("lineCounter");
 
-// Function to parse the entire textarea and split each lines
+// Core text processing functions
 function getDomainListLines() {
   return domainListInput.value.split("\n");
 }
 
-// Function to sort the textarea
+function updateDomainList(lines) {
+  domainListInput.value = lines.join("\n");
+}
+
+// List manipulation functions
 function sortDomainList() {
   const lines = getDomainListLines();
-  const sortedLines = lines.filter((line) => line.trim() !== "").sort();
-  domainListInput.value = sortedLines.join("\n");
+  const sortedLines = lines.filter(line => line.trim() !== "").sort();
+  updateDomainList(sortedLines);
 }
 
-// Function to remove duplicates and empty lines.
 function cleanDomainList() {
   const lines = getDomainListLines();
-  const cleanedLines = [...new Set(lines.filter((line) => line.trim() !== ""))];
-  domainListInput.value = cleanedLines.join("\n");
+  const cleanedLines = [...new Set(lines.filter(line => line.trim() !== ""))];
+  updateDomainList(cleanedLines);
 }
 
-/* Function to add "||" at the beginning of the line assuming that the line begins in an alpha-numeric character 
-  and does not contain the specific substring ",to=~". This function also adds "$all" at the end of the line and 
-  if the line contains the substring ",to=~" it puts "$all" before the specified substring */
 function addFilters() {
   const lines = getDomainListLines();
-  const filteredLines = lines.map((line) => {
-    if (
-      line.startsWith("||") ||
-      line.startsWith("#") ||
-      line.trim() === "" ||
-      /^[^a-zA-Z0-9]/.test(line.trim())
-    ) {
-      return line.trim().endsWith("$all") ? line : `${line}$all`;
-    } else if (line.includes(",to=~")) {
-      const [before, after] = line.split(",to=~");
-      return before.includes("$all")
-        ? `||${line}`
-        : `||${before}$all,to=~${after}`;
-    } else {
-      return `||${line}$all`;
+  const filteredLines = lines.map(line => {
+    const trimmedLine = line.trim();
+    
+    if (trimmedLine === "") return line;
+    
+    if (trimmedLine.startsWith("||") || 
+        trimmedLine.startsWith("#") || 
+        /^[^a-zA-Z0-9]/.test(trimmedLine)) {
+      return trimmedLine.endsWith("$all") ? trimmedLine : `${trimmedLine}$all`;
     }
+    
+    if (trimmedLine.includes(",to=~")) {
+      const [before, after] = trimmedLine.split(",to=~");
+      return before.includes("$all") ? 
+        `||${trimmedLine}` : 
+        `||${before}$all,to=~${after}`;
+    }
+    
+    return `||${trimmedLine}$all`;
   });
-  domainListInput.value = filteredLines.join("\n");
+  
+  updateDomainList(filteredLines);
 }
 
-// Removes the strings added from addFilters() if any.
 function removeFilters() {
   const lines = getDomainListLines();
-  const undoneLines = lines.map((line) => {
-    if (line.startsWith("||")) {
-      line = line.slice(2);
-    }
-    if (line.endsWith("$all")) {
-      line = line.slice(0, -4);
-    }
-    if (line.includes("$all,to=~")) {
-      line = line.replace("$all,to=~", ",to=~");
-    }
-    return line;
+  const cleanedLines = lines.map(line => {
+    let result = line;
+    result = result.startsWith("||") ? result.slice(2) : result;
+    result = result.endsWith("$all") ? result.slice(0, -4) : result;
+    result = result.replace("$all,to=~", ",to=~");
+    return result;
   });
-  domainListInput.value = undoneLines.join("\n");
+  
+  updateDomainList(cleanedLines);
 }
 
-// Function that copies the entire list of domain into the user's clipboard.
+// Utility functions
 function copyDomains() {
-  navigator.clipboard.writeText(domainListInput.value).then(() => {});
+  navigator.clipboard.writeText(domainListInput.value);
 }
 
-// Clears the domain list
 function clearDomainList() {
-  domainListInput.value = "";
+  updateDomainList([]);
 }
 
-// Function that loads the content of the rawlist.txt to the domain list
-function loadRawList() {
-  fetch("./src/lib/rawlist.txt")
-    .then((response) => response.text())
-    .then((data) => {
-      domainListInput.value = data;
-    })
-    .catch((error) => console.error("Error loading raw list:", error));
+function countDomainList() {
+  const count = getDomainListLines().filter(line => line.trim() !== "").length;
+  elementOutputText.textContent = `Lines: ${count}`;
 }
 
-// Calls the loadRawList function on document load
+async function loadRawList() {
+  try {
+    const response = await fetch("./src/lib/rawlist.txt");
+    const data = await response.text();
+    updateDomainList(data.split("\n"));
+    countDomainList();
+  } catch (error) {
+    console.error("Error loading raw list:", error);
+  }
+}
+
+// Event listeners
+const eventListeners = {
+  "sortDomainList": sortDomainList,
+  "cleanDomainList": cleanDomainList,
+  "addFilters": addFilters,
+  "removeFilters": removeFilters,
+  "copyDomains": copyDomains,
+  "clearDomainList": clearDomainList
+};
+
+Object.entries(eventListeners).forEach(([id, handler]) => {
+  document.getElementById(id).addEventListener("click", handler);
+});
+
+domainListInput.addEventListener("input", countDomainList);
 document.addEventListener("DOMContentLoaded", loadRawList);
-
-/* The lines below gets the elements based on their ID and adds a click event listener to each element along 
-  with their respective functions */
-document
-  .getElementById("sortDomainList")
-  .addEventListener("click", sortDomainList);
-document
-  .getElementById("cleanDomainList")
-  .addEventListener("click", cleanDomainList);
-document.getElementById("addFilters").addEventListener("click", addFilters);
-document
-  .getElementById("removeFilters")
-  .addEventListener("click", removeFilters);
-document.getElementById("copyDomains").addEventListener("click", copyDomains);
-document
-  .getElementById("clearDomainList")
-  .addEventListener("click", clearDomainList);

@@ -1,6 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,400;8..144,500;8..144,600&display=swap');
 
 :root {
+    /* Typography */
+    --font-primary: 'Roboto Flex', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, sans-serif;
+    --font-size-sm: 0.875rem;
+    --font-size-base: 1rem;
+    --font-size-lg: 1.25rem;
+    --font-size-xl: 1.5rem;
     /** Color Palette **/
     --text-main: #f1f1f1;
     --text-sub: #888;
@@ -73,7 +79,7 @@
 body {
     background-color: var(--background-950);
     color: var(--text-main);
-    font-family: 'Roboto FLex', sans-serif;
+    font-family: var(--font-primary);
 }
 
 .container {
@@ -149,7 +155,7 @@ button,
 /* Dropdown Styles */
 .dropdown {
     width: 100%;
-    display: inline-block;
+    display: relative;
     padding: 0.5em;
     text-align: center;
 }
@@ -168,11 +174,10 @@ button,
     list-style: none;
     display: none;
     background-color: var(--background-800);
-    width: 95vw;
+    width: 100%;
     height: 0;
     margin: initial auto;
     padding: 2em;
-    transform: translateY(0);
     transition: 200ms linear;
 }
 
@@ -180,9 +185,10 @@ button,
     position: absolute;
     height: fit-content;
     display: flex;
+    left: -0.25em;
     flex-flow: column nowrap;
-    gap: 2.25em;
-    transform: translateY(1em);
+    gap: 1.75em;
+    transform: translateY(0.5em);
 }
 
 /* Page Wrapper */
@@ -296,6 +302,8 @@ section.input-group input:active,
 section .input-group textarea:focus,
 section.input-group textarea:active {
     color: var(--primary-400);
+    outline: 2px solid var(--primary-400);
+    outline-offset: 2px;
 }
 
 section .input-group input::placeholder,
@@ -328,7 +336,9 @@ section .input-controls {
 }
 
 #characterCounterContainer .input-group input {
-    transition: 200ms ease-in-out;
+    transition: transform 200ms ease-in-out;
+    will-change: transform;
+    transform: translateX(0);
 }
 
 #characterCounterContainer .input-group input:focus,
@@ -340,6 +350,10 @@ section .input-controls {
 #domainListInput {
     min-height: 50vh;
     resize: vertical;
+}
+
+#lineCounter {
+    grid-column: 1/-1;
 }
 
 /* Footer */
@@ -383,8 +397,33 @@ footer #legalNotice {
     font-size: 0.8rem;
 }
 
-@media screen and (orientation: portrait),
-(max-width: 480px) {
+/* Tablet Layout */
+@media screen and (max-width: 1024px) {
+    #wrapper {
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "header"
+            "aside"
+            "main"
+            "footer";
+    }
+
+    .container {
+        width: 90%;
+    }
+
+    footer .container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    footer img {
+        grid-column: 1/-1;
+        margin: 2em 0;
+    }
+}
+
+/* Mobile Layout */
+@media screen and (max-width: 480px) {
     #wrapper {
         display: flex;
         flex-flow: column;
