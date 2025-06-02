@@ -2582,6 +2582,7 @@ nubanki.com
 null.null
 numerodivusita*.click
 nutaku.$all
+nutentertainintermidiate.com
 nutritionnut.org
 nvfmdtj.cn
 nyilib.com
@@ -2815,6 +2816,7 @@ privacy-mgmt.com
 privacybreach.s3.us-west-1.amazonaws.com
 privacymanager.io
 privy.io
+procamps.pro
 producthunt.com
 profitablecpm.com
 profitablecpmrate.com
@@ -3019,7 +3021,6 @@ rsms.me
 rsneao.co
 rstp-*.weeblysite.com
 rtd-1060rt03.weeblysite.com
-rtings.com
 rtp1nwin.site
 rudderstack.com
 ruideoklauswestphal.*.getmyip.com

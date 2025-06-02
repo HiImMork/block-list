@@ -2590,6 +2590,7 @@
 ||null.null$all
 ||numerodivusita*.click$all
 ||nutaku.$all$all
+||nutentertainintermidiate.com$all
 ||nutritionnut.org$all
 ||nvfmdtj.cn$all
 ||nyilib.com$all
@@ -2823,6 +2824,7 @@
 ||privacybreach.s3.us-west-1.amazonaws.com$all
 ||privacymanager.io$all
 ||privy.io$all
+||procamps.pro$all
 ||producthunt.com$all
 ||profitablecpm.com$all
 ||profitablecpmrate.com$all
@@ -3027,7 +3029,6 @@
 ||rsneao.co$all
 ||rstp-*.weeblysite.com$all
 ||rtd-1060rt03.weeblysite.com$all
-||rtings.com$all
 ||rtp1nwin.site$all
 ||rudderstack.com$all
 ||ruideoklauswestphal.*.getmyip.com$all
