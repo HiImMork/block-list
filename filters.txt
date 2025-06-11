@@ -35,17 +35,26 @@
 .urban*outfitters.shop$all
 .vip$all
 .zgpartners.com.au$all
+<<<<<<< HEAD:filters.txt
 /(:?.*|)coinbase(:?.*|)\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /(:?assets|interests)-0x0exchange\.(:?net|xyz|com)/$all
 /(:?impost|imp0st)\.\d+\.xyz/$all
 /(:?n2seguranca|n2seguro).*\.(:?bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz|pl|click)/$all
 /(:?samsung|jbl)store-(:?id|ph)\.(:?online|shop)/$all
 /(:?support-xphantom--wallet|(:?phantom|phuntiom)-wallet|phantom-cdn-wallet-help).*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
+=======
+/(:?.*|)coinbase(:?.*|)\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/(:?impost|imp0st)\.\d+\.xyz/$all
+/(:?n2seguranca|n2seguro).*\.(:?bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz|pl|click)/$all
+/(:?samsung|jbl)store-(:?id|ph)\.(:?online|shop)/$all
+/(:?support-xphantom--wallet|(:?phantom|phuntiom)-wallet|phantom-cdn-wallet-help).*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 /(?:01x|0llx|ohx|oix|ojxx|okx|olk|olk-pl|ollx|olx|olz|-1x|0lz|0-lx|oi-x).*\.(:?bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz|pl|click)/$all
 /(?:allegrilokalnie|allegro|allegrolokalne|allegrolokalnie|al1eqro|allegrolokalnie\.pl-*.)(?:\.|).*\.(:?bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz|pl|click)/$all
 /(?:jaya|joya)9\.[a-z]{2,8}/$all
 /(trazeor|tredzor|treizior|trezior|trejair|trezjrio|trezor|trezzor|trrzour|trzr|trzor|trzeur|treiozer|trezerqor).*\.(:?bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz)/$all
 /(www\.)aaajili\d{1,3}\.com/$all
+<<<<<<< HEAD:filters.txt
 /.*-shopee\.[a-z]{2,8}/$all
 /0001home\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /0ptusnetwebmail\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
@@ -58,16 +67,37 @@
 /4rabet*.\.[a-z]{2,8}/$all
 /80ios89ya1h00ios82inc83irs872ruy8ca\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /8trtx\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
+=======
+/.*-shopee\.[a-z]{1,8}/$all
+/0001home\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/0ptusnetwebmail\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/122cbe75cd06\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/20\d{2}k\.com/$all
+/237aviso-biafonifacil\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/2iuosdg\.[a-z]{1,8}/$all
+/3j5kb46jkbkj553kjb6kj45b4j87b98kj9\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/4rabet*.\.[a-z]{1,8}/$all
+/80ios89ya1h00ios82inc83irs872ruy8ca\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/8trtx\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 /[a-z]+\.xyz\/wallet(s.html|.html)/$all
 /[a-z]+japanpost[a-z]+\.xin/$all
 /[a-z]{1,2}-coinbase\.com/$all
 /[a-z]{1,5}-mysub\.com/$all
 /[a-z]{1,6}distribuidora\.(site|store)/$all
 /[a-z]{13}\.xyz\/pulglink/$all
+<<<<<<< HEAD:filters.txt
 /\.start-io-trezor\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /\d+-coinbase\.com/$all
 /\d+-inchairdop\.[a-z]{2,8}/$all
 /\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
+=======
+/\.start-io-trezor\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/\d+-apple\.[a-z]{1,8}/$all
+/\d+-coinbase\.com/$all
+/\d+-inchairdop\.[a-z]{1,8}/$all
+/\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 /\d+\.fgk\.my\.id/$all
 /\d+\.onamaeweb\.jp/$all
 /\d+\.top/$all
@@ -75,14 +105,30 @@
 /\d+club\d+\.club/$all
 /\d+nwinvip\d+\.[a-z]{2,8}/$all
 /\d{1,9}\.xyz/$all
+<<<<<<< HEAD:filters.txt
 /\w{16,}\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /\w{8,}-\w{8,}\.gitbook.io/$all
 /\w{8,}-\w{8,}\.teemill\.com/$all
 /\w{8,}-\w{8,}\.weebly\.com/$all
 /aatumiccwalleti\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /accessible-fact-091660\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
+=======
+/\w+-apple\.[a-z]{1,8}/$all
+/\w+\.intrwegrael\.[a-z]{1,8}/$all
+/\w+\.run-eu-central1\.goorm\.app/$all
+/\w{16,}\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/\w{8,}-\w{8,}\.gitbook.io/$all
+/\w{8,}-\w{8,}\.teemill\.com/$all
+/\w{8,}-\w{8,}\.weebly\.com/$all
+/aatumiccwalleti\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/accessible-fact-091660\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 /acordovalido\d{1,4}\.com\.br/$all
+/activitycheck-info-neednow\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/activityfeedback-infocheck-now\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/activityissue-feedback\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
 /admin-support-\w+\.webflow\.io/$all
+<<<<<<< HEAD:filters.txt
 /agemeewalat\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /aliegro\d+\.one/$all
 /allegrolokalnie\..*\.(:?bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz|pl|click)/$all
@@ -144,8 +190,81 @@
 /banprogrupopromericas-\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /bantuantunai\d+\.\w+\.cc/$all
 /bbam\.[a-z]{2,8}/$all
+=======
+/advert-appeal-policy-issue\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/agemeewalat\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/aictec-access-request-portal\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/aliegro\d+\.one/$all
+/allegrolokalnie\..*\.(:?bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz|pl|click)/$all
+/allegrolokalnie\.propozycje-\d+\..*\.(:?bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz|pl|click)/$all
+/ambilkuponanda\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/amigavainprincipal\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/aml-check\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/amtoicwallet\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/aniwave\.[a-z]{1,8}/$all
+/aphold-i-login\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/app-atomic-wallet\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/app-bugsolution\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/app-web3-telegram\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/app-wlltrust\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/appeal-issuenow-feedback\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/appeladvert-feedbacknow\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/apply-blue-official-badge-service-ten\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/aptrus\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/ar\d+\.com/$all
+/areshawmsioeendmd0-\d+\.weeblysite\.com/$all
+/arubba-webmail\.it-user\d+\.[a-z]{2,8}/$all
+/asaerfadertgsrtgsdrtgsfrtyherfg\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/aseiintl.comabout--coinbase--uath\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/asesorias-alamano\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/assistissuerequiedforupdagenow\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/at-t-mail-d77caa\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/atendimentoaocliente.*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/atomic-wallxs\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/atomicwalllett\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/atooomiccwalett\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/atoriomkioswallet\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/atrezorsigniin\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/atrezorsignin\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/att-*-*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/att-9012-login-638-41\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/att-\d+\.weeblysite\.com/$all
+/att-currently-11-13-24\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/att-currtently-11-15-2024\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/att-yahoo-mail-upgrade\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/att.*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/attcom-*-*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/attcom-100746\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/attcom-104356\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/attcomunicationsupport\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/attcurrently-\d{1,2}-\d{1,2}-\d{1,4}\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/attcurrently\d{2}-\d{2}-\d{2,4}\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/attcurrlive\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/attdrgddgdgdcsf\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/atthggfsfsffssfd\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/attihfhv\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/attmail-ant\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/attmail-f87b0b\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/attmail\w+\.weebly\.com/$all
+/attomicwalletts\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/attomicwalletuo\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/attserviceandupdate\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/attservicessystem\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/attupdateinfo\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/auroraesi\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/auspost\.com-.*\.[a-z]{2,8}/$all
+/auth-startz-trizor\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/ba1kofcyprus\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/ban1k-cyprus\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/banprogrupopromericas-\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/bantuantunai\d+\.\w+\.cc/$all
+/bbam\.[a-z]{1,8}/$all
+/bestwalletoken\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 /betasusl\d+\.com/$all
+/bhcglobal-\w+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
 /bigjpg\.(com|ai|app)/$all
+<<<<<<< HEAD:filters.txt
 /blockchain-rectifier\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /bomberclupgrade\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /branddefense(hub|pro)\.com/$all
@@ -161,10 +280,31 @@
 /casio-[a-z]{1,5}official\.com/$all
 /chainmodule$all
 /checkfilewin\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
+=======
+/blockchain-rectifier\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/boclogin\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/bomberclupgrade\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/branddefense(hub|pro)\.com/$all
+/bt-\d+\.weeblysite\.com/$all
+/btbroadband00023\./$all
+/btbroadbandcom\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/btc-\d+\.weeblysite\.com/$all
+/btcm-108588\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/bthome-\d+\.weeblysite\.com/$all
+/btinternet-\+d\.weeblysite\.com/$all
+/c-coinbase-pro-login-sso\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/case-id-\d+\.counselchambers.co.uk/$all
+/casio-[a-z]{1,5}official\.com/$all
+/chain-protocol\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/chainrectification-dapp\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/checkfilewin\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 /chocolate-ringer-\d+\.typedream\.app/$all
 /claim.(redstone-(flnance|finance)|worldsofdypians|spicefi|ftx)\.(com|org|live|site|xyz)/$all
 /cloudflare-namada-validator\d+\.pages\.dev/$all
+/coinauthnode\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
 /coinbase-serv\..*\.cprapid.com/$all
+<<<<<<< HEAD:filters.txt
 /coinbase.*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /com-[a-z]+\.[a-z]{1-6}/$all
 /com-[a-z]{4,16}\.[a-z]{2,8}/$all
@@ -172,12 +312,23 @@
 /comhging\d+\.com/$all
 /console-ndaxs----sso\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /coupang(-\d+|\d+)\.[a-z]{2,8}/$all
+=======
+/coinbase.*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/com-[a-z]+\.[a-z]{1,8}/$all
+/com-[a-z]{4,16}\.[a-z]{2,8}/$all
+/comcast-email-\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/comhging\d+\.com/$all
+/connect-chain-auth\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/console-ndaxs----sso\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/coupang(-\d+|\d+)\.[a-z]{1,8}/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 /coupang\d+\.shop/$all
 /coupang\d{1,3}\.[a-z]{2,8}/$all
 /covpangmall\d+\.shop/$all
 /covpangmall\d{1,3}\.[a-z]{2,8}/$all
 /cr-bncri-fri\.[a-z]{2,8}/$all
 /currently\d+\.weebly\.com/$all
+<<<<<<< HEAD:filters.txt
 /dappsrecovery\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /delivery-evri\.[a-z]{1,10}/$all
 /disney\.[a-z]{2,8}/$all
@@ -194,13 +345,40 @@
 /e-zpassny.com-.*\.[a-z]{2,8}/$all
 /e95aq2fb\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /ee-uk-debiting\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
+=======
+/cy-etaxi\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/cyprusetax\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/cyprustaxes\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/dappsrecovery\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/defi-chaintool\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/delivery-evri\.[a-z]{1,8}/$all
+/diceempire-\w+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/disney\.[a-z]{1,8}/$all
+/distribuidora.*\.(online|com)/$all
+/djdqjdjksd6hfg9dvg\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/dk\.drive[a-z]{2,8}\.top/$all
+/dlx\.\d+\.xyz/$all
+/dmconline\.ltd-.*\.[a-z]{2,8}/$all
+/dpd-polland\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/driveezmd\.com-\w+\.[a-z]{1,8}/$all
+/dylwmterms-login-screen-\d+\.\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/e-zpass.*(?:\.[a-z]{1,5}|\.com\.[a-z]{1,12}\.[a-z]{1,5})/,to=~e-zpassiag.com$all
+/e-zpass\.com-.*\.[a-z]{2,8}/$all
+/e-zpassny.com-.*\.[a-z]{1,8}/$all
+/ee-direct-ref\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/ee-online-menu\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/ee-uk-debiting\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/ee.uk-info-bills\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 /emailverification\w+\.weebly\.com/$all
+/etaxinetcy\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
 /etc[a-z]{1,5}\.win/$all
 /etc[a-z]{3}\.(:?world|xin|top|win)/$all
 /evri\..*\.[a-z]{1,10}$all
 /evri\..*\.xin/$all
 /evri\.\w+\.[a-z]{2,8}/$all
 /evrimail\..*\.xin/$all
+<<<<<<< HEAD:filters.txt
 /expresstoll\.com(-|).*\.[a-z]{2,8}/$all
 /ez-pass[a-z]{1,16}\.[a-z]{2,8}/$all
 /ez-passny[a-z]{1,16}\.[a-z]{2,8}/$all
@@ -228,9 +406,42 @@
 /hh08-yugejhsfduyiuoeisfd7yiueshjkg\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /home-\d+\.weeblysite\.com/$all
 /hub-trezor-i0-start\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
+=======
+/expresstoll\.com(-|).*\.[a-z]{1,8}/$all
+/ez-pass[a-z]{1,16}\.[a-z]{1,8}/$all
+/ez-passny[a-z]{1,16}\.[a-z]{1,8}/$all
+/ezpass[a-z]{1,3}\.com-.*\.[a-z]{1,8}/$all
+/ezpass\.com-.*\.[a-z]{1,8}/$all
+/familiya\d+\.ru/$all
+/fastrack\.com-.*\.[a-z]{1,8}/$all
+/fastrak\.org-.*\.[a-z]{1,8}/$all
+/fedex\.com-[a-z]+\.[a-z]{1,8}/$all
+/feedbackcorner-helpcenter\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/fernandakuhn\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/filamentenergy\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/finaldeploy-\w+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/finposti\.servicecenter.*\.xin/$all
+/fnansislemlerin\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/getipass\.com-[a-z]{1,5}\.[a-z]{1,8}/$all
+/ghe5hd4245h7\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/giftgenius\.(shop|io)/$all
+/glitcheee\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/goodchangees\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/grupasgb\d+\.\d+\.com/$all
+/hardware-trezor-auth\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/hargray\d+\.weebly\.com/$all
+/hctra\.org-[a-z]{1,8}\.xin/$all
+/helpztrzer-hardware\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/hh08-yugejhsfduyiuoeisfd7yiueshjkg\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/home-\d+\.weeblysite\.com/$all
+/hub-trezor-i0-start\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/hud\.bzx\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 /inc(o|0)mestatement.de$all
+/infocheckactivity-needstatus\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
 /inp(:?0|o|O)st\.\d+\.xyz/$all
 /it-user\d+\.[a-z]{2,8}/$all
+<<<<<<< HEAD:filters.txt
 /jade-phoenix-.*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /jhgg-\d+\.(app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/$all
 /jhtrtw\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
@@ -259,6 +470,36 @@
 /my-site\-\d+\-\d+.weeblysite\.com/$all
 /myiclouds-*.\.cyou/$all
 /mynewbigpond\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
+=======
+/jaccs-\w+\.\w+\.[a-z]{1,8}/$all
+/jade-phoenix-.*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/jhgg-\d+\.(app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/$all
+/jhtrtw\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/jim4dianaa\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/kogltgtnrtgoinrelec\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/kvjkdmoiowepkao\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/learn--trzur.bridge\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/login-index-ledgerliveapp\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/lpswap-frontend\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/magaka\d+\.workers\.dev/$all
+/maganomicscoinclaim\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/mailattccount\-\d+.weeblysite\.com/$all
+/metaescusklogin\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/metamaasklognne\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/methodical-falcon-.*\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/metrmsklogin\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/mmatamasklogisn\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/mondial-.*\.com/$all
+/mulllvad\.[a-z]{1,8}/$all
+/multichain-syncs\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/multichains-validators\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/multiswiftcoinapproved\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/my-business-.*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/my-site-\d+-\d+\.weeblysite\.com/$all
+/my-site\-\d+\-\d+.weeblysite\.com/$all
+/myiclouds-*.\.cyou/$all
+/mynewbigpond\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 /nc-\d+.freshlearn\.com/$all
 /ncquickpass\.\w+\.[a-z]{1.6}/$all
 /nodux\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
@@ -267,6 +508,7 @@
 /office\d+\.webflow.io$all
 /oi-x\.\d+\..*\.(:?bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz|pl|click)/$all
 /openverification-\d+\.weeblysite\.com/$all
+<<<<<<< HEAD:filters.txt
 /optivevip\.[a-z]{1,6}/$all
 /optivevip\.[a-z]{2,8}/$all
 /optus\d+\.wixsite\.com/$all
@@ -274,6 +516,13 @@
 /otr-\d+\.webflow\.io/$all
 /pa-ezpass[a-z]{1,5}\.[a-z]{1,6}/$all
 /pa-ezpass[a-z]{1,5}\.[a-z]{2,8}/$all
+=======
+/optivevip\.[a-z]{1,8}/$all
+/optus\d+\.wixsite\.com/$all
+/org-[a-z]{1,3}.\xin/$all
+/otr-\d+\.webflow\.io/$all
+/pa-ezpass[a-z]{1,5}\.[a-z]{1,8}/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 /packages[a-z]{2}\.xin/$all
 /pancakeswap[a-z]{4}\.com/$all
 /panckaeswap\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
@@ -281,6 +530,7 @@
 /phlruby\d+\.com/$all
 /phrush\d+\.com/$all
 /plrpamelasilva\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com)/$all
+<<<<<<< HEAD:filters.txt
 /plrpamelasilva\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /policy-violation-\d+\.msurridge\.com\.uk/$all
 /power-storm-eyeliner\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
@@ -334,9 +584,68 @@
 /trexoowluugon\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /trezorio-usstart\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /trezoro-modelp-t\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
+=======
+/plrpamelasilva\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/policy-violation-\d+\.msurridge\.com\.uk/$all
+/power-storm-eyeliner\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/ppi-\d+eac\.webflow\.io/$all
+/premiosviva\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/presidonioagamenom\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/processingcreative\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/promerica-\w+\.[a-z]{1,8}/$all
+/proposals-\w+\.net/$all
+/proximusweb\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/pub-\d+\.r2\.dev/$all
+/pub-\w+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/pub-\w+\.r2\.dev/$all
+/public-trzzor-stakinng-cdn\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/redesigned-octo-googles-theta.\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/register-\d+\.[a-z]{1,8}/$all
+/resgatepremio\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/resgatevivabrasil\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/restone\.(info|cc)/$all
+/restore-m3f\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/royalmail\.servicecenter[a-z]{1,5}\.xin/$all
+/rpcnodesfx\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/safemoon-rust\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/safety-profiles.fb-ads-\d+.\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/save-trezorsuite\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/sbcglobal-net-\d+\.webflow\.io/$all
+/secure--suite--m--trezor\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/securemyvisionfcuonlineaccessihndex\d+\.weebly\.com/$all
+/service-aeno\..*\.[a-z]{1,8}/$all
+/seu-feirao\d+\.[a-z]{1,8}$all
+/sh-cp\d+\.\w+\.servername\.online/$all
+/share-eu\d{1}\.hsform\..*\.(:?bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz|pl|click)/$all
+/shaw\d{4}login.weebly.com/$all
+/shdhdhhd7\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/sky\d{1,5}\.godaddysites\.com/$all
+/srl-aruba\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/srv\d+\.(seohost|hoster-test)\.com/$all
+/sso-ca-ndax--com-help\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/staging-organicsphereq\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/start-help-treziuhardware-sso\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/start-io-trezor\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/steinbeckhouston\d+\.wixite\.com/$all
+/submit-to-fix-appeal-violation\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/sunpass\.com\..*\.[a-z]{1,8}/$all
+/support-trezzur\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/suscripcion-suspendida-.*\.com/$all
+/swed\.\d+\.[a-z]{2,8}/$all
+/swiftremoteauth\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/t\d+-cb\.com/$all
+/tan\d+\.studio\.site/$all
+/team-[a-z]{1,3}\.com/$all
+/telstrasupprort\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/tonkeeper-wallet\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/trexoowluugon\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/trezorio-usstart\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/trezoro-modelp-t\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 /ttm\d+\.zendesk.com/$all
 /u88(|live|gaming)\.[a-z]{2,8}/$all
 /update\.authy-coinbase\..*\cprapid.com/$all
+<<<<<<< HEAD:filters.txt
 /updatemytelstra\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /upgrade-.*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /us\d+pkg\.top/$all
@@ -354,6 +663,28 @@
 /weekly-\w+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /werflybuy\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /whg\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
+=======
+/updatemytelstra\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/upgrade-.*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/us\d+pkg\.top/$all
+/usecorn(?:s|)\.[a-z]{1,8}/$all
+/v7798bbjh8f65ed8\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/virtu(a|4)lb(a|4)nrural-gt\.web\.app/$all
+/vivaasorte\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/vivasorteeoficial\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/vivasortepremios\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/vloce\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/vultisig-rpcdebugdapps\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/web-mail-auth-\w+\.weebly\.com/$all
+/web3btc\d+\.top/$all
+/webkkwel\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/webmail-.*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/webmail-sign-in.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com)/$all
+/webmailoptusnetsignin43mdkwjh4g5\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/weekly-\w+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/werflybuy\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/whg\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 /wnewton\d+\.github\.io/$all
 /www-\w+-\w+\.gitbook\.io/$all
 /www-\w+-\w+\.teemil\.com/$all
@@ -361,6 +692,7 @@
 /www-\w+\.gitbook\.io/$all
 /www-\w+\.teemil\.com/$all
 /www-\w+\.weebly\.com/$all
+<<<<<<< HEAD:filters.txt
 /xn--ftp02-2m8t187b1ui20kgheo04b\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /xrp-coin\.[a-z]{2,8}/$all
 /xz\d+\.top/$all
@@ -368,6 +700,15 @@
 /yrfy\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /zimibra\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
 /zinebboukhzioua\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
+=======
+/xn--ftp02-2m8t187b1ui20kgheo04b\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/xrp-coin\.[a-z]{1,8}/$all
+/xz\d+\.top/$all
+/youthful-one-\d+\.framer\.app/$all
+/yrfy\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/zimibra\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+/zinebboukhzioua\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 ||0.0.0.10$all
 ||00003.godaddysites.com$all
 ||01qunapk15.shop$all
@@ -377,6 +718,7 @@
 ||123dongnsh.top$all
 ||123moviescom.net$all
 ||123moviesonline.pro$all
+||123xiutu.com$all
 ||1248593.com$all
 ||127.net$all
 ||1337x.tw$all
@@ -509,6 +851,7 @@
 ||admin-opensea.us$all
 ||adminbtmail.weebly.com$all
 ||adminpaginas.com$all
+||adobe.com$all
 ||adobedtm.com$all
 ||ads-microsofl.com$all
 ||adsninja.ca$all
@@ -518,6 +861,7 @@
 ||afpsdqxix.cn$all
 ||afqwugflx.cn$all
 ||ag-strato.dnssc-cloud.eu$all
+||ag-swap.net$all
 ||agame.com$all
 ||agar-pro.club$all
 ||agar.lol$all
@@ -572,6 +916,7 @@
 ||alpha-betlottery.com$all
 ||alphabet747.live$all
 ||alpineautocharges.info$all
+||alumni.qau.edu.pk$all
 ||am-I.info$all
 ||am-validation.info$all
 ||amazon-adsystem.com$all
@@ -650,6 +995,7 @@
 ||app-decentraland.org$all
 ||app-oonyx.org$all
 ||app-sys-*-web3-*.$all
+||app-trustpads.com$all
 ||app-web3s.com$all
 ||appaflix.site$all
 ||appbrain.com$all
@@ -666,6 +1012,7 @@
 ||appvivasorte.com.br$all
 ||aptin.na4u.ru$all
 ||aptoide.com$all
+||aqr-ai.vip$all
 ||ar192930.page.link$all
 ||ar2019042.page.link$all
 ||arameet.live$all
@@ -795,6 +1142,7 @@
 ||bet9ja.com$all
 ||betasus-girisi.com$all
 ||betso*.$all
+||betstrike.com$all
 ||bettermeter.com$all
 ||bettingtop*.ca$all
 ||bfinvestment.online$all
@@ -812,6 +1160,7 @@
 ||bingoblitz.com$all
 ||bisecurities.com$all
 ||bit.ly$all
+||bitcoinccre.com$all
 ||bitcoins-pepe.xyz$all
 ||bitfinex--au.com$all
 ||bitflyer-asia.com$all
@@ -858,13 +1207,17 @@
 ||bm.*.sa.com$all
 ||bmc.lat$all
 ||bnbchain.org$all
+||bncofimaster.com$all
+||bnurbeakb.com$all
 ||bnvbf.top$all
+||bnybibtf.xyz$all
 ||bodymindfuse.com$all
 ||bola*.$all
 ||bole*.com$all
 ||boletin.life$all
 ||bombas.com$all
 ||bomestrump-token.pages.dev$all
+||bondex-register.quest$all
 ||bons-direct.com$all
 ||bons.com$all
 ||boostroyal.com$all
@@ -892,6 +1245,7 @@
 ||bs-movies.site.site$all
 ||bsdfe.cyou$all
 ||bshpmece.cc$all
+||bsnchi.com$all
 ||bspoke.cn$all
 ||bt-internet-voice-mail-missed-call-signin103295.square.site$all
 ||bt.daftpage.com$all
@@ -941,6 +1295,7 @@
 ||caggasad.top$all
 ||cagricolemiseajour.com$all
 ||caha-traa.top$all
+||caila-register.quest$all
 ||caixadirectaclientefull.com$all
 ||caixadirectafullnet.com$all
 ||cajasamerica.com.mx$all
@@ -987,6 +1342,7 @@
 ||cddsdf.top$all
 ||cdkeys.com$all
 ||cdsde.top$all
+||celebrarcertificado.com.br$all
 ||cemqutigq.cn$all
 ||central-oficinas.com$all
 ||ceri*.$all
@@ -1018,7 +1374,11 @@
 ||check-aml.net$all
 ||check-verify-secure.com$all
 ||checking-registration-ntfx.info$all
+<<<<<<< HEAD:filters.txt
 ||checkmark-opportunity-badge.\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
+=======
+||checkmark-opportunity-badge.\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 ||checkout-seguro-online.com$all
 ||cheerlessrelationswearisome.com$all
 ||chennaicreativesolutions.com$all
@@ -1065,6 +1425,7 @@
 ||clubgrowth.shop$all
 ||cnet.com$all
 ||cnfope.top$all
+||cnjuwks.com$all
 ||cnlgaming.com$all
 ||cns.bf$all
 ||cntv.cn$all
@@ -1123,7 +1484,11 @@
 ||console-*.arinc-instrument.com$all
 ||conta.resgate.ru$all
 ||contaazul.design$all
+<<<<<<< HEAD:filters.txt
 ||contaboserver.net$all
+=======
+||contaazuldev.com$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 ||contestacaobradesco.com$all
 ||contrataciones-totalplay.online$all
 ||convertallfiles.com$all
@@ -1233,6 +1598,7 @@
 ||currentlysweb.weebly.com$all
 ||currentlyu73367.weebly.com$all
 ||curtismooney*.wixsite.com$all
+||customer-support-coinbase.com$all
 ||customers-mufg.com$all
 ||customwedd.shop$all
 ||cutt.ly$all
@@ -1315,6 +1681,7 @@
 ||disheartensuitebadly.com*$all
 ||dismissportraypioneer.com$all
 ||disneyplus.com$all
+||dispositivoatualizar.pro$all
 ||disqus.com$all
 ||distributedresourcestorage.com$all
 ||districonfort.com$all
@@ -1387,6 +1754,7 @@
 ||eamosg5.wixsite.com$all
 ||easeus.com$all
 ||easyskins.com$all
+||eau-veolia.com$all
 ||eba-kappa.vercel.app$all
 ||ebe-pi.vercel.app$all
 ||ecaie.com.br$all
@@ -1500,13 +1868,14 @@
 ||exswappingnews.clients.site$all
 ||extremevpn.com$all
 ||extrust-walt.gitbook.io$all
-||ez-pass[a-z]{1,16}\.[a-z]{1,6}/$all
-||ez-passny[a-z]{1,16}\.[a-z]{1,6}/$all
+||ez-pass[a-z]{1,16}\.[a-z]{1,8}/$all
+||ez-passny[a-z]{1,16}\.[a-z]{1,8}/$all
 ||f31c.short.gy$all
 ||f4n.d25.myftpupload.com$all
 ||fa-favabook.click$all
 ||factor75.com$all
 ||failed-parcel-reschedule.com$all
+||fairacregroup.co.uk$all
 ||fairbett.com$all
 ||fairinfotech.com$all
 ||fairypool.site$all
@@ -1571,6 +1940,7 @@
 ||flixmate.site$all
 ||flixpoint.site$all
 ||floressanmiguel.com.co$all
+||floutlobrom.webcindario.com$all
 ||flow.page$all
 ||flowster.mx$all
 ||flrtrustline.com$all
@@ -1720,6 +2090,7 @@
 ||globalrews.top$all
 ||globalsign.com$all
 ||globe-christmas.$all
+||globe-phn2.com$all
 ||globe-points-*.pro$all
 ||globe.gdn$all
 ||globesimregistrations.org$all
@@ -1780,9 +2151,13 @@
 ||gvcse.online$all
 ||gxcbuftkk.cn$all
 ||h*.g*.jp$all
+<<<<<<< HEAD:filters.txt
 ||h2bet-b.com$all
 ||h2bet-fun.com$all
 ||h2betapp.org$all
+=======
+||h-supports-coinbase.com$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 ||hacktricks.xyz$all
 ||hahahahauwu.com$all
 ||halowalletplus.xyz$all
@@ -1840,6 +2215,7 @@
 ||helpcenter-businessmanager-reportform.pages.dev$all
 ||helppolicy-businesscenter-request.pages.dev$all
 ||helps-metamskchrome.gitbook.io$all
+||helpsupport-coinbase.com$all
 ||hemline.cn$all
 ||hensaustralia.com.au$all
 ||hentai2read.to$all
@@ -1958,6 +2334,7 @@
 ||infossa.hosted.phplist.com$all
 ||infosync.ai$all
 ||infotrack*.cfd$all
+||infrared-protocolls.org$all
 ||ing-app-online.com$all
 ||ing-es-appclientes.co$all
 ||ing-es-appmovil.com$all
@@ -1978,9 +2355,16 @@
 ||inspection-brief-summary.vercel.app$all
 ||instawp.xyz$all
 ||int.bio/webmail$all
+||integralgergr.xyz$all
 ||intelligent-mal.glitch.me$all
+<<<<<<< HEAD:filters.txt
 ||interbank.info$all
+=======
+||interbenefit.solicitud.click$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 ||interbenefit.viazoneweb.com$all
+||intranet.verificarecapiti-coinbase.com$all
+||intrwograelb.com$all
 ||inulfox4.life$all
 ||investwithwebull.net$all
 ||invoice-swisspass.co$all
@@ -1997,6 +2381,8 @@
 ||ipkobiznesncs.com$all
 ||ipkoblznes.com$all
 ||iplogger.$all
+||iqorglobal.com$all
+||iqorphilippineshrbacolod.com$all
 ||irresistible-intuition-420746.framer.app$all
 ||irs-divida.com$all
 ||irsonline.us$all
@@ -2026,6 +2412,7 @@
 ||jaksel.id$all
 ||janeway.replit.dev$all
 ||jardinesdelllar.es$all
+||jasmy-sushi.lat$all
 ||java9.co$all
 ||jawatankosong.my.id$all
 ||jaxxliberty.io$all
@@ -2039,6 +2426,7 @@
 ||jdesigns.cn$all
 ||jetlibong-d.online$all
 ||jeu.video$all
+||jgieorgjreio.com$all
 ||jhpost.*.$all
 ||jiggo.eu.org$all
 ||jigsawharmony.com$all
@@ -2087,6 +2475,7 @@
 ||kernelsu.com$all
 ||keucoinloginn.gitbook.io$all
 ||kexinpc.com$all
+||kgm-gov.bar$all
 ||kh.ua$all
 ||khhyuuyjhghtdrg.weebly.com$all
 ||kick.com$all
@@ -2162,6 +2551,8 @@
 ||kvbfcr.xyz$all
 ||kvcfg.top$all
 ||kvujygl.cn$all
+||kwevora.com$all
+||kyosk.ke$all
 ||l.ead.me$all
 ||l.facebook.com$all
 ||l.instagram.com$all
@@ -2225,6 +2616,7 @@
 ||linkedpayy.com$all
 ||linkfast.me$all
 ||linkvip10.com$all
+||lionsgateentertainment.com$all
 ||liquidbounce.net$all
 ||listan.com$all
 ||liusheng.online$all
@@ -2249,7 +2641,11 @@
 ||lockereserver.net$all
 ||lockupaccede.com*$all
 ||locmyparcel.com$all
+<<<<<<< HEAD:filters.txt
 ||logie--[a-z]+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|hpage.com)/$all
+=======
+||logie--[a-z]+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|gitbook\.io|github\.io|glitch\.me|firebaseapp\.com|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost.me|web.app)/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 ||logii-kreakoen.gitbook.io$all
 ||login-swisspass.online$all
 ||loginmetaskk.webflow.io$all
@@ -2364,6 +2760,7 @@
 ||mcpedl.com$all
 ||mcpedl.download$all
 ||mcpedl.org$all
+||mcx.solutions$all
 ||mdas-gov.tw$all
 ||mdfsg.top$all
 ||mdmehedi.site$all
@@ -2460,6 +2857,7 @@
 ||minecrftdownload.com$all
 ||minehacks.net$all
 ||mineshafter.info$all
+||minhapagdispositivo.ru.com$all
 ||minidogerewardbonus.vercel.app$all
 ||miniplay.com$all
 ||minitool.com$all
@@ -2609,6 +3007,7 @@
 ||new.gcassh-ph.com$all
 ||newcode.6amtrade.xyz$all
 ||newversionattmailapps.weebly.com$all
+||nguocho1234.site$all
 ||nhentai*.$all,to=~nhentai.net
 ||nick-name.ru$all
 ||niiace.site$all
@@ -2715,6 +3114,7 @@
 ||origins.avianarp.ru$all
 ||orlenity.com$all
 ||oroyawave.com$all
+||os2-claim.com$all
 ||osano.com$all
 ||otdmovies.fun$all
 ||otiliya.weebly.com*$all
@@ -2738,6 +3138,7 @@
 ||packs-special.info$all
 ||paddle.com$all
 ||pafisumbabarat.org$all
+||pag.taxazeromoderninha.digital$all
 ||page--sso--itrustcapital.webflow.io$all
 ||pagelnc.org$all
 ||paiper.com.br$all
@@ -2759,6 +3160,7 @@
 ||pawscommunity.fun$all
 ||pawslabommunity.net$all
 ||paxfulby.cc$all
+||pay.novopagamentosseguro.com$all
 ||paylogss.com$all
 ||paymaya.co$all
 ||paymenuo.xin$all
@@ -2774,6 +3176,7 @@
 ||pendle-pools.org$all
 ||pennlive.com$all
 ||people.com.cn$all
+||perp-sushi.cfd$all
 ||personas.bci.cl.developers.reeras.site$all
 ||persuasionchemistry.com$all
 ||pervuse.com$all
@@ -2782,6 +3185,7 @@
 ||petpals*.shop$all
 ||petslifesolution.com$all
 ||pgyer.com$all
+||ph.antom-app.com$all
 ||phakntom-wallent.gitbook.io$all
 ||phamtmi-vwallet.gitbook.io$all
 ||phantomwallet*.webflow.io$all
@@ -2803,6 +3207,7 @@
 ||phlwincasino.com.ph$all
 ||phomt-walqn.gitbook.io$all
 ||phont-wellate.gitbook.io$all
+||phontom.net$all
 ||phontomabcwallet.gitbook.io$all
 ||phpgren.weebly.com$all
 ||phpshare.$all
@@ -2828,6 +3233,7 @@
 ||playgoal.site$all
 ||plazitasdepla.site$all
 ||pldthome.info$all
+||plendox.com$all
 ||plex.tv$all
 ||plg.bet$all
 ||plics.shop$all
@@ -2894,6 +3300,7 @@
 ||projectwingman.fandom.com$all
 ||prokrakencom.gitbook.io$all
 ||prom10citadele-lv.com$all
+||promerica-ficr.cyou$all
 ||promodescontosame.shop$all
 ||promoshopeecartao.online$all
 ||promoslataamairlines.shop$all
@@ -2958,6 +3365,7 @@
 ||quevexport.com$all
 ||quickapks.com$all
 ||quill.run$all
+||quizdashopee.shop$all
 ||quora.com$all
 ||qvphsliz.cn$all
 ||qwebv.top$all
@@ -3012,6 +3420,7 @@
 ||redirectplush.co.ua$all
 ||redr.me$all
 ||redstone.cx$all
+||reducaodetaxa.shop$all
 ||reduw.cn$all
 ||reffil.site$all
 ||reg-vod.com$all
@@ -3020,6 +3429,7 @@
 ||regularizereceita-govbr.com$all
 ||reibootmac.com$all
 ||reificatuidentidad.weebly.com$all
+||relais-track.com$all
 ||relay-proche.com$all
 ||relayprotocol.link$all
 ||releases.moe$all
@@ -3110,6 +3520,7 @@
 ||s3a2y3.com$all
 ||sa-geek.org$all
 ||safety-profiles-*-ads-*.vercel.app$all
+||saharacustoms.com$all
 ||saharalabss.ai$all
 ||saka.ceshi*.com$all
 ||samft.com$all
@@ -3129,6 +3540,7 @@
 ||scmp.com$all
 ||scoop.it$all
 ||scrapebust.com$all
+||scroll-guardian.xyz$all
 ||scvdr.xyz$all
 ||scvsdf.top$all
 ||sdfghjkkj.weeblysite.com$all
@@ -3179,7 +3591,7 @@
 ||shop-eminem.com$all
 ||shop2game.com$all
 ||shopee*.xyz$all
-||shopee-*.$all,to=~/shopee.[a-z]{1,2}/
+||shopee-*.$all,to=~/shopee.[a-z]{1,8}/
 ||shopee-*.online$all
 ||shopee-official.$all$all
 ||shopee-oficial.$all$all
@@ -3202,6 +3614,9 @@
 ||sicred.*.$all,to=~sicredi.com.br
 ||sicredbrativo.ru$all
 ||sicredi-beneficio.com$all
+||sicredi.w2case.com$all
+||sicrediintegracao.com$all
+||sicrediintegracaorsmg.com$all
 ||sicredipontosresgate.lat$all
 ||sicredipontoxx.com$all
 ||sicredresgatejax.com$all
@@ -3272,7 +3687,9 @@
 ||sol-solaxy.click$all
 ||solaxy-*-claim.site$all
 ||solaxydapp.live$all
+||solaxytoken.icu$all
 ||solesbeachbar.com$all
+||solfinder.io$all
 ||solicitando-*.amazonaws.com$all
 ||solicitaragora.click$all
 ||soliciteagoranovidade.top$all
@@ -3286,6 +3703,7 @@
 ||sorteiodovivaoficial.online$all
 ||sota.travel$all
 ||sourcevital.za.com$all
+||soutson-france-24-heures-pages-net-br-communaute-2025.pages.net.br$all
 ||spachsw.formstack.com$all
 ||sparkasse-agb-aktualisierung.com$all
 ||sparkfi.co$all
@@ -3299,6 +3717,7 @@
 ||spk.*.com.de$all
 ||spmailtechno.com$all
 ||spolamxncberdjffhdu.weebly.com$all
+||sportquik.com$all
 ||sportsplus.ph$all
 ||spotnest.sa.com$all
 ||sql-server-performance.com$all
@@ -3306,6 +3725,7 @@
 ||ssbet*.$all
 ||sso-coinbasepros-.webflow.io$all
 ||sssmy.lc$all
+||sstcro.online$all
 ||sswwsldorifdkfjsddf.weebly.com$all
 ||stacher*.$all,to=~stacher.io
 ||stacsa.one$all
@@ -3487,8 +3907,12 @@
 ||toonily.com$all
 ||toonily.me$all
 ||topcasinoau.com$all
+<<<<<<< HEAD:filters.txt
 ||topcv.net$all
 ||topcv.net.vn$all
+=======
+||topjoygamesltd.com$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 ||toptier.co.tz$all
 ||torrent-stats.info$all
 ||torrentfreak.com$all
@@ -3518,6 +3942,7 @@
 ||trendfarma.com.tr$all
 ||trendrewordhorde.run$all
 ||trentinsociedade.online$all
+||trezcr.ing$all
 ||trezjriostart.webflow.io$all
 ||trezoiiistart.webflow.io$all
 ||trezor.diagnose-device.com$all
@@ -3529,6 +3954,7 @@
 ||trezrhrdwrwallte.webflow.io$all
 ||tricksvile.com$all
 ||trk.elasticemail.com$all
+||tronlink.fi-t2.bet$all
 ||tropers.site$all
 ||trrzour*.xyz$all
 ||trrzourwalet.gitbook.io$all
@@ -3539,6 +3965,7 @@
 ||trustlxtesn.gitbook.io$all
 ||trustpilot.com$all
 ||trustwallet-pagerestore-dev.webflow.io$all
+||trustwclet.ing$all
 ||trutec.co.za$all
 ||truthsocial.com$all
 ||trybalmark.com$all
@@ -3594,6 +4021,7 @@
 ||ulink.asia$all
 ||ultra-tall-cow-bcp.glitch.me$all
 ||unclock.site$all
+||uncommonmag.com$all
 ||undetectable.ai$all
 ||unitedresftual.com$all
 ||universalgroundcareltd.weebly.com$all
@@ -3681,7 +4109,12 @@
 ||vetylogaminasap.weebly.com$all
 ||vgaygppdc.cn$all
 ||vgchartz.com$all
+<<<<<<< HEAD:filters.txt
 ||viajaconbb.com.mx$all
+=======
+||viaaromastore.com$all
+||viaaromastore.com/$all
+>>>>>>> fcb83908d29e9fb8c792f193a1f0506d428eb276:Mork's Filter List.txt
 ||viawebzone.com$all
 ||victoriafarw.com$all
 ||victoriakent.co.uk$all
@@ -3742,6 +4175,7 @@
 ||we-bull*.$all$all
 ||web-baseinet-acceso.com.mx$all
 ||web-compound.com$all
+||web-jupiter-swap.com$all
 ||web-manage-help-secure-support.com$all
 ||web3bay-io.pages.dev$all
 ||weball.$all
@@ -3801,6 +4235,7 @@
 ||worklesswinmore.com$all
 ||worldbridgevault.com$all
 ||worldcoinwoco.com$all
+||worldlibertyfienancial.com$all
 ||worldsofdypians.com$all
 ||wov1f4-g4gsf3-9f8eed-qn43cv.netlify.app$all
 ||wrayljjju.cn$all
@@ -3904,6 +4339,7 @@
 ||zamani.tax$all
 ||zamow-bche.shop$all
 ||zappingtnt.muranga-seal.com$all
+||zeltrixser.com$all
 ||zepo.in$all
 ||zero-squared.com$all
 ||zerogpt.plus$all
