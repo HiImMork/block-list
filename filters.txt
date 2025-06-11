@@ -2600,7 +2600,6 @@
 ||movifulllink.my.id$all
 ||mozimsklogi.gitbook.io$all
 ||mpgh.net$all
-||mpo*.$all
 ||mrantifun.net$all
 ||mrbeast.store$all
 ||mrbeastburger.com$all
