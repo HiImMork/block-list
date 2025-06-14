@@ -4,7 +4,9 @@ const dropdown = {
   toggle: document.querySelector("button.dropdown-toggle"),
 };
 
-// Direct event listener with arrow function for conciseness
-dropdown.toggle?.addEventListener("click", () =>
-  dropdown.root?.classList.toggle("show")
-);
+// Check if both elements exist before adding the event listener
+if (dropdown.root && dropdown.toggle) {
+  dropdown.toggle.addEventListener("click", () =>
+    dropdown.root.classList.toggle("show")
+  );
+}

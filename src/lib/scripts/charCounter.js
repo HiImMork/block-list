@@ -58,8 +58,10 @@ class CharacterCounter {
 }
 
 // Initialize the character counter when DOM is ready
-try {
-  new CharacterCounter();
-} catch (error) {
-  console.error("Failed to initialize character counter:", error);
-}
+document.addEventListener('DOMContentLoaded', () => {
+  try {
+    new CharacterCounter();
+  } catch (error) {
+    console.error("Failed to initialize character counter:", error);
+  }
+});
