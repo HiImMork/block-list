@@ -35,6 +35,7 @@
 .zgpartners.com.au$all
 /(?:01x|0llx|ohx|oix|ojxx|okx|olk|olk-pl|ollx|olx|olz|-1x|0lz|0-lx|oi-x).*\.(?:bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz|pl|click)/$all
 /(?:allegrilokalnie|allegro|allegrolokalne|allegrolokalnie|al1eqro|allegrolokalnie\.pl-*)(?:\.|).*\.(?:bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz|pl|click)/$all
+/(?:cs(2|go)|dota2)lounge\.[a-z]{2,8}/$all
 /(?:impost|imp0st)\.\d+\.xyz/$all
 /(?:jaya|joya)9\.[a-z]{2,8}/$all
 /(?:mondiai|mondial)-.*[a-z]{2,8}/$all
@@ -1217,6 +1218,7 @@
 ||bitgogo.ai$all
 ||bitkauer.cc$all
 ||bitkubepro.com$all
+||bitskins.com$all
 ||bittorrent.com$all
 ||bitvavo.zone$all
 ||bizzboox.site$all
@@ -1537,17 +1539,22 @@
 ||cs.fail$all
 ||cs.money$all
 ||cs.rin.ru$all
+||cs.trade$all
 ||cs2-bets.org$all
+||cs2.eu$all
+||cs2pulse.com$all
 ||csam-be.com$all
 ||csbahias.store$all
+||csdb.gg$all
+||csfloat.com$all
 ||csgobig.com$all
 ||csgoempire.com$all
 ||csgofast.com$all
 ||csgogem.com$all
 ||csgohowl.com$all
-||csgolounge.com$all
 ||csgoluck.com$all
 ||csgoroll.com$all
+||csgotraders.net$all
 ||csjsut.top$all
 ||csyvc.cn$all
 ||ct.sendgrid.net$all
@@ -1575,6 +1582,7 @@
 ||d6kds.top$all
 ||d8z2nkoi.lat$all
 ||dacprt.com$all
+||daddyskins.com$all
 ||daftpage.com$all
 ||dannytherese.com$all
 ||dapp-ohoh.com$all
@@ -1652,6 +1660,7 @@
 ||dlkuaixun.com$all
 ||dll-files.com$all
 ||dllme.com$all
+||dmarket.com$all
 ||dmarkuet.com$all
 ||dmm-bitcoinx.com$all
 ||dmvntuojb.cn$all
@@ -1929,6 +1938,7 @@
 ||gamepressure.com$all
 ||gamerpower.com$all
 ||gamesbolt.com$all
+||gaming-fans.com$all
 ||gammastack.com$all
 ||garamyahud.com$all
 ||garena.com$all
@@ -2080,6 +2090,7 @@
 ||hedera-claim.com$all
 ||hedwigflooredventure.com$all
 ||hekgm.buzz$all
+||hellcase.com$all
 ||hellium.site$all
 ||hello-win.vip$all
 ||hellowin.cc$all
@@ -2254,6 +2265,8 @@
 ||itcareerjobs.org$all
 ||itemckot.com$all
 ||itemdb.com$all
+||itrade.gg$all
+||itradeit.gg$all
 ||itsmods.com$all
 ||iubenda.com$all
 ||ivncf.top$all
@@ -2455,6 +2468,7 @@
 ||lonebullet.com$all
 ||lontoo.cn$all
 ||lookaside.fbsbx.com$all
+||loot.farm$all
 ||lovebirrd.site$all
 ||lpkobilznes.pro$all
 ||lppius.energy$all
@@ -2945,6 +2959,7 @@
 ||pinoytv-ako.blogspot.com$all
 ||pirate-bay*$all
 ||pirateproxy-bay.$all
+||pirateswap.com$all
 ||pl-*buzz$all
 ||pl-*shop$all
 ||placepay.xyz$all
@@ -2958,6 +2973,7 @@
 ||pldthome.info$all
 ||plendox.com$all
 ||plex.tv$all
+||pley.gg$all
 ||plg.bet$all
 ||plics.shop$all
 ||plitch.com$all
@@ -3309,6 +3325,7 @@
 ||sewing-ladyltd.myshopify.com$all
 ||sgabrdigital.com$all
 ||sh1c7o7vvv.uk$all
+||shadowpay.com$all
 ||shadowxcraft.net$all
 ||shamyouthattach.com$all
 ||share-*hsforms.com$all
@@ -3371,10 +3388,18 @@
 ||sjinadu4.wixite.com$all
 ||sjsamsunghospital.com$all
 ||skin.club$all
+||skin.land$all
+||skinbaron.de$all
+||skinbid.com$all
 ||skindeck.com$all
+||skinflow.gg$all
 ||skinlords.com$all
+||skinpit.com$all
 ||skinrave.gg$all
+||skinsmonkey.com$all
 ||skinsmontkey.com$all
+||skinswap.com$all
+||skinvault.gg$all
 ||skool.com$all
 ||sky-main.weebly.com$all
 ||skycapitalbank.com$all
@@ -3477,6 +3502,7 @@
 ||stellarose.site$all
 ||steplesflix.site$all
 ||sterlingship.de$all
+||stntrading.eu$all
 ||store.crunchy.roll$all
 ||store.crunchy.roll.au$all
 ||storybets.casino$all
@@ -3521,6 +3547,7 @@
 ||sv-identifier-ionos-com.de$all
 ||sviluppo.host$all
 ||swagbucks.com$all
+||swap.gg$all
 ||swaptobase.com$all
 ||swderw.weebly.com$all
 ||sweethtooth.io$all
@@ -3651,6 +3678,7 @@
 ||tornadousdtflash.com$all
 ||torrent-stats.info$all
 ||torrentfreak.com$all
+||totalcsgo.com$all
 ||touchngos.top$all
 ||toutiao.com$all
 ||toutiaoimg.com$all

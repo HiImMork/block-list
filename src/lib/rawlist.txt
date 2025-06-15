@@ -28,6 +28,7 @@
 .zgpartners.com.au
 /(?:01x|0llx|ohx|oix|ojxx|okx|olk|olk-pl|ollx|olx|olz|-1x|0lz|0-lx|oi-x).*\.(?:bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz|pl|click)/
 /(?:allegrilokalnie|allegro|allegrolokalne|allegrolokalnie|al1eqro|allegrolokalnie\.pl-*)(?:\.|).*\.(?:bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz|pl|click)/
+/(?:cs(2|go)|dota2)lounge\.[a-z]{2,8}/
 /(?:impost|imp0st)\.\d+\.xyz/
 /(?:jaya|joya)9\.[a-z]{2,8}/
 /(?:mondiai|mondial)-.*[a-z]{2,8}/
@@ -1210,6 +1211,7 @@ bitflyerx.com
 bitgogo.ai
 bitkauer.cc
 bitkubepro.com
+bitskins.com
 bittorrent.com
 bitvavo.zone
 bizzboox.site
@@ -1530,17 +1532,22 @@ cryptozooworld*
 cs.fail
 cs.money
 cs.rin.ru
+cs.trade
 cs2-bets.org
+cs2.eu
+cs2pulse.com
 csam-be.com
 csbahias.store
+csdb.gg
+csfloat.com
 csgobig.com
 csgoempire.com
 csgofast.com
 csgogem.com
 csgohowl.com
-csgolounge.com
 csgoluck.com
 csgoroll.com
+csgotraders.net
 csjsut.top
 csyvc.cn
 ct.sendgrid.net
@@ -1568,6 +1575,7 @@ d6f81.cc
 d6kds.top
 d8z2nkoi.lat
 dacprt.com
+daddyskins.com
 daftpage.com
 dannytherese.com
 dapp-ohoh.com
@@ -1645,6 +1653,7 @@ dlh.net
 dlkuaixun.com
 dll-files.com
 dllme.com
+dmarket.com
 dmarkuet.com
 dmm-bitcoinx.com
 dmvntuojb.cn
@@ -1922,6 +1931,7 @@ gamehag.com
 gamepressure.com
 gamerpower.com
 gamesbolt.com
+gaming-fans.com
 gammastack.com
 garamyahud.com
 garena.com
@@ -2073,6 +2083,7 @@ hechoparatistore.com
 hedera-claim.com
 hedwigflooredventure.com
 hekgm.buzz
+hellcase.com
 hellium.site
 hello-win.vip
 hellowin.cc
@@ -2247,6 +2258,8 @@ itallkyff.cn
 itcareerjobs.org
 itemckot.com
 itemdb.com
+itrade.gg
+itradeit.gg
 itsmods.com
 iubenda.com
 ivncf.top
@@ -2448,6 +2461,7 @@ lolfinity.com
 lonebullet.com
 lontoo.cn
 lookaside.fbsbx.com
+loot.farm
 lovebirrd.site
 lpkobilznes.pro
 lppius.energy
@@ -2938,6 +2952,7 @@ pinkssale.pages.dev
 pinoytv-ako.blogspot.com
 pirate-bay*
 pirateproxy-bay.
+pirateswap.com
 pl-*buzz
 pl-*shop
 placepay.xyz
@@ -2951,6 +2966,7 @@ plazitasdepla.site
 pldthome.info
 plendox.com
 plex.tv
+pley.gg
 plg.bet
 plics.shop
 plitch.com
@@ -3302,6 +3318,7 @@ sever7478765.weebly.com
 sewing-ladyltd.myshopify.com
 sgabrdigital.com
 sh1c7o7vvv.uk
+shadowpay.com
 shadowxcraft.net
 shamyouthattach.com
 share-*hsforms.com
@@ -3364,10 +3381,18 @@ sites.google.com
 sjinadu4.wixite.com
 sjsamsunghospital.com
 skin.club
+skin.land
+skinbaron.de
+skinbid.com
 skindeck.com
+skinflow.gg
 skinlords.com
+skinpit.com
 skinrave.gg
+skinsmonkey.com
 skinsmontkey.com
+skinswap.com
+skinvault.gg
 skool.com
 sky-main.weebly.com
 skycapitalbank.com
@@ -3470,6 +3495,7 @@ steemit.com
 stellarose.site
 steplesflix.site
 sterlingship.de
+stntrading.eu
 store.crunchy.roll
 store.crunchy.roll.au
 storybets.casino
@@ -3514,6 +3540,7 @@ sutherland.ai
 sv-identifier-ionos-com.de
 sviluppo.host
 swagbucks.com
+swap.gg
 swaptobase.com
 swderw.weebly.com
 sweethtooth.io
@@ -3644,6 +3671,7 @@ toptier.co.tz
 tornadousdtflash.com
 torrent-stats.info
 torrentfreak.com
+totalcsgo.com
 touchngos.top
 toutiao.com
 toutiaoimg.com
