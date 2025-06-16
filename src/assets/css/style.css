@@ -313,13 +313,13 @@ section .input-group textarea::placeholder {
 
 section .input-controls {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     grid-template-rows: auto;
     gap: 0.5em;
 }
 
 #characterCounterContainer>.input-controls {
-    grid-template-columns: 3fr 1fr;
+    grid-template-columns: 4fr minmax(200px, 1fr);
 }
 
 #characterCounterContainer .input-group {
