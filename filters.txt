@@ -2109,7 +2109,6 @@
 ||guxaetgt.sbs$all
 ||gvcse.online$all
 ||gxcbuftkk.cn$all
-||h*g*jp$all
 ||h-supports-coinbase.com$all
 ||h2bet-b.com$all
 ||h2bet-fun.com$all
