@@ -26,6 +26,7 @@ function cleanDomainList() {
 	const lines = getDomainListLines();
 	const cleanedLines = [...new Set(lines.filter((line) => line.trim() !== ""))];
 	updateDomainList(cleanedLines);
+	countDomainList();
 }
 
 function addFilters() {
@@ -81,6 +82,7 @@ function copyDomains() {
 
 function clearDomainList() {
 	updateDomainList([]);
+	countDomainList();
 }
 
 function countDomainList() {
