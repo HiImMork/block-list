@@ -279,7 +279,7 @@ main > hr {
 
 .input-controls {
 	display: grid;
-	grid-template-columns: repeat(3, 1fr);
+	grid-template-columns: repeat(auto-fill, minmax(100px, 300px));
 	grid-template-rows: auto;
 	justify-content: center;
 	gap: 1em;

@@ -89,7 +89,7 @@ function countDomainList() {
 
 async function loadRawList() {
 	try {
-		const response = await fetch("src/library/rawlist.txt");
+		const response = await fetch("src/lib/rawlist.txt");
 		const data = await response.text();
 		updateDomainList(data.split("\n"));
 		countDomainList();
@@ -99,6 +99,20 @@ async function loadRawList() {
 }
 
 // Event listeners
+function saveDomains() {
+	const text = filterListEditor.value;
+	const blob = new Blob([text], { type: "text/plain;charset=utf-8" });
+
+	const url = URL.createObjectURL(blob);
+	const a = document.createElement("a");
+	a.href = url;
+	a.download = "filters.txt";
+	document.body.appendChild(a);
+	a.click();
+	a.remove();
+	URL.revokeObjectURL(url);
+}
+
 const eventListeners = {
 	sortBtn: sortDomainList,
 	cleanBtn: cleanDomainList,
@@ -106,10 +120,12 @@ const eventListeners = {
 	removeStringBtn: removeFilters,
 	copyBtn: copyDomains,
 	clearBtn: clearDomainList,
+	saveBtn: saveDomains,
 };
 
 Object.entries(eventListeners).forEach(([id, handler]) => {
-	document.getElementById(id).addEventListener("click", handler);
+	const el = document.getElementById(id);
+	if (el) el.addEventListener("click", handler);
 });
 
 filterListEditor.addEventListener("input", countDomainList);

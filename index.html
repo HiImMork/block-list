@@ -3,6 +3,7 @@
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+		<meta name="description" content="A website for creating and managing filter lists for uBlock Origin, AdGuard, etc.">
 
 		<link
 			rel="shortcut icon"
@@ -15,7 +16,7 @@
 		/>
 		<link rel="stylesheet" href="src/assets/css/default.css" />
 
-		<title>Test</title>
+		<title>Block List Tools</title>
 	</head>
 	<body>
 		<div id="wrapper">
@@ -75,31 +76,36 @@
 						</div>
 						<div class="input-controls section-body">
 							<button type="button" class="btn btn-primary" id="cleanBtn">
-								<i class="icon bi bi-stars"></i
-								><span class="text">Clean List</span>
+								<i class="icon bi bi-stars"> </i>
+								<span class="text">Clean List</span>
 							</button>
 							<button type="button" class="btn btn-primary" id="sortBtn">
-								<i class="icon bi bi-sort-alpha-down"></i
-								><span class="text">Sort List</span>
+								<i class="icon bi bi-sort-alpha-down"> </i>
+								<span class="text">Sort List</span>
 							</button>
 							<button type="button" class="btn btn-primary" id="addStringBtn">
-								<i class="icon bi bi-plus-square"></i
-								><span class="text">Add Filter</span>
+								<i class="icon bi bi-plus-square"> </i>
+								<span class="text">Add Filter</span>
 							</button>
 							<button
 								type="button"
 								class="btn btn-primary"
 								id="removeStringBtn"
 							>
-								<i class="icon bi bi-dash-square"></i
-								><span class="text">Remove Filter</span>
+								<i class="icon bi bi-dash-square"></i>
+								<span class="text">Remove Filter</span>
 							</button>
 							<button type="reset" class="btn btn-danger" id="clearBtn">
 								<i class="bi bi-trash"></i><span class="text">Clear List</span>
 							</button>
 							<button type="button" class="btn btn-primary" id="copyBtn">
-								<i class="icon bi bi-copy"></i
-								><span class="text">Copy List</span>
+								<i class="icon bi bi-copy"></i>
+								<span class="text">Copy List</span>
+							</button>
+
+							<button type="button" class="btn btn-primary" id="saveBtn">
+								<i class="icon bi bi-save"></i>
+								<span class="text">Save List</span>
 							</button>
 						</div>
 					</section>
@@ -177,24 +183,8 @@
 				</footer>
 			</div>
 		</div>
-
-		<!-- <div class="modal" id="clearModal">
-			<header class="modal-header">
-				<h1>Confirm Action</h1>
-				<i class="icon bi bi-x-lg"></i>
-			</header>
-			<hr />
-			<div class="modal-body">
-				Are you sure you want to clear the list of filter rules? You will not be
-				able to undo this action after the command is executed.
-			</div>
-			<div class="modal-footer">
-				<button type="button" class="btn btn-primary">Yes</button>
-				<button type="button" class="btn btn-danger">No</button>
-			</div>
-		</div> -->
-		<script src="src/library/scripts/js/sidebar.js"></script>
-		<script src="src/library/scripts/js/charCounter.js"></script>
-		<script src="src/library/scripts/js/filterEditor.js"></script>
+		<script src="./src/lib/scripts/js/filterEditor.js"></script>
+		<script src="./src/lib/scripts/js/charCounter.js"></script>
+		<script src="./src/lib/scripts/js/sidebar.js"></script>
 	</body>
 </html>
