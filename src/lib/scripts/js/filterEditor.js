@@ -1,18 +1,18 @@
-const domainListInput = document.getElementById("domainListInput");
+const filterListEditor = document.getElementById("filterListEditor");
 const elementOutputText = document.getElementById("lineCounter");
 
-if (!domainListInput || !elementOutputText) {
+if (!filterListEditor || !elementOutputText) {
 	console.error("Required DOM elements not found");
 	throw new Error("Required DOM elements not found");
 }
 
 // Core text processing functions
 function getDomainListLines() {
-	return domainListInput.value.split("\n");
+	return filterListEditor.value.split("\n");
 }
 
 function updateDomainList(lines) {
-	domainListInput.value = lines.join("\n");
+	filterListEditor.value = lines.join("\n");
 }
 
 // List manipulation functions
@@ -66,18 +66,13 @@ function removeFilters() {
 		result = result.replace("$all,to=~", ",to=~");
 		return result;
 	});
-	async function copyDomains() {
-		try {
-			await navigator.clipboard.writeText(domainListInput.value);
-		} catch (error) {
-			console.error("Failed to copy to clipboard:", error);
-		}
-	}
+	updateDomainList(cleanedLines);
+	countDomainList();
 }
 
 // Utility functions
 function copyDomains() {
-	navigator.clipboard.writeText(domainListInput.value);
+	navigator.clipboard.writeText(filterListEditor.value);
 }
 
 function clearDomainList() {
@@ -94,7 +89,7 @@ function countDomainList() {
 
 async function loadRawList() {
 	try {
-		const response = await fetch("./src/lib/rawlist.txt");
+		const response = await fetch("src/library/rawlist.txt");
 		const data = await response.text();
 		updateDomainList(data.split("\n"));
 		countDomainList();
@@ -105,17 +100,21 @@ async function loadRawList() {
 
 // Event listeners
 const eventListeners = {
-	sortDomainList: sortDomainList,
-	cleanDomainList: cleanDomainList,
-	addFilters: addFilters,
-	removeFilters: removeFilters,
-	copyDomains: copyDomains,
-	clearDomainList: clearDomainList,
+	sortBtn: sortDomainList,
+	cleanBtn: cleanDomainList,
+	addStringBtn: addFilters,
+	removeStringBtn: removeFilters,
+	copyBtn: copyDomains,
+	clearBtn: clearDomainList,
 };
 
 Object.entries(eventListeners).forEach(([id, handler]) => {
 	document.getElementById(id).addEventListener("click", handler);
 });
 
-domainListInput.addEventListener("input", countDomainList);
+filterListEditor.addEventListener("input", countDomainList);
 document.addEventListener("DOMContentLoaded", loadRawList);
+
+const refreshBtn = document.querySelector(".line-counter .bi");
+
+refreshBtn.addEventListener("click", loadRawList);

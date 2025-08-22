@@ -1,205 +1,200 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 	<head>
-		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<link rel="stylesheet" href="./src/assets/css/style.css" />
-		<link
-			rel="stylesheet"
-			href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
-		/>
+		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+
 		<link
 			rel="shortcut icon"
-			href="./src/assets/img/wuwa/v2/F_Rover_29_03.webp"
+			href="src/assets/img/ringoJuice.webp"
 			type="image/x-icon"
 		/>
-		<title>MORK's Blocklist Tools</title>
-	</head>
+		<link
+			rel="stylesheet"
+			href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"
+		/>
+		<link rel="stylesheet" href="src/assets/css/default.css" />
 
+		<title>Test</title>
+	</head>
 	<body>
-		<!-- Page Wrapper -->
 		<div id="wrapper">
-			<!-- Page Header -->
-			<header class="page-header">
-				<!-- Header Branding -->
-				<a href="/" class="branding row">
-					<img
-						src="./src/assets/img/wuwa/v2/F_Rover_29_03.webp"
-						alt="Website Logo"
-					/>
-					<h1>MORK's Blocklist Tools</h1>
-				</a>
-			</header>
-			<!-- Navbar -->
-			<aside class="navbar">
-				<nav class="dropdown">
-					<button
-						class="dropdown-toggle"
-						aria-label="Toggle navigation menu"
-						aria-expanded="false"
+			<aside class="left">
+				<div class="sidebar-header">
+					<a class="branding" href="/">
+						<img src="src/assets/img/ringoJuice_sm.webp" alt="" />
+						<h1 class="text">Website Name</h1>
+					</a>
+				</div>
+				<nav class="sidebar-navigation">
+					<a href="/" class="nav-link">
+						<i class="icon bi bi-house"></i>
+						<span class="text">Home</span>
+					</a>
+					<a href="#filterListEditor" class="nav-link">
+						<i class="icon bi bi-textarea-t"></i>
+						<span class="text">Filter List Editor</span>
+					</a>
+					<a href="#charCounter" class="nav-link">
+						<i class="icon bi bi-subscript"></i>
+						<span class="text">Character Counter</span>
+					</a>
+					<a href="https://github.com/HiImMork/block-list" class="nav-link"
+						><i class="icon bi bi-github"></i
+						><span class="text">GitHub</span></a
 					>
-						<i class="bi bi-list" aria-hidden="true"></i>
-					</button>
-					<ul class="dropdown-menu" role="menu">
-						<li>
-							<a href="/"><i class="bi bi-house"></i> Home</a>
-						</li>
-						<li>
-							<a href="#domainListToolContainer">
-								<i class="bi bi-globe"></i> Domain List Tool
-							</a>
-						</li>
-						<li>
-							<a href="#characterCounterContainer">
-								<i class="bi bi-subscript"></i> Character Counter
-							</a>
-						</li>
-						<li>
-							<a href="https://github.com/HiImMork/block-list">
-								<i class="bi bi-github"></i> GitHub Repo
-							</a>
-						</li>
-					</ul>
 				</nav>
+				<div class="sidebar-footer">
+					<small class="text"
+						>This website is still being developed. Broken and missing features
+						might be present.</small
+					>
+					<small class="cr text"
+						>2025 &copy Mark Simon S. Fabros. All rights reserved.</small
+					>
+				</div>
 			</aside>
-			<!-- Left Side Bar -->
-			<aside class="left-sidebar">
-				<nav class="container">
-					<ul class="side-navigation">
-						<li class="navigation-link">
-							<a href="/"><i class="bi bi-house"></i> Home</a>
-						</li>
-						<li class="navigation-link">
-							<a href="#domainListToolContainer">
-								<i class="bi bi-globe"></i> Domain List Tool
-							</a>
-						</li>
-						<li class="navigation-link">
-							<a href="#characterCounterContainer">
-								<i class="bi bi-subscript"></i> Character Counter
-							</a>
-						</li>
-						<li class="navigation-link">
-							<a href="https://github.com/HiImMork/block-list">
-								<i class="bi bi-github"></i> GitHub Repo
-							</a>
-						</li>
-					</ul>
-				</nav>
-			</aside>
-			<!-- Main Content -->
-			<main class="main-content">
-				<div class="container">
-					<!-- Domain List -->
-					<section id="domainListContainer">
-						<!-- Section Header -->
-						<h2><i class="bi bi-globe"></i> Domain Stuff</h2>
-						<!-- Section Content -->
-						<div class="input-group full-width-label">
-							<label for="domainListInput">Enter domain list:</label>
+			<div class="right">
+				<header>
+					<!-- Page Title -->
+					<i class="icon bi bi-arrow-bar-left" id="sidebarToggle"></i>
+					<h2>Home</h2>
+				</header>
+				<main>
+					<section class="block-section">
+						<div class="input-group full-width section-header">
+							<label for="filterListEditor"><h3>Filter List Editor:</h3></label>
 							<textarea
-								name="domainList"
-								id="domainListInput"
-								placeholder="Enter domain/s here..."
-								aria-label="Domain list input area"
+								name="filterListEditor"
+								id="filterListEditor"
 							></textarea>
+							<div class="line-counter">
+								<span id="lineCounter"></span>
+								<i class="bi bi-arrow-clockwise" id="refreshBtn">Refresh</i>
+							</div>
 						</div>
-						<div class="input-controls">
-							<!-- Line Counter -->
-							<div id="lineCounter"></div>
-							<!-- Controls -->
-							<button type="button" id="sortDomainList" class="btn-primary">
-								<i class="bi bi-sort-alpha-down"></i>
-								<span> Sort domains</span>
+						<div class="input-controls section-body">
+							<button type="button" class="btn btn-primary" id="cleanBtn">
+								<i class="icon bi bi-stars"></i
+								><span class="text">Clean List</span>
 							</button>
-							<button type="button" id="cleanDomainList" class="btn-primary">
-								<i class="bi bi-stars"></i>
-								<span> Clean duplicates/empty lines</span>
+							<button type="button" class="btn btn-primary" id="sortBtn">
+								<i class="icon bi bi-sort-alpha-down"></i
+								><span class="text">Sort List</span>
 							</button>
-							<button type="button" id="addFilters" class="btn-secondary">
-								<i class="bi bi-plus"></i>
-								<span> Add strings for filters</span>
+							<button type="button" class="btn btn-primary" id="addStringBtn">
+								<i class="icon bi bi-plus-square"></i
+								><span class="text">Add Filter</span>
 							</button>
-							<button type="button" id="removeFilters" class="btn-secondary">
-								<i class="bi bi-dash"></i>
-								<span> Remove strings for filters</span>
+							<button
+								type="button"
+								class="btn btn-primary"
+								id="removeStringBtn"
+							>
+								<i class="icon bi bi-dash-square"></i
+								><span class="text">Remove Filter</span>
 							</button>
-							<button type="button" id="copyDomains" class="btn-primary">
-								<i class="bi bi-copy"></i>
-								<span> Copy all domains</span>
+							<button type="reset" class="btn btn-danger" id="clearBtn">
+								<i class="bi bi-trash"></i><span class="text">Clear List</span>
 							</button>
-							<button type="button" id="clearDomainList" class="btn-danger">
-								<i class="bi bi-trash"></i>
-								<span> Clear domain list</span>
+							<button type="button" class="btn btn-primary" id="copyBtn">
+								<i class="icon bi bi-copy"></i
+								><span class="text">Copy List</span>
 							</button>
 						</div>
 					</section>
-					<hr />
-					<section id="characterCounterContainer">
-						<!-- Section Header -->
-						<h2><i class="bi bi-subscript"></i> Character Counter</h2>
-						<!-- Section Body -->
-						<div class="input-group">
-							<label for="charCounterInput">Enter text here...</label>
+					<section class="block-section">
+						<div class="input-group section-header" id="characterCounterGroup">
+							<label for="characterCounter">Character Counter: </label>
 							<input
 								type="text"
-								id="charCounterInput"
-								placeholder="Type text to count characters"
-								aria-label="Text input for character counting"
+								name="characterCounter"
+								id="characterCounter"
 							/>
-						</div>
-						<div class="input-controls">
-							<span id="charCounterConsole"></span>
-							<button type="button" id="clearString" class="btn-danger">
-								<i class="bi bi-trash"></i> Clear input
-							</button>
+							<span>
+								<output id="charCount"></output>
+							</span>
 						</div>
 					</section>
-				</div>
-			</main>
-			<!-- Footer -->
-			<footer class="page-footer">
-				<div class="row container">
-					<!-- Site Map -->
-					<div class="col">
-						<h3>Site Map</h3>
-						<a href="/">Home</a>
-						<a href="#domainListToolContainer">Domain List Tool</a>
-						<a href="#characterCounterContainer">Character Counter</a>
-						<a href="https://github.com/HiImMork/block-list">GitHub Repo</a>
+					<section class="block-section">
+						<div class="section-header">
+							<h2>About</h2>
+						</div>
+						<div class="section-body">
+							<p>
+								This is a website that allows you to manage (and create) filter
+								lists for AdGuard, uBlock Origin, or any other adblocking
+								applications that uses AdGuard's syntax. This tool allows you to
+								load a list (in plain text format), add new rules in the list
+								then manage it by sorting the list, removing duplicates and
+								empty lines, as well as add and remove strings that will make
+								the rules more powerful.
+							</p>
+							<p>
+								This website also include a built-in character counter to help
+								you create custom regular expression (regex) easier although not
+								automatically. But it helps! At least for me, that's why I added
+								it.
+							</p>
+						</div>
+					</section>
+				</main>
+				<footer class="block-section">
+					<!-- Site Description -->
+					<div class="footer-col">
+						<h4>Sitemap</h4>
+						<a href="/">
+							<span class="text">MORK's Block List Tools</span>
+						</a>
+						<a href="#filterListEditor">
+							<span class="text">Filter List Editor</span>
+						</a>
+						<a href="#charCounter">
+							<span class="text">CharacterCounter</span>
+						</a>
+						<a href="https://github.com/HiImMork/block-list">
+							<span class="text">GitHub Repository</span>
+						</a>
 					</div>
-					<!-- Contact -->
-					<div class="col">
-						<h3>Contact</h3>
-						<a href="https://github.com/HiImMork"
-							><i class="bi bi-github"></i> GitHub</a
+					<div class="footer-col">
+						<h4>Social Links</h4>
+						<a href="https://github.com/HiImMork/" class="nav-link">
+							<i class="icon bi bi-github"></i>
+							<span class="text">GitHub</span>
+						</a>
+						<a href="https://youtube.com/@hiimmark" class="nav-link">
+							<i class="icon bi bi-youtube"></i
+							><span class="text">YouTube</span>
+						</a>
+						<a
+							href="https://discord.com/users/566384603007549480"
+							class="nav-link"
 						>
-						<a href="https://www.facebook.com/HiImMork">
-							<i class="bi bi-facebook"></i> Facebook
-						</a>
-						<a href="https://www.youtube.com/@HiImMark">
-							<i class="bi bi-youtube"></i> YouTube
+							<i class="icon bi bi-discord"></i
+							><span class="text">Discord</span>
 						</a>
 					</div>
-					<img
-						src="./src/assets/img/wuwa/v2/F_Rover_29_03.webp"
-						alt="Footer Logo"
-					/>
-					<span id="legalNotice"
-						>Copyright ©
-						<script>
-							document.write(new Date().getFullYear());
-						</script>
-						MORK. All rights reserved.</span
-					>
-				</div>
-			</footer>
+				</footer>
+			</div>
 		</div>
-		<!-- Script for char counter -->
-		<script src="./src/lib/scripts/charCounter.js"></script>
-		<!-- Script for domain list -->
-		<script src="./src/lib/scripts/domainList.js"></script>
-		<!-- Script for Dropdown -->
-		<script src="./src/lib/scripts/navbarDropdown.js"></script>
+
+		<!-- <div class="modal" id="clearModal">
+			<header class="modal-header">
+				<h1>Confirm Action</h1>
+				<i class="icon bi bi-x-lg"></i>
+			</header>
+			<hr />
+			<div class="modal-body">
+				Are you sure you want to clear the list of filter rules? You will not be
+				able to undo this action after the command is executed.
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-primary">Yes</button>
+				<button type="button" class="btn btn-danger">No</button>
+			</div>
+		</div> -->
+		<script src="src/library/scripts/js/sidebar.js"></script>
+		<script src="src/library/scripts/js/charCounter.js"></script>
+		<script src="src/library/scripts/js/filterEditor.js"></script>
 	</body>
 </html>
