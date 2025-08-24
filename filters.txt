@@ -1,4 +1,4 @@
-! Title: ppfeufer/adguard-filter-list
+! Title: MORK's Block List
 ! Description: a custom AdGuard Filter List that blocks malicious, gambling, pornographic, and other websites. The rules in these list are currated based on the websites I encounter and websites I collated from Phishtank.org. This list is not regularly updated but I am trying my best to keep it up to date during my free time. This project is for non-profit and free to use or modify by anyone.
 ! Homepage: https://github.com/HiImMork/block-list
 
