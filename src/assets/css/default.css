@@ -22,7 +22,7 @@ body {
 a {
 	color: var(--blue-400);
 	text-decoration: none;
-	transition: var(--transition-effect-default);
+	transition: color var(--transition-effect-default);
 }
 
 a:hover {
@@ -65,7 +65,7 @@ hr {
 	color: var(--gray-50);
 	border: 2px solid var(--gray-50);
 	border-radius: var(--corner);
-	transition: var(--transition-effect-default);
+	transition: background var(--transition-effect-default), color var(--transition-effect-default);
 }
 
 .input-group input:focus,
@@ -89,13 +89,14 @@ button,
 .btn {
 	display: flex;
 	justify-content: center;
+	align-items: center;
 	gap: 0.5rem;
 	padding: 0.5em 0.25em;
 	background-color: transparent;
 	border: none;
 	border-radius: var(--corner);
 	color: inherit;
-	transition: var(--transition-effect-default);
+	transition: background var(--transition-effect-default), color var(--transition-effect-default);
 }
 
 .btn .icon, button .icon {
@@ -164,11 +165,11 @@ aside.left {
 	border-radius: var(--corner);
 	white-space: nowrap;
 	overflow-x: hidden;
-	transition: var(--transition-effect-default);
+	transition: width var(--transition-effect-default);
 }
 
 .left .text {
-	transition: var(--transition-effect-default);
+	transition: opacity var(--transition-effect-default);
 }
 
 .sidebar-collapsed .left .text {
@@ -230,7 +231,7 @@ div.right {
 	padding: 0.5em;
 	padding-left: 0;
 	gap: 0.5em;
-	transition: var(--transition-effect-default);
+	transition: width var(--transition-effect-default), left var(--transition-effect-default);
 }
 
 /* Header */
@@ -289,7 +290,7 @@ main > hr {
 #filterListEditor {
 	height: 40vh;
 	color: var(--gray-500);
-	transition: var(--transition-effect-long);
+	transition: color var(--transition-effect-long), border-color var(--transition-effect-long), height var(--transition-effect-default);
 }
 
 #filterListEditor:focus {
@@ -313,6 +314,10 @@ main > hr {
 	content: "Lines: ";
 }
 
+#refreshBtn {
+	font-size: clamp(10px, 1vw, 0.75rem);
+}
+
 #characterCounterGroup {
 	align-items: center;
 	gap: 1em;
@@ -325,7 +330,7 @@ main > hr {
 
 #characterCounterGroup #characterCounter {
 	flex-basis: 300px;
-	transition: var(--transition-effect-long);
+	transition: flex-basis var(--transition-effect-long);
 }
 
 #characterCounterGroup #characterCounter:focus {
@@ -363,44 +368,4 @@ footer .nav-link {
 	gap: 0.5em;
 	align-items: center;
 	padding-left: 1rem;
-}
-
-.modal {
-	position: fixed;
-	display: flex;
-	flex-flow: column;
-	top: 50%;
-	left: 50%;
-	width: 75%;
-	height: 75%;
-	padding: 1em;
-	background: var(--gray-700);
-	border-radius: var(--corner);
-	transform: translate(-50%, -50%);
-}
-
-.modal .modal-header {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-}
-
-.modal-header .icon.bi-x-lg {
-	font-size: 16px;
-}
-
-.modal .modal-body {
-	flex: 0 1 100%;
-	padding: 2em 0;
-	font-size: 1.2rem;
-}
-
-.modal .modal-footer {
-	display: flex;
-	gap: 1em;
-	justify-content: end;
-}
-
-.modal-footer .btn {
-	flex: 0 0 100px;
 }
