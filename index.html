@@ -3,7 +3,10 @@
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-		<meta name="description" content="A website for creating and managing filter lists for uBlock Origin, AdGuard, etc.">
+		<meta
+			name="description"
+			content="A website for creating and managing filter lists for uBlock Origin, AdGuard, etc."
+		/>
 
 		<link
 			rel="shortcut icon"
@@ -36,7 +39,7 @@
 						<i class="icon bi bi-textarea-t"></i>
 						<span class="text">Filter List Editor</span>
 					</a>
-					<a href="#charCounter" class="nav-link">
+					<a href="#characterCounter" class="nav-link">
 						<i class="icon bi bi-subscript"></i>
 						<span class="text">Character Counter</span>
 					</a>
@@ -62,15 +65,15 @@
 					<h2>Home</h2>
 				</header>
 				<main>
-					<section class="block-section">
+					<section class="block-section" id="filterEditorGroup">
 						<div class="input-group full-width section-header">
 							<label for="filterListEditor"><h3>Filter List Editor:</h3></label>
 							<textarea
 								name="filterListEditor"
 								id="filterListEditor"
 							></textarea>
-							<div class="line-counter">
-								<span id="lineCounter"></span>
+							<div class="editor-bottom">
+								<span id="lineCount"></span>
 								<i class="bi bi-arrow-clockwise" id="refreshBtn">Refresh</i>
 							</div>
 						</div>
@@ -155,8 +158,8 @@
 						<a href="#filterListEditor">
 							<span class="text">Filter List Editor</span>
 						</a>
-						<a href="#charCounter">
-							<span class="text">CharacterCounter</span>
+						<a href="#characterCounter">
+							<span class="text">Character Counter</span>
 						</a>
 						<a href="https://github.com/HiImMork/block-list">
 							<span class="text">GitHub Repository</span>

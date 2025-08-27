@@ -65,7 +65,8 @@ hr {
 	color: var(--gray-50);
 	border: 2px solid var(--gray-50);
 	border-radius: var(--corner);
-	transition: background var(--transition-effect-default), color var(--transition-effect-default);
+	transition: background var(--transition-effect-default),
+		color var(--transition-effect-default);
 }
 
 .input-group input:focus,
@@ -96,10 +97,12 @@ button,
 	border: none;
 	border-radius: var(--corner);
 	color: inherit;
-	transition: background var(--transition-effect-default), color var(--transition-effect-default);
+	transition: background var(--transition-effect-default),
+		color var(--transition-effect-default);
 }
 
-.btn .icon, button .icon {
+.btn .icon,
+button .icon {
 	font-size: 1.15rem;
 }
 
@@ -168,53 +171,53 @@ aside.left {
 	transition: width var(--transition-effect-default);
 }
 
-.left .text {
+aside.left .text {
 	transition: opacity var(--transition-effect-default);
 }
 
-.sidebar-collapsed .left .text {
+div.sidebar-collapsed#wrapper .left .text {
 	opacity: 0;
 }
 
 /* Sidebar Header */
-.sidebar-header .branding {
+div.sidebar-header .branding {
 	text-align: center;
 }
 
-.sidebar-header .branding img {
+div.sidebar-header .branding img {
 	width: 32px;
 }
 
-.sidebar-header .branding h1 {
+div.sidebar-header .branding h1 {
 	font-size: 1.5rem;
 }
 
 /* Navigation Links */
-.sidebar-navigation {
+nav.sidebar-navigation {
 	padding: 1.5em 0.25rem;
 	display: grid;
 	grid-template-rows: repeat(auto-fill, 2.5rem);
 	row-gap: 1em;
 }
 
-.sidebar-navigation a {
+nav.sidebar-navigation a {
 	display: flex;
 	align-items: center;
 	gap: 1em;
 }
 
-.sidebar-navigation .text {
+nav.sidebar-navigation .text {
 	font-size: 1.15rem;
 }
 
 /* Sidebar Footer */
-.sidebar-footer {
+div.sidebar-footer {
 	white-space: normal;
 	text-align: center;
 	color: var(--gray-600);
 }
 
-.sidebar-footer .cr {
+div.sidebar-footer small.cr {
 	display: block;
 	margin-top: 1rem;
 }
@@ -231,11 +234,12 @@ div.right {
 	padding: 0.5em;
 	padding-left: 0;
 	gap: 0.5em;
-	transition: width var(--transition-effect-default), left var(--transition-effect-default);
+	transition: width var(--transition-effect-default),
+		left var(--transition-effect-default);
 }
 
 /* Header */
-.right > header {
+div.right > header {
 	position: sticky;
 	top: 0.5em;
 	left: 0.5em;
@@ -265,20 +269,20 @@ main > hr {
 	border-radius: var(--corner);
 }
 
-.sectio-header {
+div.section-header {
 	display: flex;
 	align-items: center;
 }
 
-.section-body {
+div.section-body {
 	padding: 1em;
 }
 
-.section-body > p {
+div.section-body > p {
 	text-indent: 2rem;
 }
 
-.input-controls {
+div.input-controls {
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(100px, 300px));
 	grid-template-rows: auto;
@@ -287,61 +291,66 @@ main > hr {
 	padding-top: 1em;
 }
 
-#filterListEditor {
-	height: 40vh;
-	color: var(--gray-500);
-	transition: color var(--transition-effect-long), border-color var(--transition-effect-long), height var(--transition-effect-default);
+section#filterEditorGroup:focus-within textarea#filterListEditor {
+	height: 65vh;
 }
 
-#filterListEditor:focus {
-	height: 65vh;
+textarea#filterListEditor {
+	height: 40vh;
+	color: var(--gray-500);
+	transition: color var(--transition-effect-long),
+		border-color var(--transition-effect-long),
+		height var(--transition-effect-default);
+}
+
+textarea#filterListEditor:focus {
 	color: var(--gray-200);
 	border-color: var(--blue-400);
 }
 
-.line-counter {
+div.editor-bottom {
 	width: 100%;
 	display: flex;
 	justify-content: space-between;
 	padding-top: 0.5em;
 }
 
-#lineCounter {
+span#lineCount {
 	color: var(--gray-500);
 }
 
-#lineCounter::before {
+span#lineCount::before {
 	content: "Lines: ";
 }
 
-#refreshBtn {
+span#refreshBtn {
 	font-size: clamp(10px, 1vw, 0.75rem);
 }
 
-#characterCounterGroup {
+div#characterCounterGroup {
 	align-items: center;
 	gap: 1em;
 }
 
-#characterCounterGroup label {
+div#characterCounterGroup label {
 	flex: 0 0 12rem;
 	margin-bottom: 0;
 }
 
-#characterCounterGroup #characterCounter {
+div#characterCounterGroup input#characterCounter {
 	flex-basis: 300px;
 	transition: flex-basis var(--transition-effect-long);
 }
 
-#characterCounterGroup #characterCounter:focus {
+div#characterCounterGroup input#characterCounter:focus {
 	flex-basis: 60%;
 }
 
-#characterCounterGroup #charCount {
+div#characterCounterGroup span#charCount {
 	flex: 1 0 200px;
 }
 
-#characterCounterGroup #charCount::before {
+div#characterCounterGroup span#charCount::before {
 	content: "Character/s: ";
 }
 

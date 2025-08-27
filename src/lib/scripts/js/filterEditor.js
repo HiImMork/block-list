@@ -1,6 +1,7 @@
 const filterListEditor = document.getElementById("filterListEditor");
-const elementOutputText = document.getElementById("lineCounter");
+const elementOutputText = document.getElementById("lineCount");
 
+// Check for any missing elements.
 if (!filterListEditor || !elementOutputText) {
 	console.error("Required DOM elements not found");
 	throw new Error("Required DOM elements not found");
@@ -131,6 +132,6 @@ Object.entries(eventListeners).forEach(([id, handler]) => {
 filterListEditor.addEventListener("input", countDomainList);
 document.addEventListener("DOMContentLoaded", loadRawList);
 
-const refreshBtn = document.querySelector(".line-counter .bi");
+const refreshBtn = document.getElementById("refreshBtn");
 
 refreshBtn.addEventListener("click", loadRawList);
