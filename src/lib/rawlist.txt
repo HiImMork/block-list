@@ -33,6 +33,7 @@
 /(?:jaya|joya)9\.[a-z]{2,8}/
 /(?:mondiai|mondial)-.*[a-z]{2,8}/
 /(?:support-xphantom--wallet|(?:phantom|phuntiom)-wallet|phantom-cdn-wallet-help).*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
+/(worf|riker)\.replit\.dev/
 /(www\.)aaajili\d{1,3}\.com/
 /-ren--intdomo-.*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /.*-shopee\.[a-z]{2,8}/
@@ -63,27 +64,29 @@
 /[a-z]{13}\.xyz\/pulglink/
 /[a-z]{3}-sushi\.top/
 /\.start-io-trezor\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
-/\d+-apple\.[a-z]{2,8}/
-/\d+-coinbase\.com/
-/\d+-inchairdop\.[a-z]{2,8}/
-/\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
-/\d+\.fgk\.my\.id/
-/\d+\.onamaeweb\.jp/
-/\d+\.top/
-/\d+\.vpachan\.com/
-/\d+\.world/
-/\d+club\d+\.club/
-/\d+nwinvip\d+\.[a-z]{2,8}/
-/\d{1,9}\.xyz/
-/\w+-apple\.[a-z]{2,8}/
-/\w+\.adm\.ibsystem\.com\.br/
-/\w+\.ct\.sendgrid\.net/
-/\w+\.intrwegrael\.[a-z]{2,8}/
-/\w+\.run-eu-central1\.goorm\.app/
-/\w{16,}\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
-/\w{8,}-\w{8,}\.gitbook.io/
-/\w{8,}-\w{8,}\.teemill\.com/
-/\w{8,}-\w{8,}\.weebly\.com/
+/\w+(\.|-)wallet\-connect\.link/
+/\w+\.tracksystemio\.cc/
+/^\d+-apple\.[a-z]{2,8}/
+/^\d+-coinbase\.com/
+/^\d+-inchairdop\.[a-z]{2,8}/
+/^\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
+/^\d+\.fgk\.my\.id/
+/^\d+\.onamaeweb\.jp/
+/^\d+\.top/
+/^\d+\.vpachan\.com/
+/^\d+\.world/
+/^\d+club\d+\.club/
+/^\d+nwinvip\d+\.[a-z]{2,8}/
+/^\d{1,9}\.xyz/
+/^\w+-apple\.[a-z]{2,8}/
+/^\w+\.adm\.ibsystem\.com\.br/
+/^\w+\.ct\.sendgrid\.net/
+/^\w+\.intrwegrael\.[a-z]{2,8}/
+/^\w+\.run-eu-central1\.goorm\.app/
+/^\w{16,}\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
+/^\w{8,}-\w{8,}\.gitbook.io/
+/^\w{8,}-\w{8,}\.teemill\.com/
+/^\w{8,}-\w{8,}\.weebly\.com/
 /aapple\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /aatumiccwalleti\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /abensi-bombanakab\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
@@ -192,6 +195,7 @@
 /bitmartxlogine\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /blackfriday-havan\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /blockchain-rectifier\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
+/bluehotdog\.\w+\.[a-z]{2,10}/
 /bms\.nlm
 /boclogin\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /bojong-kulonprogo\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
@@ -363,6 +367,7 @@
 /efhhps\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /emaiiaii\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /email-office365-broadband2234\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
+/email\.\w+-blk\.tpced\.com/
 /emailverification\w+\.weebly\.com/
 /emran-movie\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /en-walletcont\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
@@ -690,6 +695,7 @@
 /nav-sso-itrustcapital-com-auth\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /nc-\d+.freshlearn\.com/
 /ncquickpass\.\w+\.[a-z]{2,8}/
+/netflix\.\w+-\w+\.com/
 /newshineuuuxxtin\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /nodes-connect\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /nodux\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
@@ -699,6 +705,7 @@
 /oi-x\.\d+\..*\.(?:bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz|pl|click)/
 /onlinepayxbn\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /openverification-\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
+/options\.\w+\.santobazar\.cl/
 /optivevip\.[a-z]{2,8}/
 /optus-\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /optus\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
@@ -708,6 +715,7 @@
 /overly-copy-\d+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /pa-ezpass[a-z]{1,5}\.[a-z]{2,8}/
 /packages[a-z]{2}\.xin/
+/pagbank\.\w+\.[a-z]{2,8}/
 /page--btimart--authh\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /page-account-verification-support-d-two-blush\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /pancakesw[a-z]{1}p.[a-z]{2,3}.com/
@@ -731,6 +739,7 @@
 /promerica-\w+\.[a-z]{2,8}/
 /proposals-\w+\.net/
 /proximusweb\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
+/pttp[a-z]{1}lcc\.top/
 /pub-\w+\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /pub-\w+\.r2\.dev/
 /public-trzzor-stakinng-cdn\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
@@ -766,12 +775,18 @@
 /share-eu\d{1}\.hsform\..*\.(?:bet|cfd|chat|cyou|fr|icu|io|online|rest|sbs|shop|site|top|tr|xyz|pl|click)/
 /shaw\d{4}login\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /shdhdhhd7\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
+/shielddex\d+\.xyz/
 /shopee-\w{3}\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /shopee\d{1,5}\.[a-z]{2,8}/
 /sign-in--*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /sign-in---webmail-*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /site3-*-jp\.\w+\.[a-z]{2,8}/
 /sky\d{1,5}\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
+/smbc-card\d+\.[a-z]{2,10}/
+/smibcios\.\w+\.[a-z]{2,10}/
+/smibciosec\.\w+\.[a-z]{2,10}/
+/smubcioseo-\w+\.[a-z]{2,10}/
+/smubcioseo\.\w+\.[a-z]{2,10}/
 /solreclaim\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /sorteeee-viva\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
 /srl-aruba\..*\.(?:app-web3s\.com|blogspot\.com|cloudflarepages\.dev|dreamhosters\.com|firebaseapp\.com|fly\.dev|framer\.app|git(book|hub)\.io|glitch\.me|godaddysites\.com|herokuapp\.com|medium\.com|my\.canva\.site|mystrikingly\.com|netlify\.app|pages\.dev|render\.com|squarespace\.com|surge\.sh|vercel\.app|webflow\.io|weebly\.com|weeblysite\.com|wixsite\.com|wordpress\.com|teemill\.com|kinsta\.cloud|hosted\.phplist\.com|vkweb\.su|mybluehost\.me|web\.app|hpage\.com|duckdns\.org|webnode\.(?:page|cr)|ddns\.net|swipepages\.net)/
@@ -1068,6 +1083,7 @@ aithor.com
 aizipai.cn
 ajhjo.cn
 alagoasonline.site
+alameenacademybergram.org
 albbscp.cn
 albemarlepro.com
 albrightleds.com.au
@@ -1099,6 +1115,7 @@ amazon-adsystem.com
 amazon.hiflyvanguard.com
 amctheatresuok.com
 americanwealths.com
+amesohnson.com
 aminahk.com
 amlbot-check.site
 amlbotcompany.com
@@ -1344,8 +1361,10 @@ bettermeter.com
 betterwayelectronics.com.au
 bettinamarks.com
 bettingtop*ca
+bevisawrence.com
 bfinvestment.online
 bftchem.com
+bgng.io
 bhpgroup.ltd
 bia-atendimento.com
 bia-bradesco.com
@@ -1511,6 +1530,7 @@ capitappull.site
 captcharobots.live
 carbonaffi.com
 careers-rsmus.com
+careiroya.online
 carequick.sa.com
 cargoistics.com
 carousell.ph
@@ -1614,6 +1634,7 @@ cnlgaming.com
 cns.bf
 cntv.cn
 coalrealm.com
+coastcapitalonline.com.bid
 coctwire.com
 codeanyapp.com
 codeginl.info
@@ -1643,6 +1664,7 @@ componentesnetempresa.com
 compratusoatenlinea.com
 conbe-*godaddysites.com
 confirmar-taxa.com
+connexion-ulys.com
 consegui.shop
 console-*arinc-instrument.com
 conta.resgate.ru
@@ -2028,6 +2050,7 @@ exorcist.site*
 exswapping.com
 exswappingnews.clients.site
 extremevpn.com
+ezfertz.sbs
 f31c.short.gy
 f4n.d25.myftpupload.com
 fa-favabook.click
@@ -2057,6 +2080,7 @@ feelgoodproductivity.com
 fefde.sbs
 feiraolimpanomebrasil.online
 feltok.com
+fet.uet.vnu.edu.vn
 ffbvn.online
 fgewes.xyz
 fhqp0i0d.lat
@@ -2109,6 +2133,7 @@ forms.fillout.com
 fortect.com
 fortnitehacks.io
 foxkit.app
+fr-choix-locker.com
 fr-peages-ulys.com
 fr.*sa.com
 fragile.co
@@ -2298,6 +2323,7 @@ hacktricks.xyz
 hahahahauwu.com
 halowalletplus.xyz
 ham-radio-op.net
+hamberlainm.com
 han.gl
 handbagee.com
 hanime*,to=~hanime.tv
@@ -2317,6 +2343,7 @@ haste.net
 havancredito.site
 havansaopaulo.com
 havenis.co
+hbmbohtf.asia
 hdsiwk.com
 healthsamart.sa.com
 healthscope\d+.com
@@ -2505,6 +2532,7 @@ is.gd
 is.itk.ac.id
 isa-geek.org
 isadoramartins.com.br
+isenhowemin.com
 isojl.cn
 israelpostlaw.cc
 israelpostoffice.shop
@@ -2734,6 +2762,7 @@ lookaside.fbsbx.com
 loot.farm
 lovebirrd.site
 lowsolutions.tech
+lpa.mediaanglezone.com
 lpkobilznes.pro
 lppius.energy
 ltoportal.ph
@@ -2830,6 +2859,7 @@ mdmehedi.site
 mdmltd.co.il
 mechanicladenthereby.com
 mecrurytimes.com
+medianasochi.ru
 mediapol.cn
 medicardphils.com
 medium.rest
@@ -2930,6 +2960,7 @@ moviestreamforyou.online
 movifulllink.my.id
 mozimsklogi.gitbook.io
 mpgh.net
+mpuuetytg.mccermott.sbs
 mrantifun.net
 mrbeast.store
 mrbeastburger.com
@@ -3066,6 +3097,7 @@ numerodivusita*click
 nutaku.$all
 nutentertainintermidiate.com
 nutritionnut.org
+nutrodry.in
 nvfmdtj.cn
 nyilib.com
 nyjhyx.com
@@ -3256,6 +3288,7 @@ phrmaya.com
 phsss.tw
 phusmolpy.cn
 pifarmings.live
+pilba.org
 pinan.gov.ph
 pineapple-trapezoidal-ease.glitch.me
 pingzapper.com
@@ -3318,6 +3351,7 @@ pramjse.net.pl
 prcjobhiring.blogspot.com
 premio.io
 premios.resgate.ru
+prequalify.costcapitalsavings.com
 presente-premiado.com
 pricewatch.cn
 prime-sslbr3.com
@@ -3332,6 +3366,7 @@ privacybreach.s3.us-west-1.amazonaws.com
 privacymanager.io
 privy.io
 procamps.pro
+procostarica.lat
 producthunt.com
 profitablecpm.com
 profitablecpmrate.com
@@ -3589,6 +3624,7 @@ rumble.com
 runachayecuador.com
 ruszcpfdz.cn
 rutor.info
+rxhcyf.com
 rxx.kqm.mybluehost.me
 rzzcode.com
 s-portal.net
@@ -3618,6 +3654,7 @@ sccpfiel.com
 scdcoastcapitals.avings.com
 scdcoastcapitalsav.ings.com
 sch.id
+sciibank.com
 scmp.com
 scoop.it
 scrapebust.com
@@ -3818,6 +3855,7 @@ soriano.cn
 sorteiodovivaoficial.online
 sota.travel
 sourcevital.za.com
+souscription-ulys.com
 soutson-france-24-heures-pages-net-br-communaute-2025.pages.net.br
 spachsw.formstack.com
 sparkasse-agb-aktualisierung.com
@@ -3921,11 +3959,13 @@ swiftrpcnodeissuesfix.pages.dev
 swisscomfinances.com
 swisspass-info.com
 swissquotevip.com
+sww-moneypak.com
 sydneyinc.co.za
 syjunfei.com
 syncwallets.site
 syneohealths.com
 synfutu.re
+synovus-ob.verifym.com
 synthentic-blockchain.pages.dev
 sytuii.weebly.com
 sznuoerda.com
@@ -4044,6 +4084,7 @@ topcv.net
 topcv.net.vn
 topjoygamesltd.com
 toptier.co.tz
+topttplcku.cc
 tornadousdtflash.com
 torrent-stats.info
 torrentfreak.com
@@ -4076,6 +4117,7 @@ trendfarma.com.fr
 trendfarma.com.tr
 trendrewordhorde.run
 trentinsociedade.online
+trenuleteturda.ro
 trezcr.ing
 trezjriostart.webflow.io
 trezoiiistart.webflow.io
@@ -4303,6 +4345,7 @@ voos-promo-airlinesbrasil.com
 vourplay.site
 vpass-feelster.*cn
 vsafufmop.cn
+vtpasca.com
 vtyfiken.sbs
 vulcan-guardian.com
 vyg.app
@@ -4323,6 +4366,7 @@ walletconnect.com
 walletlink.org
 walletsecurity.name.ng
 walrusprotocol.space
+wap.coiniesth-islamic.com
 warhammer40k.fandom.com
 washingtonpost.co.uk
 washlongsgbeng5372.top
@@ -4423,6 +4467,9 @@ wwv.rarbg.tw
 www-gmgn.com
 www-hyperliquid.xyz
 www-phwin.com.ph
+www-sblsec-co-jp.hfbaota.com
+www-suivi-clients.com
+www-vip1-docmo-ho-tm-ails-mt-dcardjapanseai-jarvis.labmen-fgi.club
 www.joinhoney.com
 www.wordstream.com
 www5.smartadserver.com
@@ -4504,6 +4551,7 @@ zamani.tax
 zamow-bche.shop
 zappingtnt.muranga-seal.com
 zapwnvd.asia
+zebracargoinltd.shipron.com.ng
 zeltrixser.com
 zepo.in
 zero-squared.com
