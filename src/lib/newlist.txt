@@ -24,6 +24,7 @@
 /apkmody\.[a-z]{2,10}/
 /apks(full|hub)\.[a-z]{2,10}/
 /bet\d{1,5}\.[a-z]{2,10}/
+/eloboost\d{2}\.eu/
 /firstbola\d+\.[a-z]{2,10}/
 /galaxy[a-z]{2,3}-official\.com/
 /garena(|official)\.[a-z]{2,10}/
@@ -33,8 +34,8 @@
 /getmodsapk\.[a-z]{2,10}/
 /globe(:?fxcapital|ix-[a-z]{2,3})\.[a-z]{2,10}/
 /globe(|\w{1,5})\.[a-z]{2,10}/
-/globe-ph\w{2}\.[a-z]{2,10}/
 /globe-christmas\.[a-z]{2,10}/
+/globe-ph\w{2}\.[a-z]{2,10}/
 /globeapp.[a-z]{2,10}/
 /hanime(s)\.[a-z]{2,10}/
 /happymod(|pro)\.[a-z]{2,10}/
@@ -55,6 +56,7 @@
 /youradchoices\.[a-z]{2,10}/
 1337x-official.com
 1xbet.com
+4pda.to
 500.casino
 9gag.com
 9gag.tv
@@ -91,6 +93,7 @@ bignox.com
 bilibili.com
 binance.com
 binance.us
+bittopup.com
 bloodycase.com
 bluestacks.com
 bnbchain.org
@@ -122,15 +125,19 @@ csgoroll
 cyberlink.com
 daddyskins.com
 decart.ai
+didgeridoohan.com
 dota2lounge.com
 douyin.com
 download.cnet.com
 dribbble.com
+droid.tools
 ebpay.org
+eldorado.gg
 eloshape.com
 english.mofcom.gov.cn
 english.www.gov.cn
 epicgames.com
+epicnpc.com
 equalizerapo.com
 equalizerapo.dev
 exitlag.com
@@ -144,11 +151,16 @@ freeanimehentai.net
 freechoice.co.za
 freeconvert.com
 freemake.com
+funpay.com
+g2g.com
 g2play.net
 g4skins.com
+gameboost.com
 garenaofficial.online
 gcash.asia
 gcashil.com
+genshinaccount.com
+genshinaccounts.com
 genshinviet.com.vn
 genvas.ai
 getapp.com
@@ -217,6 +229,7 @@ kinguin.com
 kkat.net
 kkcarroll.com
 latestmodapks.com
+ldshop.gg
 leagueoflegends.com
 llcattorney.com
 loader.to
@@ -225,7 +238,16 @@ lootbar.gg
 ltoexamreviewer.com
 ltoportal.ph
 magisk.me
+magisk.zip
+magiskapk.net
 magiskmanager.com
+magiskmanager.org
+magiskmasters.com
+magiskmodule.com
+magiskmodule.gitlab.io
+magiskroot.net
+magisks.com
+magisksu.com
 malavida.com
 mcafee.com
 mcpedl.org
@@ -241,6 +263,9 @@ minecrftapkmod.com
 mineshafter.info
 mmdagov-ph.com
 mmntech.ca
+mmoexp.com
+mmonster.co
+mmowts.com
 mrbeast.store
 mrbeastburger.com
 mrbeastjobs.com
@@ -272,12 +297,14 @@ pinoydriver.com
 piratebayproxy.net
 pirateproxy-bay.com
 pirates-forum.org
+playerauctions.com
 playvalorant.com
 poki.com
 pricempire.com
 psahelpline.ph
 pump.fun
 qq.com
+rerollaccount.com
 revanced.to
 revenacedmanager.com
 riotgames.com
@@ -291,6 +318,8 @@ singlife.com.ph
 skin.club
 skinrave.gg
 skinsmonkey.com
+skycoach.gg
+skye1204gaming.com
 slotcatalog.com
 smni.com
 smninewschannel.com
@@ -313,6 +342,7 @@ thepiratebay.org
 theporndude.com
 tiktok.com
 topnotcher.ph
+topuplive.com
 toutiao.com
 tradeit.gg
 tutwuri.id
@@ -330,11 +360,15 @@ wps.com
 yandex.com
 ytmp3.as
 ytmp4.is
+zeusx.com
 ||daum.net^
 ||g2a.com^
+||igv.com^
 ||kat(cc|cr)^
 ||rvx.to^
 ||t.me^
+||u7buy.com^
+||z2u.com^
 
 ! Exclusion/Whitelist - make sure that the whitelist is at the bottom.
 @@/animekai\.(to|me|bz|cc|ac)/
