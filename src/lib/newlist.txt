@@ -48,6 +48,8 @@
 /phlwin\d+\.com\.[a-z]{2,3}/
 /phwin\d+\.[a-z]{2,10}/
 /samsungstore-[a-z]{2,3}\.online/
+/sanybank\.\w+\.top/
+/soniybank\.\w+\.top/
 /vanced\.(app|me|net|to)/
 /vancedapp\.(com|io)/
 /vk\.(com|company|ru)/
@@ -77,10 +79,12 @@ anycase.ai
 anycolor.co
 anycolor.co.jp
 api.cntv.cn
+apponic.com
 aptoide.com
 arenaplus.com.ph
 arenaplus.net.ph
 aternos.org
+autoeq.app
 avast.com
 avg.com
 bc.game
@@ -93,6 +97,7 @@ bignox.com
 bilibili.com
 binance.com
 binance.us
+bitcoin.com
 bittopup.com
 bloodycase.com
 bluestacks.com
@@ -108,6 +113,7 @@ casinoplus.com.ph
 catmouseapk.org
 ccleaner.com
 chinafy.com
+choisir-votre-pickup.com
 chosfox.com
 civilservicereviewer.ph
 coinbase.com
@@ -129,8 +135,10 @@ didgeridoohan.com
 dota2lounge.com
 douyin.com
 download.cnet.com
+download.it^
 dribbble.com
 droid.tools
+duel.com
 ebpay.org
 eldorado.gg
 eloshape.com
@@ -155,6 +163,7 @@ funpay.com
 g2g.com
 g2play.net
 g4skins.com
+galaxyph-official.com
 gameboost.com
 garenaofficial.online
 gcash.asia
@@ -189,6 +198,10 @@ grass.io
 grassfoundation.io
 guru99.com
 hanime*,to=~hanime.tv
+hanime.red
+hanime.xxx
+hanimehentai.tv
+hanimes.org
 happysmurf.com
 haste.net
 hellcase.com
@@ -231,6 +244,7 @@ kkcarroll.com
 latestmodapks.com
 ldshop.gg
 leagueoflegends.com
+liteapks.com
 llcattorney.com
 loader.to
 lolesports.com
@@ -271,6 +285,11 @@ mrbeastburger.com
 mrbeastjobs.com
 myplexi.fr
 net25.com
+nhentai.online
+nhentai.to
+nhentai.website
+nhentai.xxx
+nhentaiyaoi.net
 nijisanji.co.jp
 nijisanji.com
 nordvpn.com
@@ -278,6 +297,7 @@ norton.com
 nosteam.com.ro
 nosteam.ro
 notube.net
+nouveau-pickup-fr.com
 nouvolo.com
 nox.uno
 noxofficial.com
@@ -304,10 +324,12 @@ pricempire.com
 psahelpline.ph
 pump.fun
 qq.com
+rainbet.com
 rerollaccount.com
 revanced.to
 revenacedmanager.com
 riotgames.com
+rmsbw.com
 roblox.com
 save-from.net
 savefrom.in.net
@@ -321,11 +343,14 @@ skinsmonkey.com
 skycoach.gg
 skye1204gaming.com
 slotcatalog.com
+smbc-cardnu7.club
 smni.com
 smninewschannel.com
 softonic.com
+ssealnf.com
 ssvid.net
 stake.com
+stakes.com
 tachiyomi-apk.com
 techspot.com
 telegram.org
@@ -347,7 +372,9 @@ toutiao.com
 tradeit.gg
 tutwuri.id
 unboxdiaries.com
+updatestar.com
 uptodown.com
+urbandictionary.store
 userbenchmark.com
 vanced-official.com
 vancedmanager.com
