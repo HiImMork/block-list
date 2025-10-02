@@ -324,12 +324,9 @@ pricempire.com
 psahelpline.ph
 pump.fun
 qq.com
-<<<<<<< HEAD
 razed.com
-=======
 rainbet.com
 rerollaccount.com
->>>>>>> a14827cd3b3b2062bb7b158a97c1805e7aaf844f
 revanced.to
 revenacedmanager.com
 riotgames.com
