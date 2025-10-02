@@ -11,10 +11,14 @@
 /presenteperfeito\.(:?live|info|digital|click)/
 /revenue\.pay\w+\.cc/
 /site4-sbisec\.\w+\.com/
+<<<<<<< HEAD
 /sky-\d{2,18}\.weeblysite\.com/
 /smbcard\.verify\.co\.jp\.\w+\.com/
 /srv\d{6}\.hoster-test\.ru/
 /vpass-vip\.\w+\.sbs/
+=======
+/site\d+\.\d+\.webydo\.com/
+>>>>>>> a14827cd3b3b2062bb7b158a97c1805e7aaf844f
 /www-sbisec-co-jp\.(:?motorshifi|thekoopas|eerunner|joyousmoon|whyzpromo|missinsure)\.com/
 /www-sbisec-co-jp\.w+\.com/
 1-drab-ten.vercel.app
@@ -24,6 +28,7 @@
 acosolucoes.com.ua
 actualizacoacadastral.digital
 adobe.com
+<<<<<<< HEAD
 afiliadosjuntos.click
 amzpromo.cc
 app.clientesafiliados.digital
@@ -49,6 +54,13 @@ bradesco.seunavegador.com
 bradesconetempresa.pjlogin.sa.com
 brasilaco.site
 broken-city.de
+=======
+aeon.co.jp.yixiaozi.com
+aitchesoleoduct.blob.core.windows.net
+banigafinancierafideicomisow.pages.dev
+bankless.com
+caixadirecta-apagar.com
+>>>>>>> a14827cd3b3b2062bb7b158a97c1805e7aaf844f
 cartamercantil.online
 certosim.space
 cgd-appdirecta.com
@@ -59,6 +71,7 @@ clientepessoafisica.info
 clinetepremio.ru.com
 cloudbrshopline.shop
 consultademilhas.ru.com
+<<<<<<< HEAD
 coursier-fr-espace.com
 coursier-fr-lockers.com
 creuni1one.vercel.app
@@ -72,6 +85,15 @@ fcwrwx2.top
 ferroefoco.online
 fr-planification.com
 gotdns.com
+=======
+dundee-howff.info
+earni.fi
+exodus-cryptowallet.web.app
+f-ontersmnvfiy-site.webflow.io
+fr-planification.com
+franceconnect.aidecontact.fr
+gyh874.com
+>>>>>>> a14827cd3b3b2062bb7b158a97c1805e7aaf844f
 help-exodus-en-us.pages.dev
 huawuqu.eu.cc
 infospv-be.com
@@ -84,10 +106,15 @@ jmdvbpoh.cn
 knowbe4.es
 lendingtree-finance.vercel.app
 limit-deal.info
+<<<<<<< HEAD
 login-verify.link
 mercedessalasl.wixsite.com
 mewualets.gitbook.io
 mgzempoh.cn
+=======
+meta-gatewayx.pages.dev
+meta-support-walletid.pages.dev
+>>>>>>> a14827cd3b3b2062bb7b158a97c1805e7aaf844f
 misitiohostgator.com
 missedvoice.blogspot.com
 mts.vpnwebshop.ru
@@ -98,10 +125,17 @@ namura-hoemtared-jp.com
 new.express.adobe.com
 newrelice.store
 nu-parcerias.netlify.app
+<<<<<<< HEAD
 oxflex.in
 pa.revenue-vx.cc
 pa.tepaylxt.cc
 peaba.shop
+=======
+ny.tapay.cc
+pa.revenue-vx.cc
+pa.tepaylxt.cc
+pay.transacionandosafe.online
+>>>>>>> a14827cd3b3b2062bb7b158a97c1805e7aaf844f
 pesquisaofficial.site
 picard.replit.dev
 pickup-express-fr.com
@@ -113,10 +147,16 @@ pramiia.cyou
 presenteperfeito.info
 primeativartoken.com
 promerica-do.icu
+psee.io
 purchaseonlineetsy.com
+radioadvertisingsummit.de
 reaches-achieving-committtee-moses.tryvloudflare.com
 recargajogo.cng.br
+<<<<<<< HEAD
 relay-pickupstation.com
+=======
+redirectanalyse.fr
+>>>>>>> a14827cd3b3b2062bb7b158a97c1805e7aaf844f
 resgatepts.cfd
 saiuo.top
 santandersecurenet.com
@@ -129,12 +169,20 @@ sibforms.com
 siderurgica-ferro.site
 slavaptz.ru
 smurfitwestrock.geneseeco.com
+<<<<<<< HEAD
 solucoesaco.site
 stirpp.top
 superlative-speculoos-e32359.netlify.app
 sutore.top
 t-t.vn
 tallycustomisationinuae.com
+=======
+soci.vip
+spxkwr-cz.myshopify.com
+stirpp.top
+superlative-speculoos-e32359.netlify.app
+sutore.top
+>>>>>>> a14827cd3b3b2062bb7b158a97c1805e7aaf844f
 taxny.revenue-ref.cc
 travelglobetrotter.com
 trollevent.top
@@ -153,9 +201,14 @@ wesleykenttown.org.au
 wfltoken.live
 wildhorsepass.net
 wirapetroqas.com
+<<<<<<< HEAD
 wppagema.azurewebsites.net
 www-choisir-pickup-fr.com
 www-prioritaire-packet.com
 xpjiaoban.com
 ||ja.cat^
 ||sn-dbs.com^
+=======
+www-prioritaire-packet.com
+||t-t.vn^
+>>>>>>> a14827cd3b3b2062bb7b158a97c1805e7aaf844f
